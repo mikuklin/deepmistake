@@ -1,0 +1,8 @@
+fire
+numpy
+pandas
+scikit_learn
+scipy
+torch
+tqdm
+transformers
