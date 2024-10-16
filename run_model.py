@@ -116,6 +116,9 @@ def predict(
     if compute_metrics:
         mean_non_english = []
         krippendorff_alpha = []
+        accuracy = []
+        class4_accuracy = []
+
         for docId, doc_preds in predictions.items():
             if 'scd' in docId:
                 doc_golds = gold_scores[docId]
@@ -155,6 +158,7 @@ def predict(
                     metrics[f'{docId}.krippendorff_alpha'] = krippendorff.alpha(reliability_data=[doc_golds, doc_scores], level_of_measurement="ordinal")
                     krippendorff_alpha.append(metrics[f'{docId}.krippendorff_alpha'])
                     metrics[f'4class_accuracy.{docId}.score'] = accuracy_score(doc_golds, doc_scores)
+                    class4_accuracy.append(metrics[f'4class_accuracy.{docId}.score'])
                 else:
                     doc_golds = gold_scores[docId]
                     keys = sorted(list(doc_golds.keys()))
@@ -168,6 +172,7 @@ def predict(
                 doc_golds = [doc_golds[key][0] for key in keys]
                 doc_preds = ['F' if 'F' in doc_preds[key] else 'T' for key in keys]
                 metrics[f'accuracy.{docId}.score'] = accuracy_score(doc_golds, doc_preds)
+                accuracy.append(metrics[f'accuracy.{docId}.score'])
             else:
                 doc_golds = golds[docId]
                 keys = list(doc_golds.keys())
@@ -180,6 +185,10 @@ def predict(
             metrics[f'accuracy.{docId.split(".")[0]}.nen-nen.score'] = sum(mean_non_english) / len(mean_non_english)
         if krippendorff_alpha:
             metrics[f'krippendorff_alpha.average.score'] = sum(krippendorff_alpha) / len(krippendorff_alpha)
+        if class4_accuracy:
+            metrics[f'4class_accuracy.average.score'] = sum(class4_accuracy) / len(class4_accuracy)
+        if accuracy:
+            metrics[f'accuracy.average.score'] = sum(accuracy) / len(accuracy)
 
 
         if cur_train_mean_loss is not None:
