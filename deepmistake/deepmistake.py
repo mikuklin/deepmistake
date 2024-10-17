@@ -133,7 +133,7 @@ class DeepMistakeWiC:
         gold_scores = defaultdict(lambda: defaultdict(list))
         lemmas = defaultdict(lambda: defaultdict(list))
 
-        syn_ids_to_label = {0: "F", 1: "T"}
+        syn_ids_to_label = {0: "F", 1: "T", 2: "T", 3: "T"}
         for ex_id, (ex_feature, ex_syn_preds, ex_scores) in enumerate(
             zip(eval_fearures, syns_preds, syns_scores_res)
         ):
@@ -291,8 +291,12 @@ class DeepMistakeWiC:
                     .numpy()
                 )
         syns_scores = np.concatenate(syns_preds, axis=0)  # n_examples x 2 or n_examples
+        print(syns_scores.shape)
+        print(syns_scores)
         if model.local_config["loss"] == "cosine_similarity":
             syns_scores_res = syns_scores
+        if model.local_config["loss"] == "crossentropy_loss_4":
+            syns_scores_res = softmax(syns_scores, axis=-1)
         elif syns_scores.ndim > 1 and syns_scores.shape[-1] > 1:
             syns_scores_res = softmax(syns_scores, axis=-1)[:, -1]
         else:
