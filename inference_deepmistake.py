@@ -33,11 +33,11 @@ def prepare_dataset(input_dir, chkp_dir):
         gold = labels[["tag", "row", "score", "id"]]
         json_data = data.to_json(orient='records', indent=4)
         json_gold = gold.to_json(orient='records', indent=4)
-        if not os.path.exists(f'temp1/{input_dir}/{chkp_dir}'):
-            os.makedirs(f'temp1/{input_dir}/{chkp_dir}')
-        with open(f'temp1/{input_dir}/{chkp_dir}/{language}.data', 'w+') as file:
+        if not os.path.exists(f'temp1/{input_dir}'):
+            os.makedirs(f'temp1/{input_dir}')
+        with open(f'temp1/{input_dir}/{language}.data', 'w+') as file:
              file.write(json_data)
-        with open(f'temp1/{input_dir}/{chkp_dir}/{language}.gold', 'w+') as file:
+        with open(f'temp1/{input_dir}/{language}.gold', 'w+') as file:
              file.write(json_gold)
 
 def calc_threshold(cosine_sim_train, median_cleaned_train, n=3):
@@ -80,15 +80,15 @@ if __name__ == "__main__":
 
     prepare_dataset(parsed_args.input_dir, parsed_args.deepmistake_dir)
     dm_model = DeepMistakeWiC(ckpt_dir = parsed_args.deepmistake_dir, device="cuda:0")
-    dm_model.predict_dataset(f"temp1/{parsed_args.input_dir}/{parsed_args.deepmistake_dir}", ".", f"temp2/{parsed_args.input_dir}/{parsed_args.deepmistake_dir}")
+    dm_model.predict_dataset(f"temp1/{parsed_args.input_dir}", ".", f"temp2/{parsed_args.input_dir}")
     if parsed_args.mode == '2class_treshold':
         prepare_dataset(parsed_args.treshold_dir, parsed_args.deepmistake_dir)
-        dm_model.predict_dataset(f"temp1/{parsed_args.treshold_dir}/{parsed_args.deepmistake_dir}", ".", f"temp2/{parsed_args.treshold_dir}/{parsed_args.deepmistake_dir}")
+        dm_model.predict_dataset(f"temp1/{parsed_args.treshold_dir}", ".", f"temp2/{parsed_args.treshold_dir}")
     
     if parsed_args.mode == '2class':
-        for f in os.listdir(f"temp2/{parsed_args.input_dir}/{parsed_args.deepmistake_dir}"):
+        for f in os.listdir(f"temp2/{parsed_args.input_dir}"):
             if f.split(".")[-1] == "scores":
-                with open(f"temp2/{parsed_args.input_dir}/{parsed_args.deepmistake_dir}/{f}", "r") as json_file:
+                with open(f"temp2/{parsed_args.input_dir}/{f}", "r") as json_file:
                     j = json.load(json_file)
                 df = pd.DataFrame(j)
                 language = df.id[0].split(".")[-2].split("_")[1]
@@ -99,9 +99,9 @@ if __name__ == "__main__":
 
     elif parsed_args.mode == '2class_treshold':
         d = {}
-        for f in os.listdir(f"temp2/{parsed_args.treshold_dir}/{parsed_args.deepmistake_dir}"):
+        for f in os.listdir(f"temp2/{parsed_args.treshold_dir}"):
             if f.split(".")[-1] == "scores":
-                with open(f"temp2/{parsed_args.treshold_dir}/{parsed_args.deepmistake_dir}/{f}", "r") as json_file:
+                with open(f"temp2/{parsed_args.treshold_dir}/{f}", "r") as json_file:
                     j = json.load(json_file)
                 df = pd.DataFrame(j)
                 language = df.id[0].split(".")[-2].split("_")[1]
@@ -114,9 +114,9 @@ if __name__ == "__main__":
         for language in d.keys():
             bins[language] = calc_threshold(d[language].prediction, d[language].median_cleaned)
 
-        for f in os.listdir(f"temp2/{parsed_args.input_dir}/{parsed_args.deepmistake_dir}"):
+        for f in os.listdir(f"temp2/{parsed_args.input_dir}"):
             if f.split(".")[-1] == "scores":
-                with open(f"temp2/{parsed_args.input_dir}/{parsed_args.deepmistake_dir}/{f}", "r") as json_file:
+                with open(f"temp2/{parsed_args.input_dir}/{f}", "r") as json_file:
                     j = json.load(json_file)
                 df = pd.DataFrame(j)
                 language = df.id[0].split(".")[-2].split("_")[1]
@@ -126,9 +126,9 @@ if __name__ == "__main__":
                 labels.to_csv(f"{parsed_args.input_dir}/res/{language}.tsv", sep="\t", index=False)
 
     elif parsed_args.mode == '4class':
-        for f in os.listdir(f"temp2/{parsed_args.input_dir}/{parsed_args.deepmistake_dir}"):
+        for f in os.listdir(f"temp2/{parsed_args.input_dir}"):
             if f.split(".")[-1] == "scores":
-                with open(f"temp2/{parsed_args.input_dir}/{parsed_args.deepmistake_dir}/{f}", "r") as json_file:
+                with open(f"temp2/{parsed_args.input_dir}/{f}", "r") as json_file:
                     j = json.load(json_file)
                 df = pd.DataFrame(j)
                 language = df.id[0].split(".")[-2].split("_")[1]
