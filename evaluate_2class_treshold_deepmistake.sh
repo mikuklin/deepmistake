@@ -1,3 +1,4 @@
+#!/bin/bash
 ckpt_path=$1
 dir=$2
 theshold=$3
