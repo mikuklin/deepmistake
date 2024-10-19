@@ -1,3 +1,4 @@
+#!/bin/sh
 grad_acc_steps=4
 train_epochs=50
 ft_epochs=50
