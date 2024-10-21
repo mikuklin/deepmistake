@@ -7,13 +7,21 @@ import scipy
 import krippendorff
 from deepmistake import DeepMistakeWiC
 
-def prepare_dataset(input_dir, chkp_dir):
+def prepare_dataset(input_dir, is_test=False):
     for language in os.listdir(f"{input_dir}/ref"):
-        labels = pd.read_csv(f"{input_dir}/ref/{language}/labels.tsv", sep='\t', encoding='utf-8', quoting=0, quotechar='"')
+        instances = pd.read_csv(f"{input_dir}/ref/{language}/instances.tsv", sep='\t', encoding='utf-8', quoting=0, quotechar='"')
         uses = pd.read_csv(f"{input_dir}/ref/{language}/uses.tsv", sep='\t', encoding='utf-8', quoting=0, quotechar='"')
+        instances = instances.merge(uses.drop(columns=["lemma"]), left_on="identifier1", right_on="identifier").drop(columns=["identifier"])
+        instances = instances.merge(uses.drop(columns=["lemma"]), left_on="identifier2", right_on="identifier", suffixes=("_1", "_2")).drop(columns=["identifier"])
+        if is_test:
+            labels = instances
+            labels["median_cleaned"] = 1
+            labels["judgments"] = 1
+        else:
+            labels = pd.read_csv(f"{input_dir}/ref/{language}/labels.tsv", sep='\t', encoding='utf-8', quoting=0, quotechar='"')
+            labels = labels.merge(uses.drop(columns=["lemma"]), left_on="identifier1", right_on="identifier").drop(columns=["identifier"])
+            labels = labels.merge(uses.drop(columns=["lemma"]), left_on="identifier2", right_on="identifier", suffixes=("_1", "_2")).drop(columns=["identifier"])
 
-        labels = labels.merge(uses.drop(columns=["lemma"]), left_on="identifier1", right_on="identifier").drop(columns=["identifier"])
-        labels = labels.merge(uses.drop(columns=["lemma"]), left_on="identifier2", right_on="identifier", suffixes=("_1", "_2")).drop(columns=["identifier"])
 
         labels["score"] = labels["median_cleaned"]
         labels["sentence1"] = labels["context_1"]
@@ -78,12 +86,12 @@ if __name__ == "__main__":
     
     parsed_args = parser.parse_args()
 
-    prepare_dataset(parsed_args.input_dir, parsed_args.deepmistake_dir)
+    prepare_dataset(parsed_args.input_dir, True)
     dm_model = DeepMistakeWiC(ckpt_dir = parsed_args.deepmistake_dir, device="cuda:0")
     print(f"{parsed_args.input_dir}")
     dm_model.predict_dataset(f"{parsed_args.input_dir}/temp1", ".", f"{parsed_args.input_dir}/temp2")
     if parsed_args.mode == '2class_treshold':
-        prepare_dataset(parsed_args.treshold_dir, parsed_args.deepmistake_dir)
+        prepare_dataset(parsed_args.treshold_dir)
         dm_model.predict_dataset(f"{parsed_args.treshold_dir}/temp1", ".", f"{parsed_args.treshold_dir}/temp2")
     
     if parsed_args.mode == '2class':
@@ -93,10 +101,10 @@ if __name__ == "__main__":
                     j = json.load(json_file)
                 df = pd.DataFrame(j)
                 language = df.id[0].split(".")[-2].split("_")[1]
-                labels = pd.read_csv(f"{parsed_args.input_dir}/ref/{language}/labels.tsv", sep='\t', encoding='utf-8', quoting=0, quotechar='"')
+                instances = pd.read_csv(f"{parsed_args.input_dir}/ref/{language}/instances.tsv", sep='\t', encoding='utf-8', quoting=0, quotechar='"')
                 scores = df.score.apply(lambda x: 1 if (float(x[0]) + float(x[1])) / 2 < 0.5 else 4)
-                labels["prediction"] = scores
-                labels.to_csv(f"{parsed_args.input_dir}/res/{language}.tsv", sep="\t", index=False)
+                instances["prediction"] = scores
+                instances.to_csv(f"{parsed_args.input_dir}/res/{language}.tsv", sep="\t", index=False)
 
     elif parsed_args.mode == '2class_treshold':
         d = {}
@@ -121,10 +129,10 @@ if __name__ == "__main__":
                     j = json.load(json_file)
                 df = pd.DataFrame(j)
                 language = df.id[0].split(".")[-2].split("_")[1]
-                labels = pd.read_csv(f"{parsed_args.input_dir}/ref/{language}/labels.tsv", sep='\t', encoding='utf-8', quoting=0, quotechar='"')
+                instances = pd.read_csv(f"{parsed_args.input_dir}/ref/{language}/instances.tsv", sep='\t', encoding='utf-8', quoting=0, quotechar='"')
                 scores = df.score.apply(lambda x: (float(x[0]) + float(x[1])) / 2)
-                labels["prediction"] = pd.cut(scores, bins=bins[language], labels=[1.0, 2.0, 3.0, 4.0])
-                labels.to_csv(f"{parsed_args.input_dir}/res/{language}.tsv", sep="\t", index=False)
+                instances["prediction"] = pd.cut(scores, bins=bins[language], labels=[1.0, 2.0, 3.0, 4.0])
+                instances.to_csv(f"{parsed_args.input_dir}/res/{language}.tsv", sep="\t", index=False)
 
     elif parsed_args.mode == '4class':
         for f in os.listdir(f"{parsed_args.input_dir}/temp2"):
@@ -133,12 +141,12 @@ if __name__ == "__main__":
                     j = json.load(json_file)
                 df = pd.DataFrame(j)
                 language = df.id[0].split(".")[-2].split("_")[1]
-                labels = pd.read_csv(f"{parsed_args.input_dir}/ref/{language}/labels.tsv", sep='\t', encoding='utf-8', quoting=0, quotechar='"')
+                instances = pd.read_csv(f"{parsed_args.input_dir}/ref/{language}/instances.tsv", sep='\t', encoding='utf-8', quoting=0, quotechar='"')
                 def clear(x):
                     return list(filter(lambda x: len(x) > 0, x.replace("[", "").replace("]", "").split(" ")))
                 scores = df.score.apply(lambda x: np.argmax(list(map(float, clear(x[0])))) + 1)
                 a = list(map(float, clear(df.score[0][0])))
                 print(a, np.argmax(a))
                 print(scores.value_counts())
-                labels["prediction"] = scores
-                labels.to_csv(f"{parsed_args.input_dir}/res/{language}.tsv", sep="\t", index=False)    
+                instances["prediction"] = scores
+                instances.to_csv(f"{parsed_args.input_dir}/res/{language}.tsv", sep="\t", index=False)    
