@@ -181,9 +181,9 @@ class XLMRModel(BertPreTrainedModel):
                 lossfn = MSELoss() if self.local_config['loss'] == 'mse_loss' else MSEPlusLoss()
                 loss['total'] = lossfn(syn_logits, syn_labels.unsqueeze(-1).float())
             elif self.local_config['loss'] == 'crossentropy_loss':
-                loss['total'] = CrossEntropyLoss()(syn_logits, syn_labels)
+                loss['total'] = CrossEntropyLoss(label_smoothing=float(self.local_config['label_smoothing'])(syn_logits, syn_labels))
             elif self.local_config['loss'] == 'crossentropy_loss_4':
-                loss['total'] = CrossEntropyLoss()(syn_logits, syn_labels.type(torch.int64))
+                loss['total'] = CrossEntropyLoss(label_smoothing=float(self.local_config['label_smoothing']))(syn_logits, syn_labels.type(torch.int64))
             else:
                 loss['total'] = CosineEmbeddingLoss()(syn_logits[0], syn_logits[1], syn_labels * 2 - 1)
 

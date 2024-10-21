@@ -277,6 +277,8 @@ def freeze(model, trainable_params, epoch):
 def main(args):
     local_config = json.load(open(args.local_config_path))
     local_config['loss'] = args.loss
+    local_config['label_smoothing'] = args.label_smoothing
+    
     local_config['data_dir'] = args.data_dir
     local_config['train_batch_size'] = args.train_batch_size
     local_config['gradient_accumulation_steps'] = args.gradient_accumulation_steps
@@ -754,6 +756,8 @@ if __name__ == "__main__":
                         help="compute metrics for train set too")
     parser.add_argument("--loss", type=str, default='crossentropy_loss',
                         choices=['crossentropy_loss', 'mse_loss', 'cosine_similarity', 'mseplus_loss', 'crossentropy_loss_4'])
+    parser.add_argument("--label_smoothing", default=0.0, type=float,
+                        help="label smoothing in the CE loss, 0.0 means no smoothing")
     parser.add_argument("--lr_scheduler", type=str, default='linear_warmup',
                         choices=['constant_warmup', 'linear_warmup'])
     parser.add_argument("--model_name", type=str, default='xlm-roberta-large',
