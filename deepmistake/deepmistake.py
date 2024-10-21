@@ -295,7 +295,7 @@ class DeepMistakeWiC:
         print(syns_scores)
         if model.local_config["loss"] == "cosine_similarity":
             syns_scores_res = syns_scores
-        if model.local_config["loss"] == "crossentropy_loss_4":
+        if model.local_config["loss"] == "crossentropy_loss_4" or model.local_config["loss"] == "kl_divergence_loss":
             syns_scores_res = softmax(syns_scores, axis=-1)
         elif syns_scores.ndim > 1 and syns_scores.shape[-1] > 1:
             syns_scores_res = softmax(syns_scores, axis=-1)[:, -1]

@@ -89,7 +89,7 @@ def predict(
         docId = example.docId
         posInDoc = int(docId.split('.')[-1])
         docId = '.'.join(docId.split('.')[:-1])
-        if args.loss == 'crossentropy_loss_4':
+        if args.loss == 'crossentropy_loss_4' or args.loss == 'kl_divergence_loss':
             syn_pred = syn_ids_to_label_4[ex_syn_preds.item()]
         else:
             syn_pred = syn_ids_to_label[ex_syn_preds.item()]
@@ -154,6 +154,22 @@ def predict(
                     doc_scores = scores[docId]
                     keys = sorted(list(doc_golds.keys()))
                     doc_golds = [doc_golds[key][0] for key in keys]
+                    doc_scores = [doc_scores[key][0].argmax() + 1 for key in keys]
+                    metrics[f'{docId}.krippendorff_alpha'] = krippendorff.alpha(reliability_data=[doc_golds, doc_scores], level_of_measurement="ordinal")
+                    krippendorff_alpha.append(metrics[f'{docId}.krippendorff_alpha'])
+                    metrics[f'4class_accuracy.{docId}.score'] = accuracy_score(doc_golds, doc_scores)
+                    class4_accuracy.append(metrics[f'4class_accuracy.{docId}.score'])
+                elif args.loss == 'kl_divergence_loss':
+                    doc_golds = gold_scores[docId]
+                    doc_scores = scores[docId]
+                    keys = sorted(list(doc_golds.keys()))
+                    def get_median(a):
+                        l = []
+                        for i in range(len(a)):
+                            l.append([i + 1] * a[i])
+                        return np.median(l)
+
+                    doc_golds = [get_median(doc_golds[key][0]) for key in keys]
                     doc_scores = [doc_scores[key][0].argmax() + 1 for key in keys]
                     metrics[f'{docId}.krippendorff_alpha'] = krippendorff.alpha(reliability_data=[doc_golds, doc_scores], level_of_measurement="ordinal")
                     krippendorff_alpha.append(metrics[f'{docId}.krippendorff_alpha'])
@@ -249,6 +265,8 @@ def run_inference(eval_dataloader, model, device, compute_metrics, dump_feature,
         syns_scores_res = syns_scores
     elif model.local_config['loss'] == 'crossentropy_loss_4':
         syns_scores_res = softmax(syns_scores, axis=-1)
+    elif model.local_config['loss'] == 'kl_divergence_loss':
+        syns_scores_res = syns_scores
     elif syns_scores.ndim > 1 and syns_scores.shape[-1] > 1:
         syns_scores_res = softmax(syns_scores, axis=-1)[:,-1]
     else:
@@ -753,7 +771,7 @@ if __name__ == "__main__":
     parser.add_argument("--log_train_metrics", action="store_true",
                         help="compute metrics for train set too")
     parser.add_argument("--loss", type=str, default='crossentropy_loss',
-                        choices=['crossentropy_loss', 'mse_loss', 'cosine_similarity', 'mseplus_loss', 'crossentropy_loss_4'])
+                        choices=['crossentropy_loss', 'mse_loss', 'cosine_similarity', 'mseplus_loss', 'crossentropy_loss_4', 'kl_divergence_loss'])
     parser.add_argument("--lr_scheduler", type=str, default='linear_warmup',
                         choices=['constant_warmup', 'linear_warmup'])
     parser.add_argument("--model_name", type=str, default='xlm-roberta-large',

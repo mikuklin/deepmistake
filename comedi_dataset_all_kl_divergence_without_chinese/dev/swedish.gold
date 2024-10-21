@@ -1,0 +1,5228 @@
+[
+    {
+        "tag":"T",
+        "row":0,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.0"
+    },
+    {
+        "tag":"T",
+        "row":1,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.1"
+    },
+    {
+        "tag":"T",
+        "row":2,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.2"
+    },
+    {
+        "tag":"T",
+        "row":3,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.3"
+    },
+    {
+        "tag":"T",
+        "row":4,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.4"
+    },
+    {
+        "tag":"T",
+        "row":5,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.5"
+    },
+    {
+        "tag":"T",
+        "row":6,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.6"
+    },
+    {
+        "tag":"T",
+        "row":7,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.7"
+    },
+    {
+        "tag":"T",
+        "row":8,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.8"
+    },
+    {
+        "tag":"T",
+        "row":9,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.9"
+    },
+    {
+        "tag":"T",
+        "row":10,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.10"
+    },
+    {
+        "tag":"T",
+        "row":11,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.11"
+    },
+    {
+        "tag":"T",
+        "row":12,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.12"
+    },
+    {
+        "tag":"T",
+        "row":13,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.13"
+    },
+    {
+        "tag":"T",
+        "row":14,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.14"
+    },
+    {
+        "tag":"T",
+        "row":15,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.15"
+    },
+    {
+        "tag":"T",
+        "row":16,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.16"
+    },
+    {
+        "tag":"T",
+        "row":17,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.17"
+    },
+    {
+        "tag":"T",
+        "row":18,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.18"
+    },
+    {
+        "tag":"T",
+        "row":19,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.19"
+    },
+    {
+        "tag":"T",
+        "row":20,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.20"
+    },
+    {
+        "tag":"T",
+        "row":21,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.21"
+    },
+    {
+        "tag":"T",
+        "row":22,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.22"
+    },
+    {
+        "tag":"T",
+        "row":23,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.23"
+    },
+    {
+        "tag":"T",
+        "row":24,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_swedish.24"
+    },
+    {
+        "tag":"T",
+        "row":25,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.25"
+    },
+    {
+        "tag":"T",
+        "row":26,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.26"
+    },
+    {
+        "tag":"T",
+        "row":27,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.27"
+    },
+    {
+        "tag":"T",
+        "row":28,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.28"
+    },
+    {
+        "tag":"T",
+        "row":29,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.29"
+    },
+    {
+        "tag":"T",
+        "row":30,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.30"
+    },
+    {
+        "tag":"T",
+        "row":31,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.31"
+    },
+    {
+        "tag":"T",
+        "row":32,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.32"
+    },
+    {
+        "tag":"T",
+        "row":33,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.33"
+    },
+    {
+        "tag":"T",
+        "row":34,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.34"
+    },
+    {
+        "tag":"T",
+        "row":35,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.35"
+    },
+    {
+        "tag":"T",
+        "row":36,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.36"
+    },
+    {
+        "tag":"T",
+        "row":37,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.37"
+    },
+    {
+        "tag":"T",
+        "row":38,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.38"
+    },
+    {
+        "tag":"T",
+        "row":39,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.39"
+    },
+    {
+        "tag":"T",
+        "row":40,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.40"
+    },
+    {
+        "tag":"T",
+        "row":41,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.41"
+    },
+    {
+        "tag":"T",
+        "row":42,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.42"
+    },
+    {
+        "tag":"T",
+        "row":43,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.43"
+    },
+    {
+        "tag":"T",
+        "row":44,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.44"
+    },
+    {
+        "tag":"T",
+        "row":45,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.45"
+    },
+    {
+        "tag":"T",
+        "row":46,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.46"
+    },
+    {
+        "tag":"T",
+        "row":47,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.47"
+    },
+    {
+        "tag":"T",
+        "row":48,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.48"
+    },
+    {
+        "tag":"T",
+        "row":49,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.49"
+    },
+    {
+        "tag":"T",
+        "row":50,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.50"
+    },
+    {
+        "tag":"T",
+        "row":51,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.51"
+    },
+    {
+        "tag":"T",
+        "row":52,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.52"
+    },
+    {
+        "tag":"T",
+        "row":53,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.53"
+    },
+    {
+        "tag":"T",
+        "row":54,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.54"
+    },
+    {
+        "tag":"T",
+        "row":55,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.55"
+    },
+    {
+        "tag":"T",
+        "row":56,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.56"
+    },
+    {
+        "tag":"T",
+        "row":57,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.57"
+    },
+    {
+        "tag":"T",
+        "row":58,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.58"
+    },
+    {
+        "tag":"T",
+        "row":59,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.59"
+    },
+    {
+        "tag":"T",
+        "row":60,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.60"
+    },
+    {
+        "tag":"T",
+        "row":61,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.61"
+    },
+    {
+        "tag":"T",
+        "row":62,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.62"
+    },
+    {
+        "tag":"T",
+        "row":63,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.63"
+    },
+    {
+        "tag":"T",
+        "row":64,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.64"
+    },
+    {
+        "tag":"T",
+        "row":65,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.65"
+    },
+    {
+        "tag":"T",
+        "row":66,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.66"
+    },
+    {
+        "tag":"T",
+        "row":67,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.67"
+    },
+    {
+        "tag":"T",
+        "row":68,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.68"
+    },
+    {
+        "tag":"T",
+        "row":69,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.69"
+    },
+    {
+        "tag":"T",
+        "row":70,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.70"
+    },
+    {
+        "tag":"T",
+        "row":71,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.71"
+    },
+    {
+        "tag":"T",
+        "row":72,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.72"
+    },
+    {
+        "tag":"T",
+        "row":73,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.73"
+    },
+    {
+        "tag":"T",
+        "row":74,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_swedish.74"
+    },
+    {
+        "tag":"T",
+        "row":75,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.75"
+    },
+    {
+        "tag":"T",
+        "row":76,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.76"
+    },
+    {
+        "tag":"T",
+        "row":77,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.77"
+    },
+    {
+        "tag":"T",
+        "row":78,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.78"
+    },
+    {
+        "tag":"T",
+        "row":79,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.79"
+    },
+    {
+        "tag":"T",
+        "row":80,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.80"
+    },
+    {
+        "tag":"T",
+        "row":81,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.81"
+    },
+    {
+        "tag":"T",
+        "row":82,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.82"
+    },
+    {
+        "tag":"T",
+        "row":83,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.83"
+    },
+    {
+        "tag":"T",
+        "row":84,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.84"
+    },
+    {
+        "tag":"T",
+        "row":85,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.85"
+    },
+    {
+        "tag":"T",
+        "row":86,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_swedish.86"
+    },
+    {
+        "tag":"T",
+        "row":87,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.87"
+    },
+    {
+        "tag":"T",
+        "row":88,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.88"
+    },
+    {
+        "tag":"T",
+        "row":89,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_swedish.89"
+    },
+    {
+        "tag":"T",
+        "row":90,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.90"
+    },
+    {
+        "tag":"T",
+        "row":91,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_swedish.91"
+    },
+    {
+        "tag":"T",
+        "row":92,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.92"
+    },
+    {
+        "tag":"T",
+        "row":93,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.93"
+    },
+    {
+        "tag":"T",
+        "row":94,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_swedish.94"
+    },
+    {
+        "tag":"T",
+        "row":95,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.95"
+    },
+    {
+        "tag":"T",
+        "row":96,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.96"
+    },
+    {
+        "tag":"T",
+        "row":97,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.97"
+    },
+    {
+        "tag":"T",
+        "row":98,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.98"
+    },
+    {
+        "tag":"T",
+        "row":99,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.99"
+    },
+    {
+        "tag":"T",
+        "row":100,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.100"
+    },
+    {
+        "tag":"T",
+        "row":101,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.101"
+    },
+    {
+        "tag":"T",
+        "row":102,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.102"
+    },
+    {
+        "tag":"T",
+        "row":103,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.103"
+    },
+    {
+        "tag":"T",
+        "row":104,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.104"
+    },
+    {
+        "tag":"T",
+        "row":105,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.105"
+    },
+    {
+        "tag":"T",
+        "row":106,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.106"
+    },
+    {
+        "tag":"T",
+        "row":107,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.107"
+    },
+    {
+        "tag":"T",
+        "row":108,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.108"
+    },
+    {
+        "tag":"T",
+        "row":109,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.109"
+    },
+    {
+        "tag":"T",
+        "row":110,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.110"
+    },
+    {
+        "tag":"T",
+        "row":111,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.111"
+    },
+    {
+        "tag":"T",
+        "row":112,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.112"
+    },
+    {
+        "tag":"T",
+        "row":113,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.113"
+    },
+    {
+        "tag":"T",
+        "row":114,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.114"
+    },
+    {
+        "tag":"T",
+        "row":115,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.115"
+    },
+    {
+        "tag":"T",
+        "row":116,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.116"
+    },
+    {
+        "tag":"T",
+        "row":117,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.117"
+    },
+    {
+        "tag":"T",
+        "row":118,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.118"
+    },
+    {
+        "tag":"T",
+        "row":119,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.119"
+    },
+    {
+        "tag":"T",
+        "row":120,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.120"
+    },
+    {
+        "tag":"T",
+        "row":121,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.121"
+    },
+    {
+        "tag":"T",
+        "row":122,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.122"
+    },
+    {
+        "tag":"T",
+        "row":123,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.123"
+    },
+    {
+        "tag":"T",
+        "row":124,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.124"
+    },
+    {
+        "tag":"T",
+        "row":125,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.125"
+    },
+    {
+        "tag":"T",
+        "row":126,
+        "score":"[4, 4, 4, 4]",
+        "id":"dev.comedi_swedish.126"
+    },
+    {
+        "tag":"T",
+        "row":127,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.127"
+    },
+    {
+        "tag":"T",
+        "row":128,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.128"
+    },
+    {
+        "tag":"T",
+        "row":129,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.129"
+    },
+    {
+        "tag":"T",
+        "row":130,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.130"
+    },
+    {
+        "tag":"T",
+        "row":131,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.131"
+    },
+    {
+        "tag":"T",
+        "row":132,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.132"
+    },
+    {
+        "tag":"T",
+        "row":133,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.133"
+    },
+    {
+        "tag":"T",
+        "row":134,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.134"
+    },
+    {
+        "tag":"T",
+        "row":135,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.135"
+    },
+    {
+        "tag":"T",
+        "row":136,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.136"
+    },
+    {
+        "tag":"T",
+        "row":137,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.137"
+    },
+    {
+        "tag":"T",
+        "row":138,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.138"
+    },
+    {
+        "tag":"T",
+        "row":139,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.139"
+    },
+    {
+        "tag":"T",
+        "row":140,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_swedish.140"
+    },
+    {
+        "tag":"T",
+        "row":141,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.141"
+    },
+    {
+        "tag":"T",
+        "row":142,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_swedish.142"
+    },
+    {
+        "tag":"T",
+        "row":143,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.143"
+    },
+    {
+        "tag":"T",
+        "row":144,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.144"
+    },
+    {
+        "tag":"T",
+        "row":145,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_swedish.145"
+    },
+    {
+        "tag":"T",
+        "row":146,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.146"
+    },
+    {
+        "tag":"T",
+        "row":147,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.147"
+    },
+    {
+        "tag":"T",
+        "row":148,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.148"
+    },
+    {
+        "tag":"T",
+        "row":149,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.149"
+    },
+    {
+        "tag":"T",
+        "row":150,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.150"
+    },
+    {
+        "tag":"T",
+        "row":151,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.151"
+    },
+    {
+        "tag":"T",
+        "row":152,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.152"
+    },
+    {
+        "tag":"T",
+        "row":153,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.153"
+    },
+    {
+        "tag":"T",
+        "row":154,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.154"
+    },
+    {
+        "tag":"T",
+        "row":155,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.155"
+    },
+    {
+        "tag":"T",
+        "row":156,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.156"
+    },
+    {
+        "tag":"T",
+        "row":157,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.157"
+    },
+    {
+        "tag":"T",
+        "row":158,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.158"
+    },
+    {
+        "tag":"T",
+        "row":159,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.159"
+    },
+    {
+        "tag":"T",
+        "row":160,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.160"
+    },
+    {
+        "tag":"T",
+        "row":161,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.161"
+    },
+    {
+        "tag":"T",
+        "row":162,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.162"
+    },
+    {
+        "tag":"T",
+        "row":163,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.163"
+    },
+    {
+        "tag":"T",
+        "row":164,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.164"
+    },
+    {
+        "tag":"T",
+        "row":165,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.165"
+    },
+    {
+        "tag":"T",
+        "row":166,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.166"
+    },
+    {
+        "tag":"T",
+        "row":167,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.167"
+    },
+    {
+        "tag":"T",
+        "row":168,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.168"
+    },
+    {
+        "tag":"T",
+        "row":169,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.169"
+    },
+    {
+        "tag":"T",
+        "row":170,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.170"
+    },
+    {
+        "tag":"T",
+        "row":171,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.171"
+    },
+    {
+        "tag":"T",
+        "row":172,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.172"
+    },
+    {
+        "tag":"T",
+        "row":173,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.173"
+    },
+    {
+        "tag":"T",
+        "row":174,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.174"
+    },
+    {
+        "tag":"T",
+        "row":175,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.175"
+    },
+    {
+        "tag":"T",
+        "row":176,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.176"
+    },
+    {
+        "tag":"T",
+        "row":177,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.177"
+    },
+    {
+        "tag":"T",
+        "row":178,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.178"
+    },
+    {
+        "tag":"T",
+        "row":179,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.179"
+    },
+    {
+        "tag":"T",
+        "row":180,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.180"
+    },
+    {
+        "tag":"T",
+        "row":181,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.181"
+    },
+    {
+        "tag":"T",
+        "row":182,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.182"
+    },
+    {
+        "tag":"T",
+        "row":183,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.183"
+    },
+    {
+        "tag":"T",
+        "row":184,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.184"
+    },
+    {
+        "tag":"T",
+        "row":185,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.185"
+    },
+    {
+        "tag":"T",
+        "row":186,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.186"
+    },
+    {
+        "tag":"T",
+        "row":187,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.187"
+    },
+    {
+        "tag":"T",
+        "row":188,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.188"
+    },
+    {
+        "tag":"T",
+        "row":189,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.189"
+    },
+    {
+        "tag":"T",
+        "row":190,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.190"
+    },
+    {
+        "tag":"T",
+        "row":191,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.191"
+    },
+    {
+        "tag":"T",
+        "row":192,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.192"
+    },
+    {
+        "tag":"T",
+        "row":193,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.193"
+    },
+    {
+        "tag":"T",
+        "row":194,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.194"
+    },
+    {
+        "tag":"T",
+        "row":195,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.195"
+    },
+    {
+        "tag":"T",
+        "row":196,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.196"
+    },
+    {
+        "tag":"T",
+        "row":197,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.197"
+    },
+    {
+        "tag":"T",
+        "row":198,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.198"
+    },
+    {
+        "tag":"T",
+        "row":199,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.199"
+    },
+    {
+        "tag":"T",
+        "row":200,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.200"
+    },
+    {
+        "tag":"T",
+        "row":201,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.201"
+    },
+    {
+        "tag":"T",
+        "row":202,
+        "score":"[4, 4, 4, 3]",
+        "id":"dev.comedi_swedish.202"
+    },
+    {
+        "tag":"T",
+        "row":203,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.203"
+    },
+    {
+        "tag":"T",
+        "row":204,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.204"
+    },
+    {
+        "tag":"T",
+        "row":205,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.205"
+    },
+    {
+        "tag":"T",
+        "row":206,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.206"
+    },
+    {
+        "tag":"T",
+        "row":207,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_swedish.207"
+    },
+    {
+        "tag":"T",
+        "row":208,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.208"
+    },
+    {
+        "tag":"T",
+        "row":209,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.209"
+    },
+    {
+        "tag":"T",
+        "row":210,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.210"
+    },
+    {
+        "tag":"T",
+        "row":211,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.211"
+    },
+    {
+        "tag":"T",
+        "row":212,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.212"
+    },
+    {
+        "tag":"T",
+        "row":213,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.213"
+    },
+    {
+        "tag":"T",
+        "row":214,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_swedish.214"
+    },
+    {
+        "tag":"T",
+        "row":215,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.215"
+    },
+    {
+        "tag":"T",
+        "row":216,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.216"
+    },
+    {
+        "tag":"T",
+        "row":217,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.217"
+    },
+    {
+        "tag":"T",
+        "row":218,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.218"
+    },
+    {
+        "tag":"T",
+        "row":219,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.219"
+    },
+    {
+        "tag":"T",
+        "row":220,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.220"
+    },
+    {
+        "tag":"T",
+        "row":221,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.221"
+    },
+    {
+        "tag":"T",
+        "row":222,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.222"
+    },
+    {
+        "tag":"T",
+        "row":223,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.223"
+    },
+    {
+        "tag":"T",
+        "row":224,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.224"
+    },
+    {
+        "tag":"T",
+        "row":225,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.225"
+    },
+    {
+        "tag":"T",
+        "row":226,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.226"
+    },
+    {
+        "tag":"T",
+        "row":227,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.227"
+    },
+    {
+        "tag":"T",
+        "row":228,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.228"
+    },
+    {
+        "tag":"T",
+        "row":229,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.229"
+    },
+    {
+        "tag":"T",
+        "row":230,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.230"
+    },
+    {
+        "tag":"T",
+        "row":231,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.231"
+    },
+    {
+        "tag":"T",
+        "row":232,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.232"
+    },
+    {
+        "tag":"T",
+        "row":233,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.233"
+    },
+    {
+        "tag":"T",
+        "row":234,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.234"
+    },
+    {
+        "tag":"T",
+        "row":235,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.235"
+    },
+    {
+        "tag":"T",
+        "row":236,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.236"
+    },
+    {
+        "tag":"T",
+        "row":237,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.237"
+    },
+    {
+        "tag":"T",
+        "row":238,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.238"
+    },
+    {
+        "tag":"T",
+        "row":239,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.239"
+    },
+    {
+        "tag":"T",
+        "row":240,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.240"
+    },
+    {
+        "tag":"T",
+        "row":241,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.241"
+    },
+    {
+        "tag":"T",
+        "row":242,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_swedish.242"
+    },
+    {
+        "tag":"T",
+        "row":243,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.243"
+    },
+    {
+        "tag":"T",
+        "row":244,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.244"
+    },
+    {
+        "tag":"T",
+        "row":245,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.245"
+    },
+    {
+        "tag":"T",
+        "row":246,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.246"
+    },
+    {
+        "tag":"T",
+        "row":247,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.247"
+    },
+    {
+        "tag":"T",
+        "row":248,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.248"
+    },
+    {
+        "tag":"T",
+        "row":249,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_swedish.249"
+    },
+    {
+        "tag":"T",
+        "row":250,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.250"
+    },
+    {
+        "tag":"T",
+        "row":251,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.251"
+    },
+    {
+        "tag":"T",
+        "row":252,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.252"
+    },
+    {
+        "tag":"T",
+        "row":253,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.253"
+    },
+    {
+        "tag":"T",
+        "row":254,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.254"
+    },
+    {
+        "tag":"T",
+        "row":255,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.255"
+    },
+    {
+        "tag":"T",
+        "row":256,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.256"
+    },
+    {
+        "tag":"T",
+        "row":257,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.257"
+    },
+    {
+        "tag":"T",
+        "row":258,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.258"
+    },
+    {
+        "tag":"T",
+        "row":259,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.259"
+    },
+    {
+        "tag":"T",
+        "row":260,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.260"
+    },
+    {
+        "tag":"T",
+        "row":261,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.261"
+    },
+    {
+        "tag":"T",
+        "row":262,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.262"
+    },
+    {
+        "tag":"T",
+        "row":263,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.263"
+    },
+    {
+        "tag":"T",
+        "row":264,
+        "score":"[3, 2, 3]",
+        "id":"dev.comedi_swedish.264"
+    },
+    {
+        "tag":"T",
+        "row":265,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.265"
+    },
+    {
+        "tag":"T",
+        "row":266,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.266"
+    },
+    {
+        "tag":"T",
+        "row":267,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.267"
+    },
+    {
+        "tag":"T",
+        "row":268,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.268"
+    },
+    {
+        "tag":"T",
+        "row":269,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.269"
+    },
+    {
+        "tag":"T",
+        "row":270,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.270"
+    },
+    {
+        "tag":"T",
+        "row":271,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.271"
+    },
+    {
+        "tag":"T",
+        "row":272,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.272"
+    },
+    {
+        "tag":"T",
+        "row":273,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.273"
+    },
+    {
+        "tag":"T",
+        "row":274,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.274"
+    },
+    {
+        "tag":"T",
+        "row":275,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.275"
+    },
+    {
+        "tag":"T",
+        "row":276,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.276"
+    },
+    {
+        "tag":"T",
+        "row":277,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.277"
+    },
+    {
+        "tag":"T",
+        "row":278,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.278"
+    },
+    {
+        "tag":"T",
+        "row":279,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.279"
+    },
+    {
+        "tag":"T",
+        "row":280,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.280"
+    },
+    {
+        "tag":"T",
+        "row":281,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.281"
+    },
+    {
+        "tag":"T",
+        "row":282,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.282"
+    },
+    {
+        "tag":"T",
+        "row":283,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.283"
+    },
+    {
+        "tag":"T",
+        "row":284,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.284"
+    },
+    {
+        "tag":"T",
+        "row":285,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.285"
+    },
+    {
+        "tag":"T",
+        "row":286,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.286"
+    },
+    {
+        "tag":"T",
+        "row":287,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.287"
+    },
+    {
+        "tag":"T",
+        "row":288,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.288"
+    },
+    {
+        "tag":"T",
+        "row":289,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.289"
+    },
+    {
+        "tag":"T",
+        "row":290,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.290"
+    },
+    {
+        "tag":"T",
+        "row":291,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.291"
+    },
+    {
+        "tag":"T",
+        "row":292,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.292"
+    },
+    {
+        "tag":"T",
+        "row":293,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.293"
+    },
+    {
+        "tag":"T",
+        "row":294,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.294"
+    },
+    {
+        "tag":"T",
+        "row":295,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.295"
+    },
+    {
+        "tag":"T",
+        "row":296,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.296"
+    },
+    {
+        "tag":"T",
+        "row":297,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.297"
+    },
+    {
+        "tag":"T",
+        "row":298,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.298"
+    },
+    {
+        "tag":"T",
+        "row":299,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.299"
+    },
+    {
+        "tag":"T",
+        "row":300,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.300"
+    },
+    {
+        "tag":"T",
+        "row":301,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.301"
+    },
+    {
+        "tag":"T",
+        "row":302,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.302"
+    },
+    {
+        "tag":"T",
+        "row":303,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.303"
+    },
+    {
+        "tag":"T",
+        "row":304,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.304"
+    },
+    {
+        "tag":"T",
+        "row":305,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.305"
+    },
+    {
+        "tag":"T",
+        "row":306,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.306"
+    },
+    {
+        "tag":"T",
+        "row":307,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.307"
+    },
+    {
+        "tag":"T",
+        "row":308,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.308"
+    },
+    {
+        "tag":"T",
+        "row":309,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.309"
+    },
+    {
+        "tag":"T",
+        "row":310,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.310"
+    },
+    {
+        "tag":"T",
+        "row":311,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.311"
+    },
+    {
+        "tag":"T",
+        "row":312,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.312"
+    },
+    {
+        "tag":"T",
+        "row":313,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.313"
+    },
+    {
+        "tag":"T",
+        "row":314,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.314"
+    },
+    {
+        "tag":"T",
+        "row":315,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.315"
+    },
+    {
+        "tag":"T",
+        "row":316,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.316"
+    },
+    {
+        "tag":"T",
+        "row":317,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.317"
+    },
+    {
+        "tag":"T",
+        "row":318,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.318"
+    },
+    {
+        "tag":"T",
+        "row":319,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.319"
+    },
+    {
+        "tag":"T",
+        "row":320,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.320"
+    },
+    {
+        "tag":"T",
+        "row":321,
+        "score":"[4, 4, 4, 4]",
+        "id":"dev.comedi_swedish.321"
+    },
+    {
+        "tag":"T",
+        "row":322,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.322"
+    },
+    {
+        "tag":"T",
+        "row":323,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.323"
+    },
+    {
+        "tag":"T",
+        "row":324,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.324"
+    },
+    {
+        "tag":"T",
+        "row":325,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.325"
+    },
+    {
+        "tag":"T",
+        "row":326,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.326"
+    },
+    {
+        "tag":"T",
+        "row":327,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.327"
+    },
+    {
+        "tag":"T",
+        "row":328,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.328"
+    },
+    {
+        "tag":"T",
+        "row":329,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.329"
+    },
+    {
+        "tag":"T",
+        "row":330,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_swedish.330"
+    },
+    {
+        "tag":"T",
+        "row":331,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.331"
+    },
+    {
+        "tag":"T",
+        "row":332,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_swedish.332"
+    },
+    {
+        "tag":"T",
+        "row":333,
+        "score":"[4, 4, 4, 4]",
+        "id":"dev.comedi_swedish.333"
+    },
+    {
+        "tag":"T",
+        "row":334,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.334"
+    },
+    {
+        "tag":"T",
+        "row":335,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_swedish.335"
+    },
+    {
+        "tag":"T",
+        "row":336,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.336"
+    },
+    {
+        "tag":"T",
+        "row":337,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.337"
+    },
+    {
+        "tag":"T",
+        "row":338,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.338"
+    },
+    {
+        "tag":"T",
+        "row":339,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.339"
+    },
+    {
+        "tag":"T",
+        "row":340,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.340"
+    },
+    {
+        "tag":"T",
+        "row":341,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.341"
+    },
+    {
+        "tag":"T",
+        "row":342,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.342"
+    },
+    {
+        "tag":"T",
+        "row":343,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.343"
+    },
+    {
+        "tag":"T",
+        "row":344,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.344"
+    },
+    {
+        "tag":"T",
+        "row":345,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.345"
+    },
+    {
+        "tag":"T",
+        "row":346,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.346"
+    },
+    {
+        "tag":"T",
+        "row":347,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.347"
+    },
+    {
+        "tag":"T",
+        "row":348,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.348"
+    },
+    {
+        "tag":"T",
+        "row":349,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.349"
+    },
+    {
+        "tag":"T",
+        "row":350,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.350"
+    },
+    {
+        "tag":"T",
+        "row":351,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.351"
+    },
+    {
+        "tag":"T",
+        "row":352,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.352"
+    },
+    {
+        "tag":"T",
+        "row":353,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.353"
+    },
+    {
+        "tag":"T",
+        "row":354,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.354"
+    },
+    {
+        "tag":"T",
+        "row":355,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.355"
+    },
+    {
+        "tag":"T",
+        "row":356,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.356"
+    },
+    {
+        "tag":"T",
+        "row":357,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.357"
+    },
+    {
+        "tag":"T",
+        "row":358,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.358"
+    },
+    {
+        "tag":"T",
+        "row":359,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.359"
+    },
+    {
+        "tag":"T",
+        "row":360,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.360"
+    },
+    {
+        "tag":"T",
+        "row":361,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.361"
+    },
+    {
+        "tag":"T",
+        "row":362,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.362"
+    },
+    {
+        "tag":"T",
+        "row":363,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.363"
+    },
+    {
+        "tag":"T",
+        "row":364,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.364"
+    },
+    {
+        "tag":"T",
+        "row":365,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.365"
+    },
+    {
+        "tag":"T",
+        "row":366,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.366"
+    },
+    {
+        "tag":"T",
+        "row":367,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.367"
+    },
+    {
+        "tag":"T",
+        "row":368,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.368"
+    },
+    {
+        "tag":"T",
+        "row":369,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.369"
+    },
+    {
+        "tag":"T",
+        "row":370,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.370"
+    },
+    {
+        "tag":"T",
+        "row":371,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.371"
+    },
+    {
+        "tag":"T",
+        "row":372,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.372"
+    },
+    {
+        "tag":"T",
+        "row":373,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.373"
+    },
+    {
+        "tag":"T",
+        "row":374,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.374"
+    },
+    {
+        "tag":"T",
+        "row":375,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.375"
+    },
+    {
+        "tag":"T",
+        "row":376,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.376"
+    },
+    {
+        "tag":"T",
+        "row":377,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.377"
+    },
+    {
+        "tag":"T",
+        "row":378,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.378"
+    },
+    {
+        "tag":"T",
+        "row":379,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.379"
+    },
+    {
+        "tag":"T",
+        "row":380,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.380"
+    },
+    {
+        "tag":"T",
+        "row":381,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.381"
+    },
+    {
+        "tag":"T",
+        "row":382,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.382"
+    },
+    {
+        "tag":"T",
+        "row":383,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.383"
+    },
+    {
+        "tag":"T",
+        "row":384,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.384"
+    },
+    {
+        "tag":"T",
+        "row":385,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.385"
+    },
+    {
+        "tag":"T",
+        "row":386,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.386"
+    },
+    {
+        "tag":"T",
+        "row":387,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.387"
+    },
+    {
+        "tag":"T",
+        "row":388,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.388"
+    },
+    {
+        "tag":"T",
+        "row":389,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.389"
+    },
+    {
+        "tag":"T",
+        "row":390,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.390"
+    },
+    {
+        "tag":"T",
+        "row":391,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.391"
+    },
+    {
+        "tag":"T",
+        "row":392,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.392"
+    },
+    {
+        "tag":"T",
+        "row":393,
+        "score":"[3, 3, 3]",
+        "id":"dev.comedi_swedish.393"
+    },
+    {
+        "tag":"T",
+        "row":394,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.394"
+    },
+    {
+        "tag":"T",
+        "row":395,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.395"
+    },
+    {
+        "tag":"T",
+        "row":396,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.396"
+    },
+    {
+        "tag":"T",
+        "row":397,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.397"
+    },
+    {
+        "tag":"T",
+        "row":398,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.398"
+    },
+    {
+        "tag":"T",
+        "row":399,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.399"
+    },
+    {
+        "tag":"T",
+        "row":400,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.400"
+    },
+    {
+        "tag":"T",
+        "row":401,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.401"
+    },
+    {
+        "tag":"T",
+        "row":402,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.402"
+    },
+    {
+        "tag":"T",
+        "row":403,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.403"
+    },
+    {
+        "tag":"T",
+        "row":404,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.404"
+    },
+    {
+        "tag":"T",
+        "row":405,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.405"
+    },
+    {
+        "tag":"T",
+        "row":406,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.406"
+    },
+    {
+        "tag":"T",
+        "row":407,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.407"
+    },
+    {
+        "tag":"T",
+        "row":408,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.408"
+    },
+    {
+        "tag":"T",
+        "row":409,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.409"
+    },
+    {
+        "tag":"T",
+        "row":410,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.410"
+    },
+    {
+        "tag":"T",
+        "row":411,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.411"
+    },
+    {
+        "tag":"T",
+        "row":412,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.412"
+    },
+    {
+        "tag":"T",
+        "row":413,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.413"
+    },
+    {
+        "tag":"T",
+        "row":414,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.414"
+    },
+    {
+        "tag":"T",
+        "row":415,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.415"
+    },
+    {
+        "tag":"T",
+        "row":416,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.416"
+    },
+    {
+        "tag":"T",
+        "row":417,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.417"
+    },
+    {
+        "tag":"T",
+        "row":418,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.418"
+    },
+    {
+        "tag":"T",
+        "row":419,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.419"
+    },
+    {
+        "tag":"F",
+        "row":420,
+        "score":"[3, 2, 2]",
+        "id":"dev.comedi_swedish.420"
+    },
+    {
+        "tag":"T",
+        "row":421,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.421"
+    },
+    {
+        "tag":"T",
+        "row":422,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.422"
+    },
+    {
+        "tag":"T",
+        "row":423,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.423"
+    },
+    {
+        "tag":"T",
+        "row":424,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.424"
+    },
+    {
+        "tag":"T",
+        "row":425,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.425"
+    },
+    {
+        "tag":"T",
+        "row":426,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.426"
+    },
+    {
+        "tag":"T",
+        "row":427,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.427"
+    },
+    {
+        "tag":"T",
+        "row":428,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.428"
+    },
+    {
+        "tag":"T",
+        "row":429,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.429"
+    },
+    {
+        "tag":"T",
+        "row":430,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.430"
+    },
+    {
+        "tag":"T",
+        "row":431,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.431"
+    },
+    {
+        "tag":"T",
+        "row":432,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.432"
+    },
+    {
+        "tag":"T",
+        "row":433,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.433"
+    },
+    {
+        "tag":"T",
+        "row":434,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.434"
+    },
+    {
+        "tag":"T",
+        "row":435,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.435"
+    },
+    {
+        "tag":"T",
+        "row":436,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.436"
+    },
+    {
+        "tag":"T",
+        "row":437,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.437"
+    },
+    {
+        "tag":"T",
+        "row":438,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.438"
+    },
+    {
+        "tag":"T",
+        "row":439,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.439"
+    },
+    {
+        "tag":"T",
+        "row":440,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.440"
+    },
+    {
+        "tag":"T",
+        "row":441,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.441"
+    },
+    {
+        "tag":"T",
+        "row":442,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.442"
+    },
+    {
+        "tag":"T",
+        "row":443,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.443"
+    },
+    {
+        "tag":"T",
+        "row":444,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.444"
+    },
+    {
+        "tag":"T",
+        "row":445,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.445"
+    },
+    {
+        "tag":"T",
+        "row":446,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.446"
+    },
+    {
+        "tag":"T",
+        "row":447,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.447"
+    },
+    {
+        "tag":"T",
+        "row":448,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.448"
+    },
+    {
+        "tag":"T",
+        "row":449,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.449"
+    },
+    {
+        "tag":"T",
+        "row":450,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.450"
+    },
+    {
+        "tag":"T",
+        "row":451,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.451"
+    },
+    {
+        "tag":"T",
+        "row":452,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.452"
+    },
+    {
+        "tag":"T",
+        "row":453,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.453"
+    },
+    {
+        "tag":"T",
+        "row":454,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.454"
+    },
+    {
+        "tag":"T",
+        "row":455,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.455"
+    },
+    {
+        "tag":"T",
+        "row":456,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.456"
+    },
+    {
+        "tag":"T",
+        "row":457,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.457"
+    },
+    {
+        "tag":"T",
+        "row":458,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.458"
+    },
+    {
+        "tag":"T",
+        "row":459,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.459"
+    },
+    {
+        "tag":"T",
+        "row":460,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.460"
+    },
+    {
+        "tag":"F",
+        "row":461,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.461"
+    },
+    {
+        "tag":"T",
+        "row":462,
+        "score":"[4, 4, 4, 4]",
+        "id":"dev.comedi_swedish.462"
+    },
+    {
+        "tag":"F",
+        "row":463,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.463"
+    },
+    {
+        "tag":"T",
+        "row":464,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.464"
+    },
+    {
+        "tag":"T",
+        "row":465,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.465"
+    },
+    {
+        "tag":"T",
+        "row":466,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.466"
+    },
+    {
+        "tag":"T",
+        "row":467,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.467"
+    },
+    {
+        "tag":"F",
+        "row":468,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.468"
+    },
+    {
+        "tag":"T",
+        "row":469,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.469"
+    },
+    {
+        "tag":"T",
+        "row":470,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_swedish.470"
+    },
+    {
+        "tag":"T",
+        "row":471,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.471"
+    },
+    {
+        "tag":"F",
+        "row":472,
+        "score":"[3, 2, 2]",
+        "id":"dev.comedi_swedish.472"
+    },
+    {
+        "tag":"T",
+        "row":473,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.473"
+    },
+    {
+        "tag":"T",
+        "row":474,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.474"
+    },
+    {
+        "tag":"F",
+        "row":475,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.475"
+    },
+    {
+        "tag":"T",
+        "row":476,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.476"
+    },
+    {
+        "tag":"T",
+        "row":477,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.477"
+    },
+    {
+        "tag":"T",
+        "row":478,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.478"
+    },
+    {
+        "tag":"T",
+        "row":479,
+        "score":"[3, 3, 2]",
+        "id":"dev.comedi_swedish.479"
+    },
+    {
+        "tag":"F",
+        "row":480,
+        "score":"[3, 2, 2]",
+        "id":"dev.comedi_swedish.480"
+    },
+    {
+        "tag":"T",
+        "row":481,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_swedish.481"
+    },
+    {
+        "tag":"T",
+        "row":482,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.482"
+    },
+    {
+        "tag":"T",
+        "row":483,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.483"
+    },
+    {
+        "tag":"F",
+        "row":484,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.484"
+    },
+    {
+        "tag":"F",
+        "row":485,
+        "score":"[1, 2, 2]",
+        "id":"dev.comedi_swedish.485"
+    },
+    {
+        "tag":"F",
+        "row":486,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.486"
+    },
+    {
+        "tag":"T",
+        "row":487,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.487"
+    },
+    {
+        "tag":"T",
+        "row":488,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.488"
+    },
+    {
+        "tag":"T",
+        "row":489,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.489"
+    },
+    {
+        "tag":"T",
+        "row":490,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.490"
+    },
+    {
+        "tag":"T",
+        "row":491,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.491"
+    },
+    {
+        "tag":"F",
+        "row":492,
+        "score":"[1, 2, 2]",
+        "id":"dev.comedi_swedish.492"
+    },
+    {
+        "tag":"T",
+        "row":493,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.493"
+    },
+    {
+        "tag":"T",
+        "row":494,
+        "score":"[4, 4, 4, 4]",
+        "id":"dev.comedi_swedish.494"
+    },
+    {
+        "tag":"F",
+        "row":495,
+        "score":"[1, 2, 2, 2]",
+        "id":"dev.comedi_swedish.495"
+    },
+    {
+        "tag":"T",
+        "row":496,
+        "score":"[3, 3, 3]",
+        "id":"dev.comedi_swedish.496"
+    },
+    {
+        "tag":"T",
+        "row":497,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.497"
+    },
+    {
+        "tag":"F",
+        "row":498,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.498"
+    },
+    {
+        "tag":"F",
+        "row":499,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.499"
+    },
+    {
+        "tag":"T",
+        "row":500,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.500"
+    },
+    {
+        "tag":"T",
+        "row":501,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.501"
+    },
+    {
+        "tag":"F",
+        "row":502,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.502"
+    },
+    {
+        "tag":"T",
+        "row":503,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.503"
+    },
+    {
+        "tag":"F",
+        "row":504,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.504"
+    },
+    {
+        "tag":"F",
+        "row":505,
+        "score":"[2, 2, 3]",
+        "id":"dev.comedi_swedish.505"
+    },
+    {
+        "tag":"F",
+        "row":506,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.506"
+    },
+    {
+        "tag":"T",
+        "row":507,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.507"
+    },
+    {
+        "tag":"T",
+        "row":508,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.508"
+    },
+    {
+        "tag":"T",
+        "row":509,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_swedish.509"
+    },
+    {
+        "tag":"F",
+        "row":510,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.510"
+    },
+    {
+        "tag":"T",
+        "row":511,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.511"
+    },
+    {
+        "tag":"T",
+        "row":512,
+        "score":"[3, 2, 3]",
+        "id":"dev.comedi_swedish.512"
+    },
+    {
+        "tag":"F",
+        "row":513,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.513"
+    },
+    {
+        "tag":"T",
+        "row":514,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.514"
+    },
+    {
+        "tag":"F",
+        "row":515,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.515"
+    },
+    {
+        "tag":"F",
+        "row":516,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.516"
+    },
+    {
+        "tag":"T",
+        "row":517,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.517"
+    },
+    {
+        "tag":"T",
+        "row":518,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.518"
+    },
+    {
+        "tag":"F",
+        "row":519,
+        "score":"[2, 2, 3]",
+        "id":"dev.comedi_swedish.519"
+    },
+    {
+        "tag":"T",
+        "row":520,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.520"
+    },
+    {
+        "tag":"T",
+        "row":521,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.521"
+    },
+    {
+        "tag":"F",
+        "row":522,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.522"
+    },
+    {
+        "tag":"F",
+        "row":523,
+        "score":"[3, 2, 2, 2, 3]",
+        "id":"dev.comedi_swedish.523"
+    },
+    {
+        "tag":"T",
+        "row":524,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.524"
+    },
+    {
+        "tag":"T",
+        "row":525,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.525"
+    },
+    {
+        "tag":"F",
+        "row":526,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.526"
+    },
+    {
+        "tag":"T",
+        "row":527,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.527"
+    },
+    {
+        "tag":"T",
+        "row":528,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.528"
+    },
+    {
+        "tag":"F",
+        "row":529,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.529"
+    },
+    {
+        "tag":"F",
+        "row":530,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.530"
+    },
+    {
+        "tag":"T",
+        "row":531,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.531"
+    },
+    {
+        "tag":"F",
+        "row":532,
+        "score":"[3, 2, 2]",
+        "id":"dev.comedi_swedish.532"
+    },
+    {
+        "tag":"T",
+        "row":533,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.533"
+    },
+    {
+        "tag":"T",
+        "row":534,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_swedish.534"
+    },
+    {
+        "tag":"F",
+        "row":535,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.535"
+    },
+    {
+        "tag":"F",
+        "row":536,
+        "score":"[2, 3, 2]",
+        "id":"dev.comedi_swedish.536"
+    },
+    {
+        "tag":"F",
+        "row":537,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.537"
+    },
+    {
+        "tag":"F",
+        "row":538,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.538"
+    },
+    {
+        "tag":"F",
+        "row":539,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.539"
+    },
+    {
+        "tag":"F",
+        "row":540,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.540"
+    },
+    {
+        "tag":"T",
+        "row":541,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.541"
+    },
+    {
+        "tag":"F",
+        "row":542,
+        "score":"[1, 2, 2]",
+        "id":"dev.comedi_swedish.542"
+    },
+    {
+        "tag":"F",
+        "row":543,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.543"
+    },
+    {
+        "tag":"F",
+        "row":544,
+        "score":"[1, 2, 2]",
+        "id":"dev.comedi_swedish.544"
+    },
+    {
+        "tag":"T",
+        "row":545,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_swedish.545"
+    },
+    {
+        "tag":"F",
+        "row":546,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.546"
+    },
+    {
+        "tag":"T",
+        "row":547,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_swedish.547"
+    },
+    {
+        "tag":"F",
+        "row":548,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.548"
+    },
+    {
+        "tag":"T",
+        "row":549,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.549"
+    },
+    {
+        "tag":"T",
+        "row":550,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.550"
+    },
+    {
+        "tag":"T",
+        "row":551,
+        "score":"[3, 3, 3, 2]",
+        "id":"dev.comedi_swedish.551"
+    },
+    {
+        "tag":"T",
+        "row":552,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.552"
+    },
+    {
+        "tag":"T",
+        "row":553,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.553"
+    },
+    {
+        "tag":"F",
+        "row":554,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.554"
+    },
+    {
+        "tag":"F",
+        "row":555,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.555"
+    },
+    {
+        "tag":"F",
+        "row":556,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.556"
+    },
+    {
+        "tag":"F",
+        "row":557,
+        "score":"[1, 2, 2]",
+        "id":"dev.comedi_swedish.557"
+    },
+    {
+        "tag":"T",
+        "row":558,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.558"
+    },
+    {
+        "tag":"T",
+        "row":559,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.559"
+    },
+    {
+        "tag":"F",
+        "row":560,
+        "score":"[2, 2, 3]",
+        "id":"dev.comedi_swedish.560"
+    },
+    {
+        "tag":"F",
+        "row":561,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.561"
+    },
+    {
+        "tag":"F",
+        "row":562,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.562"
+    },
+    {
+        "tag":"T",
+        "row":563,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.563"
+    },
+    {
+        "tag":"T",
+        "row":564,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.564"
+    },
+    {
+        "tag":"T",
+        "row":565,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.565"
+    },
+    {
+        "tag":"T",
+        "row":566,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.566"
+    },
+    {
+        "tag":"F",
+        "row":567,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.567"
+    },
+    {
+        "tag":"T",
+        "row":568,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.568"
+    },
+    {
+        "tag":"F",
+        "row":569,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.569"
+    },
+    {
+        "tag":"T",
+        "row":570,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.570"
+    },
+    {
+        "tag":"T",
+        "row":571,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.571"
+    },
+    {
+        "tag":"T",
+        "row":572,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.572"
+    },
+    {
+        "tag":"T",
+        "row":573,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.573"
+    },
+    {
+        "tag":"T",
+        "row":574,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.574"
+    },
+    {
+        "tag":"T",
+        "row":575,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.575"
+    },
+    {
+        "tag":"T",
+        "row":576,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.576"
+    },
+    {
+        "tag":"F",
+        "row":577,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.577"
+    },
+    {
+        "tag":"T",
+        "row":578,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.578"
+    },
+    {
+        "tag":"T",
+        "row":579,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.579"
+    },
+    {
+        "tag":"T",
+        "row":580,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.580"
+    },
+    {
+        "tag":"F",
+        "row":581,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.581"
+    },
+    {
+        "tag":"F",
+        "row":582,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.582"
+    },
+    {
+        "tag":"T",
+        "row":583,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.583"
+    },
+    {
+        "tag":"T",
+        "row":584,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.584"
+    },
+    {
+        "tag":"F",
+        "row":585,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.585"
+    },
+    {
+        "tag":"T",
+        "row":586,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.586"
+    },
+    {
+        "tag":"F",
+        "row":587,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.587"
+    },
+    {
+        "tag":"T",
+        "row":588,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.588"
+    },
+    {
+        "tag":"T",
+        "row":589,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.589"
+    },
+    {
+        "tag":"T",
+        "row":590,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.590"
+    },
+    {
+        "tag":"T",
+        "row":591,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_swedish.591"
+    },
+    {
+        "tag":"F",
+        "row":592,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.592"
+    },
+    {
+        "tag":"F",
+        "row":593,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.593"
+    },
+    {
+        "tag":"F",
+        "row":594,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.594"
+    },
+    {
+        "tag":"F",
+        "row":595,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_swedish.595"
+    },
+    {
+        "tag":"T",
+        "row":596,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.596"
+    },
+    {
+        "tag":"T",
+        "row":597,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.597"
+    },
+    {
+        "tag":"F",
+        "row":598,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.598"
+    },
+    {
+        "tag":"F",
+        "row":599,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.599"
+    },
+    {
+        "tag":"F",
+        "row":600,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.600"
+    },
+    {
+        "tag":"T",
+        "row":601,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.601"
+    },
+    {
+        "tag":"T",
+        "row":602,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.602"
+    },
+    {
+        "tag":"T",
+        "row":603,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.603"
+    },
+    {
+        "tag":"F",
+        "row":604,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.604"
+    },
+    {
+        "tag":"F",
+        "row":605,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.605"
+    },
+    {
+        "tag":"T",
+        "row":606,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.606"
+    },
+    {
+        "tag":"T",
+        "row":607,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.607"
+    },
+    {
+        "tag":"T",
+        "row":608,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.608"
+    },
+    {
+        "tag":"T",
+        "row":609,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.609"
+    },
+    {
+        "tag":"T",
+        "row":610,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.610"
+    },
+    {
+        "tag":"F",
+        "row":611,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.611"
+    },
+    {
+        "tag":"F",
+        "row":612,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.612"
+    },
+    {
+        "tag":"F",
+        "row":613,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.613"
+    },
+    {
+        "tag":"T",
+        "row":614,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.614"
+    },
+    {
+        "tag":"F",
+        "row":615,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.615"
+    },
+    {
+        "tag":"T",
+        "row":616,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.616"
+    },
+    {
+        "tag":"F",
+        "row":617,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.617"
+    },
+    {
+        "tag":"T",
+        "row":618,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.618"
+    },
+    {
+        "tag":"T",
+        "row":619,
+        "score":"[4, 4, 4, 3]",
+        "id":"dev.comedi_swedish.619"
+    },
+    {
+        "tag":"T",
+        "row":620,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.620"
+    },
+    {
+        "tag":"F",
+        "row":621,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.621"
+    },
+    {
+        "tag":"F",
+        "row":622,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.622"
+    },
+    {
+        "tag":"T",
+        "row":623,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.623"
+    },
+    {
+        "tag":"T",
+        "row":624,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.624"
+    },
+    {
+        "tag":"T",
+        "row":625,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.625"
+    },
+    {
+        "tag":"T",
+        "row":626,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.626"
+    },
+    {
+        "tag":"T",
+        "row":627,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.627"
+    },
+    {
+        "tag":"F",
+        "row":628,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.628"
+    },
+    {
+        "tag":"F",
+        "row":629,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.629"
+    },
+    {
+        "tag":"F",
+        "row":630,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.630"
+    },
+    {
+        "tag":"F",
+        "row":631,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.631"
+    },
+    {
+        "tag":"T",
+        "row":632,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.632"
+    },
+    {
+        "tag":"F",
+        "row":633,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_swedish.633"
+    },
+    {
+        "tag":"F",
+        "row":634,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.634"
+    },
+    {
+        "tag":"T",
+        "row":635,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.635"
+    },
+    {
+        "tag":"T",
+        "row":636,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.636"
+    },
+    {
+        "tag":"T",
+        "row":637,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.637"
+    },
+    {
+        "tag":"F",
+        "row":638,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.638"
+    },
+    {
+        "tag":"F",
+        "row":639,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.639"
+    },
+    {
+        "tag":"T",
+        "row":640,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.640"
+    },
+    {
+        "tag":"T",
+        "row":641,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.641"
+    },
+    {
+        "tag":"T",
+        "row":642,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.642"
+    },
+    {
+        "tag":"T",
+        "row":643,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.643"
+    },
+    {
+        "tag":"F",
+        "row":644,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.644"
+    },
+    {
+        "tag":"T",
+        "row":645,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.645"
+    },
+    {
+        "tag":"T",
+        "row":646,
+        "score":"[3, 3]",
+        "id":"dev.comedi_swedish.646"
+    },
+    {
+        "tag":"T",
+        "row":647,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.647"
+    },
+    {
+        "tag":"T",
+        "row":648,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.648"
+    },
+    {
+        "tag":"T",
+        "row":649,
+        "score":"[4, 4, 4, 4]",
+        "id":"dev.comedi_swedish.649"
+    },
+    {
+        "tag":"F",
+        "row":650,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.650"
+    },
+    {
+        "tag":"T",
+        "row":651,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.651"
+    },
+    {
+        "tag":"T",
+        "row":652,
+        "score":"[4, 4, 4, 4]",
+        "id":"dev.comedi_swedish.652"
+    },
+    {
+        "tag":"T",
+        "row":653,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.653"
+    },
+    {
+        "tag":"T",
+        "row":654,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.654"
+    },
+    {
+        "tag":"T",
+        "row":655,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.655"
+    },
+    {
+        "tag":"T",
+        "row":656,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.656"
+    },
+    {
+        "tag":"F",
+        "row":657,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.657"
+    },
+    {
+        "tag":"F",
+        "row":658,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.658"
+    },
+    {
+        "tag":"T",
+        "row":659,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.659"
+    },
+    {
+        "tag":"T",
+        "row":660,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.660"
+    },
+    {
+        "tag":"T",
+        "row":661,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.661"
+    },
+    {
+        "tag":"T",
+        "row":662,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.662"
+    },
+    {
+        "tag":"F",
+        "row":663,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.663"
+    },
+    {
+        "tag":"T",
+        "row":664,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.664"
+    },
+    {
+        "tag":"F",
+        "row":665,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.665"
+    },
+    {
+        "tag":"F",
+        "row":666,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.666"
+    },
+    {
+        "tag":"F",
+        "row":667,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.667"
+    },
+    {
+        "tag":"T",
+        "row":668,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.668"
+    },
+    {
+        "tag":"T",
+        "row":669,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.669"
+    },
+    {
+        "tag":"F",
+        "row":670,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.670"
+    },
+    {
+        "tag":"T",
+        "row":671,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.671"
+    },
+    {
+        "tag":"T",
+        "row":672,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.672"
+    },
+    {
+        "tag":"T",
+        "row":673,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.673"
+    },
+    {
+        "tag":"T",
+        "row":674,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.674"
+    },
+    {
+        "tag":"T",
+        "row":675,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.675"
+    },
+    {
+        "tag":"T",
+        "row":676,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.676"
+    },
+    {
+        "tag":"F",
+        "row":677,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.677"
+    },
+    {
+        "tag":"T",
+        "row":678,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.678"
+    },
+    {
+        "tag":"T",
+        "row":679,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.679"
+    },
+    {
+        "tag":"T",
+        "row":680,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.680"
+    },
+    {
+        "tag":"T",
+        "row":681,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.681"
+    },
+    {
+        "tag":"F",
+        "row":682,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.682"
+    },
+    {
+        "tag":"T",
+        "row":683,
+        "score":"[3, 4, 4, 4]",
+        "id":"dev.comedi_swedish.683"
+    },
+    {
+        "tag":"T",
+        "row":684,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.684"
+    },
+    {
+        "tag":"T",
+        "row":685,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.685"
+    },
+    {
+        "tag":"T",
+        "row":686,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.686"
+    },
+    {
+        "tag":"T",
+        "row":687,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.687"
+    },
+    {
+        "tag":"T",
+        "row":688,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.688"
+    },
+    {
+        "tag":"T",
+        "row":689,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.689"
+    },
+    {
+        "tag":"F",
+        "row":690,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.690"
+    },
+    {
+        "tag":"F",
+        "row":691,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.691"
+    },
+    {
+        "tag":"T",
+        "row":692,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.692"
+    },
+    {
+        "tag":"T",
+        "row":693,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.693"
+    },
+    {
+        "tag":"T",
+        "row":694,
+        "score":"[4, 4, 4, 4]",
+        "id":"dev.comedi_swedish.694"
+    },
+    {
+        "tag":"T",
+        "row":695,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.695"
+    },
+    {
+        "tag":"T",
+        "row":696,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.696"
+    },
+    {
+        "tag":"T",
+        "row":697,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.697"
+    },
+    {
+        "tag":"T",
+        "row":698,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.698"
+    },
+    {
+        "tag":"F",
+        "row":699,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.699"
+    },
+    {
+        "tag":"T",
+        "row":700,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.700"
+    },
+    {
+        "tag":"T",
+        "row":701,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.701"
+    },
+    {
+        "tag":"T",
+        "row":702,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.702"
+    },
+    {
+        "tag":"T",
+        "row":703,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.703"
+    },
+    {
+        "tag":"T",
+        "row":704,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.704"
+    },
+    {
+        "tag":"F",
+        "row":705,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.705"
+    },
+    {
+        "tag":"F",
+        "row":706,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.706"
+    },
+    {
+        "tag":"F",
+        "row":707,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.707"
+    },
+    {
+        "tag":"T",
+        "row":708,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.708"
+    },
+    {
+        "tag":"T",
+        "row":709,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.709"
+    },
+    {
+        "tag":"T",
+        "row":710,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.710"
+    },
+    {
+        "tag":"T",
+        "row":711,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.711"
+    },
+    {
+        "tag":"F",
+        "row":712,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.712"
+    },
+    {
+        "tag":"F",
+        "row":713,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.713"
+    },
+    {
+        "tag":"F",
+        "row":714,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.714"
+    },
+    {
+        "tag":"F",
+        "row":715,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.715"
+    },
+    {
+        "tag":"F",
+        "row":716,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.716"
+    },
+    {
+        "tag":"F",
+        "row":717,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.717"
+    },
+    {
+        "tag":"F",
+        "row":718,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.718"
+    },
+    {
+        "tag":"T",
+        "row":719,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_swedish.719"
+    },
+    {
+        "tag":"T",
+        "row":720,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.720"
+    },
+    {
+        "tag":"F",
+        "row":721,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.721"
+    },
+    {
+        "tag":"F",
+        "row":722,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.722"
+    },
+    {
+        "tag":"F",
+        "row":723,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.723"
+    },
+    {
+        "tag":"F",
+        "row":724,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.724"
+    },
+    {
+        "tag":"T",
+        "row":725,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.725"
+    },
+    {
+        "tag":"T",
+        "row":726,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.726"
+    },
+    {
+        "tag":"F",
+        "row":727,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.727"
+    },
+    {
+        "tag":"F",
+        "row":728,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_swedish.728"
+    },
+    {
+        "tag":"F",
+        "row":729,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.729"
+    },
+    {
+        "tag":"F",
+        "row":730,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.730"
+    },
+    {
+        "tag":"F",
+        "row":731,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.731"
+    },
+    {
+        "tag":"T",
+        "row":732,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.732"
+    },
+    {
+        "tag":"T",
+        "row":733,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.733"
+    },
+    {
+        "tag":"F",
+        "row":734,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.734"
+    },
+    {
+        "tag":"T",
+        "row":735,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.735"
+    },
+    {
+        "tag":"T",
+        "row":736,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.736"
+    },
+    {
+        "tag":"F",
+        "row":737,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.737"
+    },
+    {
+        "tag":"F",
+        "row":738,
+        "score":"[1, 1, 2, 1]",
+        "id":"dev.comedi_swedish.738"
+    },
+    {
+        "tag":"F",
+        "row":739,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.739"
+    },
+    {
+        "tag":"T",
+        "row":740,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.740"
+    },
+    {
+        "tag":"T",
+        "row":741,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.741"
+    },
+    {
+        "tag":"F",
+        "row":742,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.742"
+    },
+    {
+        "tag":"F",
+        "row":743,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.743"
+    },
+    {
+        "tag":"T",
+        "row":744,
+        "score":"[3, 4, 4, 4]",
+        "id":"dev.comedi_swedish.744"
+    },
+    {
+        "tag":"F",
+        "row":745,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.745"
+    },
+    {
+        "tag":"T",
+        "row":746,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.746"
+    },
+    {
+        "tag":"T",
+        "row":747,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.747"
+    },
+    {
+        "tag":"T",
+        "row":748,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.748"
+    },
+    {
+        "tag":"F",
+        "row":749,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.749"
+    },
+    {
+        "tag":"T",
+        "row":750,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.750"
+    },
+    {
+        "tag":"T",
+        "row":751,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.751"
+    },
+    {
+        "tag":"T",
+        "row":752,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.752"
+    },
+    {
+        "tag":"F",
+        "row":753,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.753"
+    },
+    {
+        "tag":"T",
+        "row":754,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.754"
+    },
+    {
+        "tag":"F",
+        "row":755,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.755"
+    },
+    {
+        "tag":"T",
+        "row":756,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.756"
+    },
+    {
+        "tag":"F",
+        "row":757,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.757"
+    },
+    {
+        "tag":"T",
+        "row":758,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.758"
+    },
+    {
+        "tag":"T",
+        "row":759,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.759"
+    },
+    {
+        "tag":"T",
+        "row":760,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.760"
+    },
+    {
+        "tag":"T",
+        "row":761,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.761"
+    },
+    {
+        "tag":"T",
+        "row":762,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.762"
+    },
+    {
+        "tag":"F",
+        "row":763,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.763"
+    },
+    {
+        "tag":"F",
+        "row":764,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.764"
+    },
+    {
+        "tag":"F",
+        "row":765,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.765"
+    },
+    {
+        "tag":"F",
+        "row":766,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.766"
+    },
+    {
+        "tag":"F",
+        "row":767,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.767"
+    },
+    {
+        "tag":"T",
+        "row":768,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.768"
+    },
+    {
+        "tag":"F",
+        "row":769,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.769"
+    },
+    {
+        "tag":"T",
+        "row":770,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.770"
+    },
+    {
+        "tag":"T",
+        "row":771,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.771"
+    },
+    {
+        "tag":"T",
+        "row":772,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.772"
+    },
+    {
+        "tag":"F",
+        "row":773,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.773"
+    },
+    {
+        "tag":"T",
+        "row":774,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.774"
+    },
+    {
+        "tag":"F",
+        "row":775,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.775"
+    },
+    {
+        "tag":"T",
+        "row":776,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.776"
+    },
+    {
+        "tag":"F",
+        "row":777,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.777"
+    },
+    {
+        "tag":"F",
+        "row":778,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.778"
+    },
+    {
+        "tag":"F",
+        "row":779,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.779"
+    },
+    {
+        "tag":"T",
+        "row":780,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.780"
+    },
+    {
+        "tag":"T",
+        "row":781,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.781"
+    },
+    {
+        "tag":"T",
+        "row":782,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.782"
+    },
+    {
+        "tag":"F",
+        "row":783,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.783"
+    },
+    {
+        "tag":"T",
+        "row":784,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.784"
+    },
+    {
+        "tag":"T",
+        "row":785,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.785"
+    },
+    {
+        "tag":"T",
+        "row":786,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.786"
+    },
+    {
+        "tag":"T",
+        "row":787,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.787"
+    },
+    {
+        "tag":"T",
+        "row":788,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.788"
+    },
+    {
+        "tag":"T",
+        "row":789,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.789"
+    },
+    {
+        "tag":"F",
+        "row":790,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.790"
+    },
+    {
+        "tag":"F",
+        "row":791,
+        "score":"[1, 2, 2]",
+        "id":"dev.comedi_swedish.791"
+    },
+    {
+        "tag":"F",
+        "row":792,
+        "score":"[1, 2, 2]",
+        "id":"dev.comedi_swedish.792"
+    },
+    {
+        "tag":"F",
+        "row":793,
+        "score":"[1, 1, 1, 1]",
+        "id":"dev.comedi_swedish.793"
+    },
+    {
+        "tag":"T",
+        "row":794,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.794"
+    },
+    {
+        "tag":"T",
+        "row":795,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.795"
+    },
+    {
+        "tag":"T",
+        "row":796,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.796"
+    },
+    {
+        "tag":"T",
+        "row":797,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.797"
+    },
+    {
+        "tag":"T",
+        "row":798,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_swedish.798"
+    },
+    {
+        "tag":"F",
+        "row":799,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.799"
+    },
+    {
+        "tag":"T",
+        "row":800,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.800"
+    },
+    {
+        "tag":"F",
+        "row":801,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.801"
+    },
+    {
+        "tag":"T",
+        "row":802,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.802"
+    },
+    {
+        "tag":"T",
+        "row":803,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.803"
+    },
+    {
+        "tag":"T",
+        "row":804,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.804"
+    },
+    {
+        "tag":"T",
+        "row":805,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.805"
+    },
+    {
+        "tag":"T",
+        "row":806,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.806"
+    },
+    {
+        "tag":"T",
+        "row":807,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.807"
+    },
+    {
+        "tag":"T",
+        "row":808,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.808"
+    },
+    {
+        "tag":"T",
+        "row":809,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.809"
+    },
+    {
+        "tag":"T",
+        "row":810,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.810"
+    },
+    {
+        "tag":"T",
+        "row":811,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.811"
+    },
+    {
+        "tag":"T",
+        "row":812,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.812"
+    },
+    {
+        "tag":"T",
+        "row":813,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.813"
+    },
+    {
+        "tag":"F",
+        "row":814,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.814"
+    },
+    {
+        "tag":"T",
+        "row":815,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.815"
+    },
+    {
+        "tag":"F",
+        "row":816,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.816"
+    },
+    {
+        "tag":"T",
+        "row":817,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.817"
+    },
+    {
+        "tag":"T",
+        "row":818,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.818"
+    },
+    {
+        "tag":"F",
+        "row":819,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.819"
+    },
+    {
+        "tag":"T",
+        "row":820,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.820"
+    },
+    {
+        "tag":"T",
+        "row":821,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.821"
+    },
+    {
+        "tag":"T",
+        "row":822,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.822"
+    },
+    {
+        "tag":"F",
+        "row":823,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.823"
+    },
+    {
+        "tag":"T",
+        "row":824,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.824"
+    },
+    {
+        "tag":"F",
+        "row":825,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.825"
+    },
+    {
+        "tag":"T",
+        "row":826,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.826"
+    },
+    {
+        "tag":"T",
+        "row":827,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.827"
+    },
+    {
+        "tag":"T",
+        "row":828,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.828"
+    },
+    {
+        "tag":"T",
+        "row":829,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.829"
+    },
+    {
+        "tag":"T",
+        "row":830,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.830"
+    },
+    {
+        "tag":"T",
+        "row":831,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.831"
+    },
+    {
+        "tag":"T",
+        "row":832,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.832"
+    },
+    {
+        "tag":"T",
+        "row":833,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.833"
+    },
+    {
+        "tag":"T",
+        "row":834,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.834"
+    },
+    {
+        "tag":"T",
+        "row":835,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.835"
+    },
+    {
+        "tag":"T",
+        "row":836,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.836"
+    },
+    {
+        "tag":"F",
+        "row":837,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.837"
+    },
+    {
+        "tag":"T",
+        "row":838,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.838"
+    },
+    {
+        "tag":"T",
+        "row":839,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.839"
+    },
+    {
+        "tag":"T",
+        "row":840,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.840"
+    },
+    {
+        "tag":"T",
+        "row":841,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.841"
+    },
+    {
+        "tag":"T",
+        "row":842,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.842"
+    },
+    {
+        "tag":"T",
+        "row":843,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.843"
+    },
+    {
+        "tag":"T",
+        "row":844,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.844"
+    },
+    {
+        "tag":"T",
+        "row":845,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.845"
+    },
+    {
+        "tag":"T",
+        "row":846,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.846"
+    },
+    {
+        "tag":"F",
+        "row":847,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.847"
+    },
+    {
+        "tag":"T",
+        "row":848,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.848"
+    },
+    {
+        "tag":"T",
+        "row":849,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.849"
+    },
+    {
+        "tag":"T",
+        "row":850,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.850"
+    },
+    {
+        "tag":"T",
+        "row":851,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.851"
+    },
+    {
+        "tag":"T",
+        "row":852,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.852"
+    },
+    {
+        "tag":"F",
+        "row":853,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.853"
+    },
+    {
+        "tag":"T",
+        "row":854,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.854"
+    },
+    {
+        "tag":"T",
+        "row":855,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.855"
+    },
+    {
+        "tag":"T",
+        "row":856,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.856"
+    },
+    {
+        "tag":"F",
+        "row":857,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_swedish.857"
+    },
+    {
+        "tag":"T",
+        "row":858,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.858"
+    },
+    {
+        "tag":"T",
+        "row":859,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.859"
+    },
+    {
+        "tag":"T",
+        "row":860,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.860"
+    },
+    {
+        "tag":"T",
+        "row":861,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.861"
+    },
+    {
+        "tag":"F",
+        "row":862,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_swedish.862"
+    },
+    {
+        "tag":"F",
+        "row":863,
+        "score":"[1, 1]",
+        "id":"dev.comedi_swedish.863"
+    },
+    {
+        "tag":"T",
+        "row":864,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_swedish.864"
+    },
+    {
+        "tag":"T",
+        "row":865,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.865"
+    },
+    {
+        "tag":"F",
+        "row":866,
+        "score":"[2, 2, 2]",
+        "id":"dev.comedi_swedish.866"
+    },
+    {
+        "tag":"F",
+        "row":867,
+        "score":"[2, 2]",
+        "id":"dev.comedi_swedish.867"
+    },
+    {
+        "tag":"T",
+        "row":868,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.868"
+    },
+    {
+        "tag":"T",
+        "row":869,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.869"
+    },
+    {
+        "tag":"T",
+        "row":870,
+        "score":"[4, 4]",
+        "id":"dev.comedi_swedish.870"
+    }
+]
