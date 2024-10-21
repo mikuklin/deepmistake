@@ -118,6 +118,7 @@ def predict(
         krippendorff_alpha = []
         accuracy = []
         class4_accuracy = []
+        spearman = []
 
         for docId, doc_preds in predictions.items():
             if 'scd' in docId:
@@ -163,18 +164,39 @@ def predict(
                     doc_golds = gold_scores[docId]
                     doc_scores = scores[docId]
                     keys = sorted(list(doc_golds.keys()))
+
                     def get_median(a):
+                        a = eval(a)
                         l = []
                         for i in range(len(a)):
-                            l.append([i + 1] * a[i])
-                        return np.median(l)
+                            l.extend([i + 1] * a[i])
+                        return l[len(l) // 2]
 
+                    def get_mean_disjudgement(a):
+                        a = eval(a)
+                        s = 0
+                        cnt = 0
+                        for i in range(len(a)):
+                            for j in range(i + 1, len(a)):
+                                s += abs(a[i] - a[j])
+                                cnt += 1
+                        return s / cnt
+    
+                    def predict_median_std(preds):
+                        samples = np.random.choice(np.arange(1,5), size=1000, p=softmax(preds))
+                        return int(np.median(samples)), np.std(samples)
+                    
+                    doc_medians = [predict_median_std(doc_scores[key][0])[0] for key in keys]
+                    doc_std = [predict_median_std(doc_scores[key][0])[1] for key in keys]
+                    doc_gold_disagr = [get_mean_disjudgement(doc_golds[key][0]) for key in keys]
                     doc_golds = [get_median(doc_golds[key][0]) for key in keys]
-                    doc_scores = [doc_scores[key][0].argmax() + 1 for key in keys]
-                    metrics[f'{docId}.krippendorff_alpha'] = krippendorff.alpha(reliability_data=[doc_golds, doc_scores], level_of_measurement="ordinal")
+
+                    metrics[f'{docId}.krippendorff_alpha'] = krippendorff.alpha(reliability_data=[doc_golds, doc_medians], level_of_measurement="ordinal")
                     krippendorff_alpha.append(metrics[f'{docId}.krippendorff_alpha'])
-                    metrics[f'4class_accuracy.{docId}.score'] = accuracy_score(doc_golds, doc_scores)
+                    metrics[f'4class_accuracy.{docId}.score'] = accuracy_score(doc_golds, doc_medians)
                     class4_accuracy.append(metrics[f'4class_accuracy.{docId}.score'])
+                    metrics[f'spearman.{docId}.disjudgement'], _ = spearmanr(doc_std, doc_gold_disagr, nan_policy='raise')
+                    spearman.append(metrics[f'spearman.{docId}.disjudgement'])
                 else:
                     doc_golds = gold_scores[docId]
                     keys = sorted(list(doc_golds.keys()))
@@ -205,6 +227,8 @@ def predict(
             metrics[f'4class_accuracy.average.score'] = sum(class4_accuracy) / len(class4_accuracy)
         if accuracy:
             metrics[f'accuracy.average.score'] = sum(accuracy) / len(accuracy)
+        if spearman:
+            metrics[f'spearman_disjudgement.average.score'] = sum(spearman) / len(spearman)
 
 
         if cur_train_mean_loss is not None:
@@ -569,7 +593,6 @@ def main(args):
                 )
 
                 tr_loss += loss_to_optimize.item()
-
                 nb_tr_examples += input_ids.size(0)
                 nb_tr_steps += 1
 
