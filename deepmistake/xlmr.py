@@ -188,8 +188,10 @@ class XLMRModel(BertPreTrainedModel):
             elif self.local_config['loss'] == 'crossentropy_loss_4':
                 loss['total'] = CrossEntropyLoss()(syn_logits, syn_labels.type(torch.int64))
             elif self.local_config['loss'] == 'kl_divergence_loss':
-                print("KL_input: ", syn_logits, syn_labels)
-                loss['total'] = KLDivLoss()(syn_logits, torch.tensor(F.softmax(syn_labels.float(), dim=-1)))
+#                print("KL_input: ", syn_logits, syn_labels)
+#                import pdb; pdb.set_trace()
+                loss['total'] = KLDivLoss()(F.log_softmax(syn_logits, dim=-1), syn_labels / syn_labels.sum(dim=-1, keepdim=True))
+#                print(loss['total'])
             else:
                 loss['total'] = CosineEmbeddingLoss()(syn_logits[0], syn_logits[1], syn_labels * 2 - 1)
 
