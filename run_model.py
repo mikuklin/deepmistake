@@ -70,7 +70,7 @@ def predict(
     only_parts = [part for part in only_parts.split('+') if part]
     model.eval()
     syns = sorted(model.local_config['syns'])
-    device = torch.device('cuda:0') if model.local_config['use_cuda'] else torch.device('cpu')
+    device = torch.device('cuda:4') if model.local_config['use_cuda'] else torch.device('cpu')
 
     eval_dataloader = tqdm(eval_dataloader, total=len(eval_dataloader), desc='validation ... ')
     metrics, syns_preds, syns_scores_res = run_inference(eval_dataloader, model, device, compute_metrics, dump_feature,
@@ -89,7 +89,7 @@ def predict(
         docId = example.docId
         posInDoc = int(docId.split('.')[-1])
         docId = '.'.join(docId.split('.')[:-1])
-        if args.loss == 'crossentropy_loss_4' or args.loss == 'kl_divergence_loss':
+        if args.loss == 'crossentropy_loss_4' or args.loss == 'kl_divergence_loss' or args.loss == 'crossentropy_loss_4_task_2':
             syn_pred = syn_ids_to_label_4[ex_syn_preds.item()]
         else:
             syn_pred = syn_ids_to_label[ex_syn_preds.item()]
@@ -150,67 +150,119 @@ def predict(
                 doc_preds = ['F' if 'F' in doc_preds[key] else 'T' for key in keys]
                 metrics[f'{docId}.accuracy'] = accuracy_score(doc_golds, doc_preds)
             elif "comedi" in docId:
-                if args.loss == 'crossentropy_loss_4':
+                if args.loss == "mse_loss":
                     doc_golds = gold_scores[docId]
                     doc_scores = scores[docId]
                     keys = sorted(list(doc_golds.keys()))
                     doc_golds = [doc_golds[key][0] for key in keys]
-                    doc_scores = [doc_scores[key][0].argmax() + 1 for key in keys]
-                    metrics[f'{docId}.krippendorff_alpha'] = krippendorff.alpha(reliability_data=[doc_golds, doc_scores], level_of_measurement="ordinal")
-                    krippendorff_alpha.append(metrics[f'{docId}.krippendorff_alpha'])
-                    metrics[f'4class_accuracy.{docId}.score'] = accuracy_score(doc_golds, doc_scores)
-                    class4_accuracy.append(metrics[f'4class_accuracy.{docId}.score'])
-                elif args.loss == 'kl_divergence_loss':
-                    doc_golds = gold_scores[docId]
-                    doc_scores = scores[docId]
-                    keys = sorted(list(doc_golds.keys()))
-
-                    def get_median(a):
-                        a = eval(a)
-                        l = []
-                        for i in range(len(a)):
-                            l.extend([i + 1] * a[i])
-                        return l[len(l) // 2]
-
-                    def get_mean_disjudgement(a):
-                        a = eval(a)
-                        s = 0
-                        cnt = 0
-                        for i in range(len(a)):
-                            for j in range(i + 1, len(a)):
-                                s += abs(a[i] - a[j])
-                                cnt += 1
-                        return s / cnt
-    
-                    def predict_median_std(preds):
-                        samples = np.random.choice(np.arange(1,5), size=1000, p=softmax(preds))
-                        return int(np.median(samples)), np.std(samples)
-                    
-                    doc_medians = [predict_median_std(doc_scores[key][0])[0] for key in keys]
-                    doc_std = [predict_median_std(doc_scores[key][0])[1] for key in keys]
-                    doc_gold_disagr = [get_mean_disjudgement(doc_golds[key][0]) for key in keys]
-                    doc_golds = [get_median(doc_golds[key][0]) for key in keys]
-
-                    metrics[f'{docId}.krippendorff_alpha'] = krippendorff.alpha(reliability_data=[doc_golds, doc_medians], level_of_measurement="ordinal")
-                    krippendorff_alpha.append(metrics[f'{docId}.krippendorff_alpha'])
-                    metrics[f'4class_accuracy.{docId}.score'] = accuracy_score(doc_golds, doc_medians)
-                    class4_accuracy.append(metrics[f'4class_accuracy.{docId}.score'])
-                    metrics[f'spearman.{docId}.disjudgement'], _ = spearmanr(doc_std, doc_gold_disagr, nan_policy='raise')
+                    doc_scores = [np.array(doc_scores[key]).mean() for key in keys]
+                    metrics[f'spearman.{docId}.disjudgement'], _ = spearmanr(doc_scores, doc_golds, nan_policy='raise')
                     spearman.append(metrics[f'spearman.{docId}.disjudgement'])
                 else:
-                    doc_golds = gold_scores[docId]
-                    keys = sorted(list(doc_golds.keys()))
-                    doc_scores = [1 if 'F' in doc_preds[key] else 4 for key in keys]
-                    doc_golds = [doc_golds[key][0] for key in keys]
-                    metrics[f'{docId}.krippendorff_alpha'] = krippendorff.alpha(reliability_data=[doc_golds, doc_scores], level_of_measurement="ordinal")
-                    krippendorff_alpha.append(metrics[f'{docId}.krippendorff_alpha'])
+                    if args.loss == 'crossentropy_loss_4_task_2':
+                        doc_golds = gold_scores[docId]
+                        doc_scores = scores[docId]
+                        keys = sorted(list(doc_golds.keys()))
+                        doc_golds = [int(doc_golds[key][0].split(",")[0]) for key in keys]
+                        doc_scores = [int(doc_scores[key][0].argmax() + 1) for key in keys]
+                        metrics[f'{docId}.krippendorff_alpha'] = krippendorff.alpha(reliability_data=[doc_golds, doc_scores], level_of_measurement="ordinal")
+                        krippendorff_alpha.append(metrics[f'{docId}.krippendorff_alpha'])
+                        metrics[f'4class_accuracy.{docId}.score'] = accuracy_score(doc_golds, doc_scores)
+                        class4_accuracy.append(metrics[f'4class_accuracy.{docId}.score'])
 
-                doc_golds = golds[docId]
-                keys = list(doc_golds.keys())
-                doc_golds = [doc_golds[key][0] for key in keys]
-                doc_preds = ['F' if 'F' in doc_preds[key] else 'T' for key in keys]
-                metrics[f'accuracy.{docId}.score'] = accuracy_score(doc_golds, doc_preds)
-                accuracy.append(metrics[f'accuracy.{docId}.score'])
+                        def calc_std(a):
+                            m = 0
+                            for i, v in enumerate(a):
+                                m += (i + 1) * v
+                            d = 0
+                            for i, v in enumerate(a):
+                                d += ((i + 1 - m) ** 2) * v
+                            return np.sqrt(d)
+                        doc_golds = gold_scores[docId]
+                        doc_scores = scores[docId]
+                        keys = sorted(list(doc_golds.keys()))
+                        doc_golds = [float(doc_golds[key][0].split(",")[1]) for key in keys]
+                        doc_scores = [calc_std(doc_scores[key][0]) for key in keys]
+                        metrics[f'spearman.{docId}.disjudgement'], _ = spearmanr(doc_scores, doc_golds, nan_policy='raise')
+                        spearman.append(metrics[f'spearman.{docId}.disjudgement'])
+
+                    elif args.loss == 'crossentropy_loss_4':
+                        doc_golds = gold_scores[docId]
+                        doc_scores = scores[docId]
+                        keys = sorted(list(doc_golds.keys()))
+                        doc_golds = [doc_golds[key][0] for key in keys]
+                        doc_scores = [doc_scores[key][0].argmax() + 1 for key in keys]
+                        metrics[f'{docId}.krippendorff_alpha'] = krippendorff.alpha(reliability_data=[doc_golds, doc_scores], level_of_measurement="ordinal")
+                        krippendorff_alpha.append(metrics[f'{docId}.krippendorff_alpha'])
+                        metrics[f'4class_accuracy.{docId}.score'] = accuracy_score(doc_golds, doc_scores)
+                        class4_accuracy.append(metrics[f'4class_accuracy.{docId}.score'])
+                    elif args.loss == 'kl_divergence_loss':
+                        doc_golds = gold_scores[docId]
+                        doc_scores = scores[docId]
+                        keys = sorted(list(doc_golds.keys()))
+
+                        def get_median(a):
+                            l = []
+                            for i in range(len(a)):
+                                l.extend([i + 1] * a[i])
+                            return l[len(l) // 2]
+
+                        def get_mean_disjudgement(a):
+                            s = 0
+                            cnt = 0
+                            for i in range(len(a)):
+                                for j in range(i + 1, len(a)):
+                                    s += abs(a[i] - a[j])
+                                    cnt += 1
+                            return s / cnt
+        
+                        def predict_median_std(preds):
+                            def calc_std(a):
+                                m = 0
+                                for i, v in enumerate(a):
+                                    m += (i + 1) * v
+                                d = 0
+                                for i, v in enumerate(a):
+                                    d += ((i + 1 - m) ** 2) * v
+                                return np.sqrt(d)
+                            
+                            preds = softmax(preds)
+                            samples = np.random.choice(np.arange(1,5), size=1000, p=softmax(preds))
+                            return int(np.median(samples)), calc_std(preds)
+                        
+                        doc_medians = [predict_median_std(doc_scores[key][0])[0] for key in keys]
+                        doc_std = [predict_median_std(doc_scores[key][0])[1] for key in keys]
+                        doc_gold_disagr = [get_mean_disjudgement(doc_golds[key][0]) for key in keys]
+                        doc_golds = [get_median(doc_golds[key][0]) for key in keys]
+
+                        metrics[f'{docId}.krippendorff_alpha'] = krippendorff.alpha(reliability_data=[doc_golds, doc_medians], level_of_measurement="ordinal")
+                        krippendorff_alpha.append(metrics[f'{docId}.krippendorff_alpha'])
+                        metrics[f'4class_accuracy.{docId}.score'] = accuracy_score(doc_golds, doc_medians)
+                        class4_accuracy.append(metrics[f'4class_accuracy.{docId}.score'])
+                        metrics[f'spearman.{docId}.disjudgement'], _ = spearmanr(doc_std, doc_gold_disagr, nan_policy='raise')
+                        spearman.append(metrics[f'spearman.{docId}.disjudgement'])
+                    else:
+                        doc_golds = gold_scores[docId]
+                        keys = sorted(list(doc_golds.keys()))
+                        doc_scores = [1 if 'F' in doc_preds[key] else 4 for key in keys]
+                        doc_golds = [doc_golds[key][0] for key in keys]
+                        metrics[f'{docId}.krippendorff_alpha'] = krippendorff.alpha(reliability_data=[doc_golds, doc_scores], level_of_measurement="ordinal")
+                        krippendorff_alpha.append(metrics[f'{docId}.krippendorff_alpha'])
+
+                        doc_golds = gold_scores[docId]
+                        doc_scores = scores[docId]
+                        keys = sorted(list(doc_golds.keys()))
+                        doc_golds = [doc_golds[key][0] for key in keys]
+                        doc_scores = [np.array(doc_scores[key]).mean() for key in keys]
+                        metrics[f'spearman.{docId}.disjudgement'], _ = spearmanr(doc_scores, doc_golds, nan_policy='raise')
+                        spearman.append(metrics[f'spearman.{docId}.disjudgement'])
+
+                    doc_golds = golds[docId]
+                    keys = list(doc_golds.keys())
+                    doc_golds = [doc_golds[key][0] for key in keys]
+                    doc_preds = ['F' if 'F' in doc_preds[key] else 'T' for key in keys]
+                    metrics[f'accuracy.{docId}.score'] = accuracy_score(doc_golds, doc_preds)
+                    accuracy.append(metrics[f'accuracy.{docId}.score'])
             else:
                 doc_golds = golds[docId]
                 keys = list(doc_golds.keys())
@@ -287,7 +339,7 @@ def run_inference(eval_dataloader, model, device, compute_metrics, dump_feature,
     # TODO: TEST for different types of heads!
     if model.local_config['loss'] == 'cosine_similarity':
         syns_scores_res = syns_scores
-    elif model.local_config['loss'] == 'crossentropy_loss_4':
+    elif model.local_config['loss'] == 'crossentropy_loss_4' or model.local_config['loss'] == 'crossentropy_loss_4_task_2':
         syns_scores_res = softmax(syns_scores, axis=-1)
     elif model.local_config['loss'] == 'kl_divergence_loss':
         syns_scores_res = syns_scores
@@ -355,7 +407,7 @@ def main(args):
             print(f'already existing {args.output_dir}. but without model weights ...')
             return
 
-    device = torch.device("cuda:0" if local_config['use_cuda'] else "cpu")
+    device = torch.device("cuda:4" if local_config['use_cuda'] else "cpu")
     n_gpu = torch.cuda.device_count()
 
     if local_config['gradient_accumulation_steps'] < 1:
@@ -563,6 +615,8 @@ def main(args):
             for step, batch in enumerate(
                 train_bar
             ):
+                
+                
                 batch = tuple(t.to(device) for t in batch)
                 input_ids, input_mask, token_type_ids, \
                 syn_labels, positions = batch
@@ -591,17 +645,18 @@ def main(args):
                     model.parameters(),
                     args.max_grad_norm
                 )
-
+                
                 tr_loss += loss_to_optimize.item()
                 nb_tr_examples += input_ids.size(0)
+                
                 nb_tr_steps += 1
-
+                
                 if (step + 1) % local_config['gradient_accumulation_steps'] == 0:
                     optimizer.step()
                     scheduler.step()
                     optimizer.zero_grad()
                     global_step += 1
-
+                
                 if local_config['do_validation'] and (step + 1) % eval_step == 0:
                     logger.info(
                         'Ep: {}, Stp: {}/{}, usd_t={:.2f}s, loss={:.6f}'.format(
@@ -794,7 +849,7 @@ if __name__ == "__main__":
     parser.add_argument("--log_train_metrics", action="store_true",
                         help="compute metrics for train set too")
     parser.add_argument("--loss", type=str, default='crossentropy_loss',
-                        choices=['crossentropy_loss', 'mse_loss', 'cosine_similarity', 'mseplus_loss', 'crossentropy_loss_4', 'kl_divergence_loss'])
+                        choices=['crossentropy_loss', 'mse_loss', 'cosine_similarity', 'mseplus_loss', 'crossentropy_loss_4', 'kl_divergence_loss', 'crossentropy_loss_4_task_2'])
     parser.add_argument("--lr_scheduler", type=str, default='linear_warmup',
                         choices=['constant_warmup', 'linear_warmup'])
     parser.add_argument("--model_name", type=str, default='xlm-roberta-large',
