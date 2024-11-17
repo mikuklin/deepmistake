@@ -1,0 +1,5180 @@
+[
+    {
+        "tag":"T",
+        "row":0,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.0"
+    },
+    {
+        "tag":"T",
+        "row":1,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.1"
+    },
+    {
+        "tag":"T",
+        "row":2,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.2"
+    },
+    {
+        "tag":"T",
+        "row":3,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_english.3"
+    },
+    {
+        "tag":"T",
+        "row":4,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.4"
+    },
+    {
+        "tag":"T",
+        "row":5,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.5"
+    },
+    {
+        "tag":"T",
+        "row":6,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.6"
+    },
+    {
+        "tag":"T",
+        "row":7,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.7"
+    },
+    {
+        "tag":"T",
+        "row":8,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.8"
+    },
+    {
+        "tag":"T",
+        "row":9,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.9"
+    },
+    {
+        "tag":"T",
+        "row":10,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.10"
+    },
+    {
+        "tag":"T",
+        "row":11,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.11"
+    },
+    {
+        "tag":"T",
+        "row":12,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.12"
+    },
+    {
+        "tag":"T",
+        "row":13,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.13"
+    },
+    {
+        "tag":"T",
+        "row":14,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.14"
+    },
+    {
+        "tag":"F",
+        "row":15,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.15"
+    },
+    {
+        "tag":"T",
+        "row":16,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.16"
+    },
+    {
+        "tag":"T",
+        "row":17,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.17"
+    },
+    {
+        "tag":"T",
+        "row":18,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.18"
+    },
+    {
+        "tag":"T",
+        "row":19,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.19"
+    },
+    {
+        "tag":"T",
+        "row":20,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_english.20"
+    },
+    {
+        "tag":"T",
+        "row":21,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.21"
+    },
+    {
+        "tag":"T",
+        "row":22,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.22"
+    },
+    {
+        "tag":"T",
+        "row":23,
+        "score":"[3, 3, 3]",
+        "id":"dev.comedi_english.23"
+    },
+    {
+        "tag":"T",
+        "row":24,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_english.24"
+    },
+    {
+        "tag":"F",
+        "row":25,
+        "score":"[2, 2, 3]",
+        "id":"dev.comedi_english.25"
+    },
+    {
+        "tag":"T",
+        "row":26,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.26"
+    },
+    {
+        "tag":"T",
+        "row":27,
+        "score":"[3, 3, 3, 4]",
+        "id":"dev.comedi_english.27"
+    },
+    {
+        "tag":"T",
+        "row":28,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.28"
+    },
+    {
+        "tag":"T",
+        "row":29,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.29"
+    },
+    {
+        "tag":"T",
+        "row":30,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.30"
+    },
+    {
+        "tag":"T",
+        "row":31,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.31"
+    },
+    {
+        "tag":"T",
+        "row":32,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.32"
+    },
+    {
+        "tag":"T",
+        "row":33,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_english.33"
+    },
+    {
+        "tag":"T",
+        "row":34,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.34"
+    },
+    {
+        "tag":"T",
+        "row":35,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.35"
+    },
+    {
+        "tag":"T",
+        "row":36,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.36"
+    },
+    {
+        "tag":"T",
+        "row":37,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_english.37"
+    },
+    {
+        "tag":"T",
+        "row":38,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.38"
+    },
+    {
+        "tag":"T",
+        "row":39,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.39"
+    },
+    {
+        "tag":"T",
+        "row":40,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.40"
+    },
+    {
+        "tag":"T",
+        "row":41,
+        "score":"[3, 3, 2]",
+        "id":"dev.comedi_english.41"
+    },
+    {
+        "tag":"T",
+        "row":42,
+        "score":"[3, 3, 3, 4]",
+        "id":"dev.comedi_english.42"
+    },
+    {
+        "tag":"T",
+        "row":43,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_english.43"
+    },
+    {
+        "tag":"T",
+        "row":44,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.44"
+    },
+    {
+        "tag":"T",
+        "row":45,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.45"
+    },
+    {
+        "tag":"T",
+        "row":46,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.46"
+    },
+    {
+        "tag":"T",
+        "row":47,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.47"
+    },
+    {
+        "tag":"T",
+        "row":48,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.48"
+    },
+    {
+        "tag":"T",
+        "row":49,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.49"
+    },
+    {
+        "tag":"T",
+        "row":50,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.50"
+    },
+    {
+        "tag":"T",
+        "row":51,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.51"
+    },
+    {
+        "tag":"T",
+        "row":52,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.52"
+    },
+    {
+        "tag":"T",
+        "row":53,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.53"
+    },
+    {
+        "tag":"T",
+        "row":54,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.54"
+    },
+    {
+        "tag":"T",
+        "row":55,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_english.55"
+    },
+    {
+        "tag":"T",
+        "row":56,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.56"
+    },
+    {
+        "tag":"T",
+        "row":57,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.57"
+    },
+    {
+        "tag":"T",
+        "row":58,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_english.58"
+    },
+    {
+        "tag":"T",
+        "row":59,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.59"
+    },
+    {
+        "tag":"T",
+        "row":60,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.60"
+    },
+    {
+        "tag":"T",
+        "row":61,
+        "score":"[4, 3, 4, 4]",
+        "id":"dev.comedi_english.61"
+    },
+    {
+        "tag":"T",
+        "row":62,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.62"
+    },
+    {
+        "tag":"T",
+        "row":63,
+        "score":"[3, 4, 4, 4]",
+        "id":"dev.comedi_english.63"
+    },
+    {
+        "tag":"T",
+        "row":64,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.64"
+    },
+    {
+        "tag":"T",
+        "row":65,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.65"
+    },
+    {
+        "tag":"T",
+        "row":66,
+        "score":"[2, 3, 3, 3]",
+        "id":"dev.comedi_english.66"
+    },
+    {
+        "tag":"T",
+        "row":67,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_english.67"
+    },
+    {
+        "tag":"T",
+        "row":68,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.68"
+    },
+    {
+        "tag":"T",
+        "row":69,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.69"
+    },
+    {
+        "tag":"T",
+        "row":70,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.70"
+    },
+    {
+        "tag":"T",
+        "row":71,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.71"
+    },
+    {
+        "tag":"T",
+        "row":72,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.72"
+    },
+    {
+        "tag":"T",
+        "row":73,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.73"
+    },
+    {
+        "tag":"T",
+        "row":74,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.74"
+    },
+    {
+        "tag":"T",
+        "row":75,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.75"
+    },
+    {
+        "tag":"T",
+        "row":76,
+        "score":"[3, 3, 3]",
+        "id":"dev.comedi_english.76"
+    },
+    {
+        "tag":"T",
+        "row":77,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.77"
+    },
+    {
+        "tag":"T",
+        "row":78,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.78"
+    },
+    {
+        "tag":"T",
+        "row":79,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.79"
+    },
+    {
+        "tag":"T",
+        "row":80,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_english.80"
+    },
+    {
+        "tag":"T",
+        "row":81,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.81"
+    },
+    {
+        "tag":"T",
+        "row":82,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.82"
+    },
+    {
+        "tag":"T",
+        "row":83,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.83"
+    },
+    {
+        "tag":"T",
+        "row":84,
+        "score":"[4, 4, 4, 4]",
+        "id":"dev.comedi_english.84"
+    },
+    {
+        "tag":"T",
+        "row":85,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.85"
+    },
+    {
+        "tag":"F",
+        "row":86,
+        "score":"[2, 2, 2, 3, 2]",
+        "id":"dev.comedi_english.86"
+    },
+    {
+        "tag":"T",
+        "row":87,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.87"
+    },
+    {
+        "tag":"F",
+        "row":88,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.88"
+    },
+    {
+        "tag":"T",
+        "row":89,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_english.89"
+    },
+    {
+        "tag":"T",
+        "row":90,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.90"
+    },
+    {
+        "tag":"T",
+        "row":91,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.91"
+    },
+    {
+        "tag":"T",
+        "row":92,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.92"
+    },
+    {
+        "tag":"T",
+        "row":93,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.93"
+    },
+    {
+        "tag":"T",
+        "row":94,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_english.94"
+    },
+    {
+        "tag":"T",
+        "row":95,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.95"
+    },
+    {
+        "tag":"T",
+        "row":96,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.96"
+    },
+    {
+        "tag":"T",
+        "row":97,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.97"
+    },
+    {
+        "tag":"T",
+        "row":98,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.98"
+    },
+    {
+        "tag":"F",
+        "row":99,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.99"
+    },
+    {
+        "tag":"T",
+        "row":100,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.100"
+    },
+    {
+        "tag":"T",
+        "row":101,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.101"
+    },
+    {
+        "tag":"T",
+        "row":102,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.102"
+    },
+    {
+        "tag":"T",
+        "row":103,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.103"
+    },
+    {
+        "tag":"T",
+        "row":104,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.104"
+    },
+    {
+        "tag":"T",
+        "row":105,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_english.105"
+    },
+    {
+        "tag":"T",
+        "row":106,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.106"
+    },
+    {
+        "tag":"T",
+        "row":107,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.107"
+    },
+    {
+        "tag":"T",
+        "row":108,
+        "score":"[3, 2, 3]",
+        "id":"dev.comedi_english.108"
+    },
+    {
+        "tag":"T",
+        "row":109,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.109"
+    },
+    {
+        "tag":"T",
+        "row":110,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.110"
+    },
+    {
+        "tag":"T",
+        "row":111,
+        "score":"[4, 4, 4, 4]",
+        "id":"dev.comedi_english.111"
+    },
+    {
+        "tag":"F",
+        "row":112,
+        "score":"[2, 2, 3, 2]",
+        "id":"dev.comedi_english.112"
+    },
+    {
+        "tag":"T",
+        "row":113,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.113"
+    },
+    {
+        "tag":"F",
+        "row":114,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.114"
+    },
+    {
+        "tag":"T",
+        "row":115,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.115"
+    },
+    {
+        "tag":"F",
+        "row":116,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.116"
+    },
+    {
+        "tag":"F",
+        "row":117,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.117"
+    },
+    {
+        "tag":"T",
+        "row":118,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_english.118"
+    },
+    {
+        "tag":"T",
+        "row":119,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.119"
+    },
+    {
+        "tag":"T",
+        "row":120,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.120"
+    },
+    {
+        "tag":"T",
+        "row":121,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.121"
+    },
+    {
+        "tag":"T",
+        "row":122,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.122"
+    },
+    {
+        "tag":"T",
+        "row":123,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.123"
+    },
+    {
+        "tag":"T",
+        "row":124,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_english.124"
+    },
+    {
+        "tag":"T",
+        "row":125,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.125"
+    },
+    {
+        "tag":"T",
+        "row":126,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.126"
+    },
+    {
+        "tag":"T",
+        "row":127,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.127"
+    },
+    {
+        "tag":"T",
+        "row":128,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_english.128"
+    },
+    {
+        "tag":"T",
+        "row":129,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.129"
+    },
+    {
+        "tag":"T",
+        "row":130,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.130"
+    },
+    {
+        "tag":"T",
+        "row":131,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.131"
+    },
+    {
+        "tag":"T",
+        "row":132,
+        "score":"[4, 3, 4, 4, 3]",
+        "id":"dev.comedi_english.132"
+    },
+    {
+        "tag":"T",
+        "row":133,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.133"
+    },
+    {
+        "tag":"T",
+        "row":134,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_english.134"
+    },
+    {
+        "tag":"T",
+        "row":135,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.135"
+    },
+    {
+        "tag":"F",
+        "row":136,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.136"
+    },
+    {
+        "tag":"T",
+        "row":137,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_english.137"
+    },
+    {
+        "tag":"F",
+        "row":138,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.138"
+    },
+    {
+        "tag":"T",
+        "row":139,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.139"
+    },
+    {
+        "tag":"T",
+        "row":140,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.140"
+    },
+    {
+        "tag":"T",
+        "row":141,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_english.141"
+    },
+    {
+        "tag":"T",
+        "row":142,
+        "score":"[4, 3, 4, 4]",
+        "id":"dev.comedi_english.142"
+    },
+    {
+        "tag":"T",
+        "row":143,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.143"
+    },
+    {
+        "tag":"T",
+        "row":144,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.144"
+    },
+    {
+        "tag":"T",
+        "row":145,
+        "score":"[3, 3, 2]",
+        "id":"dev.comedi_english.145"
+    },
+    {
+        "tag":"T",
+        "row":146,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_english.146"
+    },
+    {
+        "tag":"F",
+        "row":147,
+        "score":"[2, 1, 2, 2]",
+        "id":"dev.comedi_english.147"
+    },
+    {
+        "tag":"T",
+        "row":148,
+        "score":"[3, 2, 3]",
+        "id":"dev.comedi_english.148"
+    },
+    {
+        "tag":"T",
+        "row":149,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.149"
+    },
+    {
+        "tag":"T",
+        "row":150,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_english.150"
+    },
+    {
+        "tag":"T",
+        "row":151,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.151"
+    },
+    {
+        "tag":"T",
+        "row":152,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.152"
+    },
+    {
+        "tag":"T",
+        "row":153,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.153"
+    },
+    {
+        "tag":"T",
+        "row":154,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.154"
+    },
+    {
+        "tag":"T",
+        "row":155,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.155"
+    },
+    {
+        "tag":"T",
+        "row":156,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.156"
+    },
+    {
+        "tag":"T",
+        "row":157,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_english.157"
+    },
+    {
+        "tag":"T",
+        "row":158,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.158"
+    },
+    {
+        "tag":"T",
+        "row":159,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_english.159"
+    },
+    {
+        "tag":"T",
+        "row":160,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.160"
+    },
+    {
+        "tag":"T",
+        "row":161,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.161"
+    },
+    {
+        "tag":"T",
+        "row":162,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.162"
+    },
+    {
+        "tag":"T",
+        "row":163,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.163"
+    },
+    {
+        "tag":"T",
+        "row":164,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.164"
+    },
+    {
+        "tag":"T",
+        "row":165,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_english.165"
+    },
+    {
+        "tag":"T",
+        "row":166,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_english.166"
+    },
+    {
+        "tag":"T",
+        "row":167,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.167"
+    },
+    {
+        "tag":"T",
+        "row":168,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.168"
+    },
+    {
+        "tag":"T",
+        "row":169,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.169"
+    },
+    {
+        "tag":"T",
+        "row":170,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.170"
+    },
+    {
+        "tag":"T",
+        "row":171,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.171"
+    },
+    {
+        "tag":"T",
+        "row":172,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.172"
+    },
+    {
+        "tag":"T",
+        "row":173,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.173"
+    },
+    {
+        "tag":"T",
+        "row":174,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.174"
+    },
+    {
+        "tag":"T",
+        "row":175,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_english.175"
+    },
+    {
+        "tag":"T",
+        "row":176,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_english.176"
+    },
+    {
+        "tag":"T",
+        "row":177,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.177"
+    },
+    {
+        "tag":"T",
+        "row":178,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.178"
+    },
+    {
+        "tag":"T",
+        "row":179,
+        "score":"[3, 2, 3]",
+        "id":"dev.comedi_english.179"
+    },
+    {
+        "tag":"T",
+        "row":180,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.180"
+    },
+    {
+        "tag":"F",
+        "row":181,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.181"
+    },
+    {
+        "tag":"T",
+        "row":182,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.182"
+    },
+    {
+        "tag":"T",
+        "row":183,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_english.183"
+    },
+    {
+        "tag":"T",
+        "row":184,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.184"
+    },
+    {
+        "tag":"T",
+        "row":185,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.185"
+    },
+    {
+        "tag":"T",
+        "row":186,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.186"
+    },
+    {
+        "tag":"T",
+        "row":187,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.187"
+    },
+    {
+        "tag":"T",
+        "row":188,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.188"
+    },
+    {
+        "tag":"T",
+        "row":189,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.189"
+    },
+    {
+        "tag":"T",
+        "row":190,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.190"
+    },
+    {
+        "tag":"T",
+        "row":191,
+        "score":"[3, 2, 3]",
+        "id":"dev.comedi_english.191"
+    },
+    {
+        "tag":"T",
+        "row":192,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_english.192"
+    },
+    {
+        "tag":"T",
+        "row":193,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.193"
+    },
+    {
+        "tag":"T",
+        "row":194,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.194"
+    },
+    {
+        "tag":"T",
+        "row":195,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.195"
+    },
+    {
+        "tag":"T",
+        "row":196,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_english.196"
+    },
+    {
+        "tag":"T",
+        "row":197,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.197"
+    },
+    {
+        "tag":"T",
+        "row":198,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.198"
+    },
+    {
+        "tag":"T",
+        "row":199,
+        "score":"[3, 3, 2]",
+        "id":"dev.comedi_english.199"
+    },
+    {
+        "tag":"T",
+        "row":200,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.200"
+    },
+    {
+        "tag":"T",
+        "row":201,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.201"
+    },
+    {
+        "tag":"T",
+        "row":202,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.202"
+    },
+    {
+        "tag":"T",
+        "row":203,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.203"
+    },
+    {
+        "tag":"T",
+        "row":204,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.204"
+    },
+    {
+        "tag":"T",
+        "row":205,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.205"
+    },
+    {
+        "tag":"T",
+        "row":206,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.206"
+    },
+    {
+        "tag":"T",
+        "row":207,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.207"
+    },
+    {
+        "tag":"F",
+        "row":208,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.208"
+    },
+    {
+        "tag":"T",
+        "row":209,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.209"
+    },
+    {
+        "tag":"T",
+        "row":210,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.210"
+    },
+    {
+        "tag":"T",
+        "row":211,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.211"
+    },
+    {
+        "tag":"T",
+        "row":212,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_english.212"
+    },
+    {
+        "tag":"T",
+        "row":213,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.213"
+    },
+    {
+        "tag":"T",
+        "row":214,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.214"
+    },
+    {
+        "tag":"T",
+        "row":215,
+        "score":"[3, 3, 2]",
+        "id":"dev.comedi_english.215"
+    },
+    {
+        "tag":"T",
+        "row":216,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.216"
+    },
+    {
+        "tag":"T",
+        "row":217,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_english.217"
+    },
+    {
+        "tag":"T",
+        "row":218,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_english.218"
+    },
+    {
+        "tag":"T",
+        "row":219,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.219"
+    },
+    {
+        "tag":"T",
+        "row":220,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.220"
+    },
+    {
+        "tag":"T",
+        "row":221,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.221"
+    },
+    {
+        "tag":"F",
+        "row":222,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.222"
+    },
+    {
+        "tag":"F",
+        "row":223,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.223"
+    },
+    {
+        "tag":"T",
+        "row":224,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.224"
+    },
+    {
+        "tag":"F",
+        "row":225,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.225"
+    },
+    {
+        "tag":"F",
+        "row":226,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_english.226"
+    },
+    {
+        "tag":"T",
+        "row":227,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.227"
+    },
+    {
+        "tag":"T",
+        "row":228,
+        "score":"[4, 4, 4, 4]",
+        "id":"dev.comedi_english.228"
+    },
+    {
+        "tag":"F",
+        "row":229,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.229"
+    },
+    {
+        "tag":"T",
+        "row":230,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.230"
+    },
+    {
+        "tag":"F",
+        "row":231,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.231"
+    },
+    {
+        "tag":"F",
+        "row":232,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.232"
+    },
+    {
+        "tag":"T",
+        "row":233,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.233"
+    },
+    {
+        "tag":"F",
+        "row":234,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.234"
+    },
+    {
+        "tag":"T",
+        "row":235,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.235"
+    },
+    {
+        "tag":"F",
+        "row":236,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.236"
+    },
+    {
+        "tag":"T",
+        "row":237,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.237"
+    },
+    {
+        "tag":"F",
+        "row":238,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.238"
+    },
+    {
+        "tag":"T",
+        "row":239,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.239"
+    },
+    {
+        "tag":"F",
+        "row":240,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.240"
+    },
+    {
+        "tag":"F",
+        "row":241,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.241"
+    },
+    {
+        "tag":"F",
+        "row":242,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.242"
+    },
+    {
+        "tag":"T",
+        "row":243,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_english.243"
+    },
+    {
+        "tag":"T",
+        "row":244,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.244"
+    },
+    {
+        "tag":"F",
+        "row":245,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.245"
+    },
+    {
+        "tag":"T",
+        "row":246,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.246"
+    },
+    {
+        "tag":"T",
+        "row":247,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.247"
+    },
+    {
+        "tag":"T",
+        "row":248,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.248"
+    },
+    {
+        "tag":"F",
+        "row":249,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.249"
+    },
+    {
+        "tag":"T",
+        "row":250,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.250"
+    },
+    {
+        "tag":"F",
+        "row":251,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.251"
+    },
+    {
+        "tag":"T",
+        "row":252,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.252"
+    },
+    {
+        "tag":"F",
+        "row":253,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.253"
+    },
+    {
+        "tag":"F",
+        "row":254,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.254"
+    },
+    {
+        "tag":"T",
+        "row":255,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.255"
+    },
+    {
+        "tag":"T",
+        "row":256,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.256"
+    },
+    {
+        "tag":"F",
+        "row":257,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.257"
+    },
+    {
+        "tag":"F",
+        "row":258,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_english.258"
+    },
+    {
+        "tag":"F",
+        "row":259,
+        "score":"[1, 2, 1, 1]",
+        "id":"dev.comedi_english.259"
+    },
+    {
+        "tag":"F",
+        "row":260,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.260"
+    },
+    {
+        "tag":"F",
+        "row":261,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_english.261"
+    },
+    {
+        "tag":"F",
+        "row":262,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.262"
+    },
+    {
+        "tag":"T",
+        "row":263,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.263"
+    },
+    {
+        "tag":"T",
+        "row":264,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.264"
+    },
+    {
+        "tag":"T",
+        "row":265,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.265"
+    },
+    {
+        "tag":"T",
+        "row":266,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.266"
+    },
+    {
+        "tag":"F",
+        "row":267,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.267"
+    },
+    {
+        "tag":"F",
+        "row":268,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.268"
+    },
+    {
+        "tag":"T",
+        "row":269,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.269"
+    },
+    {
+        "tag":"T",
+        "row":270,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.270"
+    },
+    {
+        "tag":"F",
+        "row":271,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.271"
+    },
+    {
+        "tag":"F",
+        "row":272,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.272"
+    },
+    {
+        "tag":"T",
+        "row":273,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.273"
+    },
+    {
+        "tag":"F",
+        "row":274,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.274"
+    },
+    {
+        "tag":"F",
+        "row":275,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.275"
+    },
+    {
+        "tag":"F",
+        "row":276,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.276"
+    },
+    {
+        "tag":"T",
+        "row":277,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.277"
+    },
+    {
+        "tag":"F",
+        "row":278,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.278"
+    },
+    {
+        "tag":"F",
+        "row":279,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.279"
+    },
+    {
+        "tag":"F",
+        "row":280,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.280"
+    },
+    {
+        "tag":"F",
+        "row":281,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.281"
+    },
+    {
+        "tag":"T",
+        "row":282,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.282"
+    },
+    {
+        "tag":"F",
+        "row":283,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.283"
+    },
+    {
+        "tag":"T",
+        "row":284,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.284"
+    },
+    {
+        "tag":"T",
+        "row":285,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.285"
+    },
+    {
+        "tag":"T",
+        "row":286,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.286"
+    },
+    {
+        "tag":"F",
+        "row":287,
+        "score":"[2, 1, 1]",
+        "id":"dev.comedi_english.287"
+    },
+    {
+        "tag":"F",
+        "row":288,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.288"
+    },
+    {
+        "tag":"T",
+        "row":289,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.289"
+    },
+    {
+        "tag":"T",
+        "row":290,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.290"
+    },
+    {
+        "tag":"T",
+        "row":291,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.291"
+    },
+    {
+        "tag":"T",
+        "row":292,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.292"
+    },
+    {
+        "tag":"T",
+        "row":293,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.293"
+    },
+    {
+        "tag":"T",
+        "row":294,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.294"
+    },
+    {
+        "tag":"T",
+        "row":295,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.295"
+    },
+    {
+        "tag":"T",
+        "row":296,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.296"
+    },
+    {
+        "tag":"T",
+        "row":297,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.297"
+    },
+    {
+        "tag":"T",
+        "row":298,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.298"
+    },
+    {
+        "tag":"T",
+        "row":299,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.299"
+    },
+    {
+        "tag":"T",
+        "row":300,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.300"
+    },
+    {
+        "tag":"T",
+        "row":301,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.301"
+    },
+    {
+        "tag":"T",
+        "row":302,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.302"
+    },
+    {
+        "tag":"F",
+        "row":303,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.303"
+    },
+    {
+        "tag":"T",
+        "row":304,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.304"
+    },
+    {
+        "tag":"T",
+        "row":305,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.305"
+    },
+    {
+        "tag":"F",
+        "row":306,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.306"
+    },
+    {
+        "tag":"F",
+        "row":307,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.307"
+    },
+    {
+        "tag":"F",
+        "row":308,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.308"
+    },
+    {
+        "tag":"T",
+        "row":309,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.309"
+    },
+    {
+        "tag":"T",
+        "row":310,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.310"
+    },
+    {
+        "tag":"T",
+        "row":311,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.311"
+    },
+    {
+        "tag":"T",
+        "row":312,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.312"
+    },
+    {
+        "tag":"T",
+        "row":313,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.313"
+    },
+    {
+        "tag":"T",
+        "row":314,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.314"
+    },
+    {
+        "tag":"T",
+        "row":315,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.315"
+    },
+    {
+        "tag":"T",
+        "row":316,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.316"
+    },
+    {
+        "tag":"T",
+        "row":317,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.317"
+    },
+    {
+        "tag":"F",
+        "row":318,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.318"
+    },
+    {
+        "tag":"F",
+        "row":319,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.319"
+    },
+    {
+        "tag":"T",
+        "row":320,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_english.320"
+    },
+    {
+        "tag":"F",
+        "row":321,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.321"
+    },
+    {
+        "tag":"F",
+        "row":322,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.322"
+    },
+    {
+        "tag":"F",
+        "row":323,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.323"
+    },
+    {
+        "tag":"T",
+        "row":324,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_english.324"
+    },
+    {
+        "tag":"F",
+        "row":325,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.325"
+    },
+    {
+        "tag":"F",
+        "row":326,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.326"
+    },
+    {
+        "tag":"F",
+        "row":327,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_english.327"
+    },
+    {
+        "tag":"F",
+        "row":328,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.328"
+    },
+    {
+        "tag":"T",
+        "row":329,
+        "score":"[3, 3, 2]",
+        "id":"dev.comedi_english.329"
+    },
+    {
+        "tag":"T",
+        "row":330,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.330"
+    },
+    {
+        "tag":"F",
+        "row":331,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.331"
+    },
+    {
+        "tag":"F",
+        "row":332,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.332"
+    },
+    {
+        "tag":"T",
+        "row":333,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.333"
+    },
+    {
+        "tag":"F",
+        "row":334,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.334"
+    },
+    {
+        "tag":"T",
+        "row":335,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.335"
+    },
+    {
+        "tag":"T",
+        "row":336,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_english.336"
+    },
+    {
+        "tag":"T",
+        "row":337,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.337"
+    },
+    {
+        "tag":"F",
+        "row":338,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.338"
+    },
+    {
+        "tag":"T",
+        "row":339,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.339"
+    },
+    {
+        "tag":"T",
+        "row":340,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.340"
+    },
+    {
+        "tag":"T",
+        "row":341,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.341"
+    },
+    {
+        "tag":"F",
+        "row":342,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.342"
+    },
+    {
+        "tag":"F",
+        "row":343,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.343"
+    },
+    {
+        "tag":"T",
+        "row":344,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.344"
+    },
+    {
+        "tag":"T",
+        "row":345,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.345"
+    },
+    {
+        "tag":"F",
+        "row":346,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.346"
+    },
+    {
+        "tag":"T",
+        "row":347,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.347"
+    },
+    {
+        "tag":"T",
+        "row":348,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.348"
+    },
+    {
+        "tag":"F",
+        "row":349,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_english.349"
+    },
+    {
+        "tag":"F",
+        "row":350,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.350"
+    },
+    {
+        "tag":"F",
+        "row":351,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.351"
+    },
+    {
+        "tag":"F",
+        "row":352,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.352"
+    },
+    {
+        "tag":"F",
+        "row":353,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.353"
+    },
+    {
+        "tag":"T",
+        "row":354,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.354"
+    },
+    {
+        "tag":"F",
+        "row":355,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.355"
+    },
+    {
+        "tag":"F",
+        "row":356,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.356"
+    },
+    {
+        "tag":"F",
+        "row":357,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.357"
+    },
+    {
+        "tag":"T",
+        "row":358,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.358"
+    },
+    {
+        "tag":"F",
+        "row":359,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.359"
+    },
+    {
+        "tag":"T",
+        "row":360,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.360"
+    },
+    {
+        "tag":"F",
+        "row":361,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.361"
+    },
+    {
+        "tag":"F",
+        "row":362,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.362"
+    },
+    {
+        "tag":"F",
+        "row":363,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.363"
+    },
+    {
+        "tag":"F",
+        "row":364,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.364"
+    },
+    {
+        "tag":"F",
+        "row":365,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.365"
+    },
+    {
+        "tag":"F",
+        "row":366,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.366"
+    },
+    {
+        "tag":"F",
+        "row":367,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.367"
+    },
+    {
+        "tag":"F",
+        "row":368,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.368"
+    },
+    {
+        "tag":"F",
+        "row":369,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.369"
+    },
+    {
+        "tag":"F",
+        "row":370,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.370"
+    },
+    {
+        "tag":"F",
+        "row":371,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.371"
+    },
+    {
+        "tag":"F",
+        "row":372,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.372"
+    },
+    {
+        "tag":"F",
+        "row":373,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.373"
+    },
+    {
+        "tag":"T",
+        "row":374,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.374"
+    },
+    {
+        "tag":"F",
+        "row":375,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.375"
+    },
+    {
+        "tag":"F",
+        "row":376,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.376"
+    },
+    {
+        "tag":"T",
+        "row":377,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.377"
+    },
+    {
+        "tag":"F",
+        "row":378,
+        "score":"[1, 1, 1, 1]",
+        "id":"dev.comedi_english.378"
+    },
+    {
+        "tag":"F",
+        "row":379,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.379"
+    },
+    {
+        "tag":"F",
+        "row":380,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.380"
+    },
+    {
+        "tag":"F",
+        "row":381,
+        "score":"[2, 1, 1]",
+        "id":"dev.comedi_english.381"
+    },
+    {
+        "tag":"F",
+        "row":382,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.382"
+    },
+    {
+        "tag":"F",
+        "row":383,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.383"
+    },
+    {
+        "tag":"F",
+        "row":384,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_english.384"
+    },
+    {
+        "tag":"F",
+        "row":385,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.385"
+    },
+    {
+        "tag":"F",
+        "row":386,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.386"
+    },
+    {
+        "tag":"F",
+        "row":387,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.387"
+    },
+    {
+        "tag":"F",
+        "row":388,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.388"
+    },
+    {
+        "tag":"F",
+        "row":389,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.389"
+    },
+    {
+        "tag":"F",
+        "row":390,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.390"
+    },
+    {
+        "tag":"F",
+        "row":391,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.391"
+    },
+    {
+        "tag":"F",
+        "row":392,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.392"
+    },
+    {
+        "tag":"T",
+        "row":393,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_english.393"
+    },
+    {
+        "tag":"F",
+        "row":394,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.394"
+    },
+    {
+        "tag":"F",
+        "row":395,
+        "score":"[1, 2, 1, 1]",
+        "id":"dev.comedi_english.395"
+    },
+    {
+        "tag":"F",
+        "row":396,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.396"
+    },
+    {
+        "tag":"F",
+        "row":397,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.397"
+    },
+    {
+        "tag":"T",
+        "row":398,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.398"
+    },
+    {
+        "tag":"T",
+        "row":399,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.399"
+    },
+    {
+        "tag":"F",
+        "row":400,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.400"
+    },
+    {
+        "tag":"F",
+        "row":401,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.401"
+    },
+    {
+        "tag":"T",
+        "row":402,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.402"
+    },
+    {
+        "tag":"T",
+        "row":403,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_english.403"
+    },
+    {
+        "tag":"T",
+        "row":404,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.404"
+    },
+    {
+        "tag":"F",
+        "row":405,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.405"
+    },
+    {
+        "tag":"T",
+        "row":406,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.406"
+    },
+    {
+        "tag":"T",
+        "row":407,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.407"
+    },
+    {
+        "tag":"T",
+        "row":408,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_english.408"
+    },
+    {
+        "tag":"F",
+        "row":409,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.409"
+    },
+    {
+        "tag":"T",
+        "row":410,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.410"
+    },
+    {
+        "tag":"T",
+        "row":411,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.411"
+    },
+    {
+        "tag":"T",
+        "row":412,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.412"
+    },
+    {
+        "tag":"T",
+        "row":413,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.413"
+    },
+    {
+        "tag":"T",
+        "row":414,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.414"
+    },
+    {
+        "tag":"F",
+        "row":415,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.415"
+    },
+    {
+        "tag":"F",
+        "row":416,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.416"
+    },
+    {
+        "tag":"F",
+        "row":417,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.417"
+    },
+    {
+        "tag":"F",
+        "row":418,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.418"
+    },
+    {
+        "tag":"F",
+        "row":419,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.419"
+    },
+    {
+        "tag":"T",
+        "row":420,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.420"
+    },
+    {
+        "tag":"F",
+        "row":421,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_english.421"
+    },
+    {
+        "tag":"F",
+        "row":422,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.422"
+    },
+    {
+        "tag":"F",
+        "row":423,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.423"
+    },
+    {
+        "tag":"F",
+        "row":424,
+        "score":"[1, 2, 1, 1]",
+        "id":"dev.comedi_english.424"
+    },
+    {
+        "tag":"F",
+        "row":425,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.425"
+    },
+    {
+        "tag":"F",
+        "row":426,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.426"
+    },
+    {
+        "tag":"F",
+        "row":427,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.427"
+    },
+    {
+        "tag":"F",
+        "row":428,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.428"
+    },
+    {
+        "tag":"T",
+        "row":429,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.429"
+    },
+    {
+        "tag":"F",
+        "row":430,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.430"
+    },
+    {
+        "tag":"T",
+        "row":431,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.431"
+    },
+    {
+        "tag":"F",
+        "row":432,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.432"
+    },
+    {
+        "tag":"T",
+        "row":433,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.433"
+    },
+    {
+        "tag":"F",
+        "row":434,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.434"
+    },
+    {
+        "tag":"F",
+        "row":435,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.435"
+    },
+    {
+        "tag":"T",
+        "row":436,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.436"
+    },
+    {
+        "tag":"T",
+        "row":437,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.437"
+    },
+    {
+        "tag":"T",
+        "row":438,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.438"
+    },
+    {
+        "tag":"F",
+        "row":439,
+        "score":"[2, 1, 1]",
+        "id":"dev.comedi_english.439"
+    },
+    {
+        "tag":"F",
+        "row":440,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.440"
+    },
+    {
+        "tag":"F",
+        "row":441,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.441"
+    },
+    {
+        "tag":"F",
+        "row":442,
+        "score":"[1, 1, 1, 1]",
+        "id":"dev.comedi_english.442"
+    },
+    {
+        "tag":"F",
+        "row":443,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.443"
+    },
+    {
+        "tag":"F",
+        "row":444,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.444"
+    },
+    {
+        "tag":"T",
+        "row":445,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.445"
+    },
+    {
+        "tag":"T",
+        "row":446,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.446"
+    },
+    {
+        "tag":"F",
+        "row":447,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.447"
+    },
+    {
+        "tag":"T",
+        "row":448,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.448"
+    },
+    {
+        "tag":"T",
+        "row":449,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.449"
+    },
+    {
+        "tag":"T",
+        "row":450,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.450"
+    },
+    {
+        "tag":"F",
+        "row":451,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.451"
+    },
+    {
+        "tag":"T",
+        "row":452,
+        "score":"[4, 4, 4, 4]",
+        "id":"dev.comedi_english.452"
+    },
+    {
+        "tag":"F",
+        "row":453,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.453"
+    },
+    {
+        "tag":"F",
+        "row":454,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.454"
+    },
+    {
+        "tag":"F",
+        "row":455,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.455"
+    },
+    {
+        "tag":"F",
+        "row":456,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.456"
+    },
+    {
+        "tag":"F",
+        "row":457,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.457"
+    },
+    {
+        "tag":"T",
+        "row":458,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.458"
+    },
+    {
+        "tag":"T",
+        "row":459,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.459"
+    },
+    {
+        "tag":"F",
+        "row":460,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.460"
+    },
+    {
+        "tag":"F",
+        "row":461,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.461"
+    },
+    {
+        "tag":"F",
+        "row":462,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.462"
+    },
+    {
+        "tag":"T",
+        "row":463,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.463"
+    },
+    {
+        "tag":"F",
+        "row":464,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.464"
+    },
+    {
+        "tag":"T",
+        "row":465,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.465"
+    },
+    {
+        "tag":"T",
+        "row":466,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.466"
+    },
+    {
+        "tag":"T",
+        "row":467,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.467"
+    },
+    {
+        "tag":"T",
+        "row":468,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.468"
+    },
+    {
+        "tag":"T",
+        "row":469,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.469"
+    },
+    {
+        "tag":"T",
+        "row":470,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.470"
+    },
+    {
+        "tag":"T",
+        "row":471,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.471"
+    },
+    {
+        "tag":"T",
+        "row":472,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.472"
+    },
+    {
+        "tag":"T",
+        "row":473,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.473"
+    },
+    {
+        "tag":"T",
+        "row":474,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.474"
+    },
+    {
+        "tag":"T",
+        "row":475,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.475"
+    },
+    {
+        "tag":"F",
+        "row":476,
+        "score":"[2, 2, 3]",
+        "id":"dev.comedi_english.476"
+    },
+    {
+        "tag":"T",
+        "row":477,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.477"
+    },
+    {
+        "tag":"F",
+        "row":478,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.478"
+    },
+    {
+        "tag":"T",
+        "row":479,
+        "score":"[3, 4, 4, 4]",
+        "id":"dev.comedi_english.479"
+    },
+    {
+        "tag":"F",
+        "row":480,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.480"
+    },
+    {
+        "tag":"T",
+        "row":481,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.481"
+    },
+    {
+        "tag":"T",
+        "row":482,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.482"
+    },
+    {
+        "tag":"T",
+        "row":483,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.483"
+    },
+    {
+        "tag":"F",
+        "row":484,
+        "score":"[2, 2, 2]",
+        "id":"dev.comedi_english.484"
+    },
+    {
+        "tag":"T",
+        "row":485,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.485"
+    },
+    {
+        "tag":"T",
+        "row":486,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.486"
+    },
+    {
+        "tag":"F",
+        "row":487,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.487"
+    },
+    {
+        "tag":"T",
+        "row":488,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.488"
+    },
+    {
+        "tag":"T",
+        "row":489,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.489"
+    },
+    {
+        "tag":"T",
+        "row":490,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.490"
+    },
+    {
+        "tag":"T",
+        "row":491,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.491"
+    },
+    {
+        "tag":"T",
+        "row":492,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.492"
+    },
+    {
+        "tag":"T",
+        "row":493,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.493"
+    },
+    {
+        "tag":"T",
+        "row":494,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.494"
+    },
+    {
+        "tag":"T",
+        "row":495,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.495"
+    },
+    {
+        "tag":"T",
+        "row":496,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.496"
+    },
+    {
+        "tag":"F",
+        "row":497,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_english.497"
+    },
+    {
+        "tag":"F",
+        "row":498,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.498"
+    },
+    {
+        "tag":"T",
+        "row":499,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.499"
+    },
+    {
+        "tag":"T",
+        "row":500,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.500"
+    },
+    {
+        "tag":"F",
+        "row":501,
+        "score":"[2, 2, 3]",
+        "id":"dev.comedi_english.501"
+    },
+    {
+        "tag":"T",
+        "row":502,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.502"
+    },
+    {
+        "tag":"F",
+        "row":503,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.503"
+    },
+    {
+        "tag":"T",
+        "row":504,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.504"
+    },
+    {
+        "tag":"T",
+        "row":505,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.505"
+    },
+    {
+        "tag":"F",
+        "row":506,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.506"
+    },
+    {
+        "tag":"T",
+        "row":507,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.507"
+    },
+    {
+        "tag":"T",
+        "row":508,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.508"
+    },
+    {
+        "tag":"T",
+        "row":509,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.509"
+    },
+    {
+        "tag":"T",
+        "row":510,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_english.510"
+    },
+    {
+        "tag":"F",
+        "row":511,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.511"
+    },
+    {
+        "tag":"F",
+        "row":512,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.512"
+    },
+    {
+        "tag":"F",
+        "row":513,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.513"
+    },
+    {
+        "tag":"T",
+        "row":514,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.514"
+    },
+    {
+        "tag":"F",
+        "row":515,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.515"
+    },
+    {
+        "tag":"F",
+        "row":516,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.516"
+    },
+    {
+        "tag":"T",
+        "row":517,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.517"
+    },
+    {
+        "tag":"T",
+        "row":518,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.518"
+    },
+    {
+        "tag":"F",
+        "row":519,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.519"
+    },
+    {
+        "tag":"F",
+        "row":520,
+        "score":"[1, 2, 2]",
+        "id":"dev.comedi_english.520"
+    },
+    {
+        "tag":"T",
+        "row":521,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_english.521"
+    },
+    {
+        "tag":"T",
+        "row":522,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.522"
+    },
+    {
+        "tag":"T",
+        "row":523,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.523"
+    },
+    {
+        "tag":"T",
+        "row":524,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.524"
+    },
+    {
+        "tag":"T",
+        "row":525,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.525"
+    },
+    {
+        "tag":"F",
+        "row":526,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.526"
+    },
+    {
+        "tag":"T",
+        "row":527,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.527"
+    },
+    {
+        "tag":"F",
+        "row":528,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.528"
+    },
+    {
+        "tag":"T",
+        "row":529,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.529"
+    },
+    {
+        "tag":"T",
+        "row":530,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.530"
+    },
+    {
+        "tag":"F",
+        "row":531,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.531"
+    },
+    {
+        "tag":"T",
+        "row":532,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.532"
+    },
+    {
+        "tag":"T",
+        "row":533,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.533"
+    },
+    {
+        "tag":"T",
+        "row":534,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.534"
+    },
+    {
+        "tag":"T",
+        "row":535,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.535"
+    },
+    {
+        "tag":"F",
+        "row":536,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.536"
+    },
+    {
+        "tag":"F",
+        "row":537,
+        "score":"[2, 1, 1]",
+        "id":"dev.comedi_english.537"
+    },
+    {
+        "tag":"F",
+        "row":538,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.538"
+    },
+    {
+        "tag":"T",
+        "row":539,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.539"
+    },
+    {
+        "tag":"F",
+        "row":540,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.540"
+    },
+    {
+        "tag":"F",
+        "row":541,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.541"
+    },
+    {
+        "tag":"T",
+        "row":542,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.542"
+    },
+    {
+        "tag":"T",
+        "row":543,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.543"
+    },
+    {
+        "tag":"T",
+        "row":544,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.544"
+    },
+    {
+        "tag":"T",
+        "row":545,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.545"
+    },
+    {
+        "tag":"F",
+        "row":546,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.546"
+    },
+    {
+        "tag":"T",
+        "row":547,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.547"
+    },
+    {
+        "tag":"F",
+        "row":548,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_english.548"
+    },
+    {
+        "tag":"T",
+        "row":549,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.549"
+    },
+    {
+        "tag":"T",
+        "row":550,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.550"
+    },
+    {
+        "tag":"T",
+        "row":551,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.551"
+    },
+    {
+        "tag":"T",
+        "row":552,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.552"
+    },
+    {
+        "tag":"T",
+        "row":553,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.553"
+    },
+    {
+        "tag":"T",
+        "row":554,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.554"
+    },
+    {
+        "tag":"T",
+        "row":555,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.555"
+    },
+    {
+        "tag":"F",
+        "row":556,
+        "score":"[1, 2, 1, 1]",
+        "id":"dev.comedi_english.556"
+    },
+    {
+        "tag":"T",
+        "row":557,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.557"
+    },
+    {
+        "tag":"T",
+        "row":558,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.558"
+    },
+    {
+        "tag":"T",
+        "row":559,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.559"
+    },
+    {
+        "tag":"T",
+        "row":560,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.560"
+    },
+    {
+        "tag":"T",
+        "row":561,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.561"
+    },
+    {
+        "tag":"T",
+        "row":562,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.562"
+    },
+    {
+        "tag":"T",
+        "row":563,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.563"
+    },
+    {
+        "tag":"F",
+        "row":564,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.564"
+    },
+    {
+        "tag":"T",
+        "row":565,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_english.565"
+    },
+    {
+        "tag":"T",
+        "row":566,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.566"
+    },
+    {
+        "tag":"T",
+        "row":567,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.567"
+    },
+    {
+        "tag":"T",
+        "row":568,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.568"
+    },
+    {
+        "tag":"T",
+        "row":569,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.569"
+    },
+    {
+        "tag":"F",
+        "row":570,
+        "score":"[2, 2, 2]",
+        "id":"dev.comedi_english.570"
+    },
+    {
+        "tag":"F",
+        "row":571,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.571"
+    },
+    {
+        "tag":"F",
+        "row":572,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.572"
+    },
+    {
+        "tag":"T",
+        "row":573,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.573"
+    },
+    {
+        "tag":"T",
+        "row":574,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.574"
+    },
+    {
+        "tag":"T",
+        "row":575,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.575"
+    },
+    {
+        "tag":"T",
+        "row":576,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.576"
+    },
+    {
+        "tag":"T",
+        "row":577,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.577"
+    },
+    {
+        "tag":"T",
+        "row":578,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.578"
+    },
+    {
+        "tag":"T",
+        "row":579,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.579"
+    },
+    {
+        "tag":"T",
+        "row":580,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.580"
+    },
+    {
+        "tag":"T",
+        "row":581,
+        "score":"[3, 4, 4, 4]",
+        "id":"dev.comedi_english.581"
+    },
+    {
+        "tag":"T",
+        "row":582,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_english.582"
+    },
+    {
+        "tag":"T",
+        "row":583,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_english.583"
+    },
+    {
+        "tag":"F",
+        "row":584,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.584"
+    },
+    {
+        "tag":"T",
+        "row":585,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_english.585"
+    },
+    {
+        "tag":"T",
+        "row":586,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.586"
+    },
+    {
+        "tag":"T",
+        "row":587,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.587"
+    },
+    {
+        "tag":"F",
+        "row":588,
+        "score":"[2, 3, 2]",
+        "id":"dev.comedi_english.588"
+    },
+    {
+        "tag":"T",
+        "row":589,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.589"
+    },
+    {
+        "tag":"F",
+        "row":590,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.590"
+    },
+    {
+        "tag":"T",
+        "row":591,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.591"
+    },
+    {
+        "tag":"T",
+        "row":592,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_english.592"
+    },
+    {
+        "tag":"T",
+        "row":593,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.593"
+    },
+    {
+        "tag":"T",
+        "row":594,
+        "score":"[3, 2, 3]",
+        "id":"dev.comedi_english.594"
+    },
+    {
+        "tag":"F",
+        "row":595,
+        "score":"[2, 2, 3]",
+        "id":"dev.comedi_english.595"
+    },
+    {
+        "tag":"T",
+        "row":596,
+        "score":"[3, 3, 3]",
+        "id":"dev.comedi_english.596"
+    },
+    {
+        "tag":"T",
+        "row":597,
+        "score":"[2, 3, 3, 3, 2]",
+        "id":"dev.comedi_english.597"
+    },
+    {
+        "tag":"F",
+        "row":598,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.598"
+    },
+    {
+        "tag":"T",
+        "row":599,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.599"
+    },
+    {
+        "tag":"T",
+        "row":600,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.600"
+    },
+    {
+        "tag":"T",
+        "row":601,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.601"
+    },
+    {
+        "tag":"F",
+        "row":602,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.602"
+    },
+    {
+        "tag":"F",
+        "row":603,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.603"
+    },
+    {
+        "tag":"F",
+        "row":604,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.604"
+    },
+    {
+        "tag":"T",
+        "row":605,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.605"
+    },
+    {
+        "tag":"F",
+        "row":606,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.606"
+    },
+    {
+        "tag":"F",
+        "row":607,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_english.607"
+    },
+    {
+        "tag":"T",
+        "row":608,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.608"
+    },
+    {
+        "tag":"F",
+        "row":609,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.609"
+    },
+    {
+        "tag":"T",
+        "row":610,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.610"
+    },
+    {
+        "tag":"T",
+        "row":611,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.611"
+    },
+    {
+        "tag":"T",
+        "row":612,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.612"
+    },
+    {
+        "tag":"T",
+        "row":613,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.613"
+    },
+    {
+        "tag":"T",
+        "row":614,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.614"
+    },
+    {
+        "tag":"T",
+        "row":615,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.615"
+    },
+    {
+        "tag":"F",
+        "row":616,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.616"
+    },
+    {
+        "tag":"T",
+        "row":617,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.617"
+    },
+    {
+        "tag":"T",
+        "row":618,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.618"
+    },
+    {
+        "tag":"F",
+        "row":619,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.619"
+    },
+    {
+        "tag":"F",
+        "row":620,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.620"
+    },
+    {
+        "tag":"F",
+        "row":621,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.621"
+    },
+    {
+        "tag":"F",
+        "row":622,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_english.622"
+    },
+    {
+        "tag":"F",
+        "row":623,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.623"
+    },
+    {
+        "tag":"T",
+        "row":624,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.624"
+    },
+    {
+        "tag":"F",
+        "row":625,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.625"
+    },
+    {
+        "tag":"F",
+        "row":626,
+        "score":"[2, 2, 1]",
+        "id":"dev.comedi_english.626"
+    },
+    {
+        "tag":"F",
+        "row":627,
+        "score":"[2, 2, 1]",
+        "id":"dev.comedi_english.627"
+    },
+    {
+        "tag":"T",
+        "row":628,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.628"
+    },
+    {
+        "tag":"F",
+        "row":629,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_english.629"
+    },
+    {
+        "tag":"T",
+        "row":630,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.630"
+    },
+    {
+        "tag":"F",
+        "row":631,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.631"
+    },
+    {
+        "tag":"F",
+        "row":632,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.632"
+    },
+    {
+        "tag":"F",
+        "row":633,
+        "score":"[2, 1, 1]",
+        "id":"dev.comedi_english.633"
+    },
+    {
+        "tag":"T",
+        "row":634,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.634"
+    },
+    {
+        "tag":"F",
+        "row":635,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.635"
+    },
+    {
+        "tag":"T",
+        "row":636,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.636"
+    },
+    {
+        "tag":"F",
+        "row":637,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.637"
+    },
+    {
+        "tag":"T",
+        "row":638,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.638"
+    },
+    {
+        "tag":"F",
+        "row":639,
+        "score":"[1, 2, 2]",
+        "id":"dev.comedi_english.639"
+    },
+    {
+        "tag":"F",
+        "row":640,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.640"
+    },
+    {
+        "tag":"F",
+        "row":641,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.641"
+    },
+    {
+        "tag":"F",
+        "row":642,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.642"
+    },
+    {
+        "tag":"F",
+        "row":643,
+        "score":"[2, 2, 2, 1]",
+        "id":"dev.comedi_english.643"
+    },
+    {
+        "tag":"T",
+        "row":644,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.644"
+    },
+    {
+        "tag":"T",
+        "row":645,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.645"
+    },
+    {
+        "tag":"F",
+        "row":646,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.646"
+    },
+    {
+        "tag":"F",
+        "row":647,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.647"
+    },
+    {
+        "tag":"F",
+        "row":648,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.648"
+    },
+    {
+        "tag":"T",
+        "row":649,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.649"
+    },
+    {
+        "tag":"F",
+        "row":650,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.650"
+    },
+    {
+        "tag":"T",
+        "row":651,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.651"
+    },
+    {
+        "tag":"F",
+        "row":652,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.652"
+    },
+    {
+        "tag":"T",
+        "row":653,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.653"
+    },
+    {
+        "tag":"F",
+        "row":654,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.654"
+    },
+    {
+        "tag":"F",
+        "row":655,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.655"
+    },
+    {
+        "tag":"F",
+        "row":656,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.656"
+    },
+    {
+        "tag":"F",
+        "row":657,
+        "score":"[1, 2, 2]",
+        "id":"dev.comedi_english.657"
+    },
+    {
+        "tag":"T",
+        "row":658,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.658"
+    },
+    {
+        "tag":"T",
+        "row":659,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.659"
+    },
+    {
+        "tag":"F",
+        "row":660,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.660"
+    },
+    {
+        "tag":"T",
+        "row":661,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.661"
+    },
+    {
+        "tag":"F",
+        "row":662,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.662"
+    },
+    {
+        "tag":"T",
+        "row":663,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.663"
+    },
+    {
+        "tag":"T",
+        "row":664,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.664"
+    },
+    {
+        "tag":"T",
+        "row":665,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_english.665"
+    },
+    {
+        "tag":"F",
+        "row":666,
+        "score":"[1, 2, 2]",
+        "id":"dev.comedi_english.666"
+    },
+    {
+        "tag":"F",
+        "row":667,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.667"
+    },
+    {
+        "tag":"F",
+        "row":668,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.668"
+    },
+    {
+        "tag":"F",
+        "row":669,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.669"
+    },
+    {
+        "tag":"T",
+        "row":670,
+        "score":"[3, 3, 3, 2, 3]",
+        "id":"dev.comedi_english.670"
+    },
+    {
+        "tag":"F",
+        "row":671,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_english.671"
+    },
+    {
+        "tag":"F",
+        "row":672,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.672"
+    },
+    {
+        "tag":"F",
+        "row":673,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.673"
+    },
+    {
+        "tag":"T",
+        "row":674,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.674"
+    },
+    {
+        "tag":"T",
+        "row":675,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.675"
+    },
+    {
+        "tag":"T",
+        "row":676,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.676"
+    },
+    {
+        "tag":"F",
+        "row":677,
+        "score":"[2, 2, 3]",
+        "id":"dev.comedi_english.677"
+    },
+    {
+        "tag":"F",
+        "row":678,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.678"
+    },
+    {
+        "tag":"F",
+        "row":679,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.679"
+    },
+    {
+        "tag":"F",
+        "row":680,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.680"
+    },
+    {
+        "tag":"T",
+        "row":681,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.681"
+    },
+    {
+        "tag":"T",
+        "row":682,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.682"
+    },
+    {
+        "tag":"T",
+        "row":683,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.683"
+    },
+    {
+        "tag":"F",
+        "row":684,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.684"
+    },
+    {
+        "tag":"F",
+        "row":685,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.685"
+    },
+    {
+        "tag":"F",
+        "row":686,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.686"
+    },
+    {
+        "tag":"T",
+        "row":687,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.687"
+    },
+    {
+        "tag":"T",
+        "row":688,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.688"
+    },
+    {
+        "tag":"T",
+        "row":689,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.689"
+    },
+    {
+        "tag":"T",
+        "row":690,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.690"
+    },
+    {
+        "tag":"T",
+        "row":691,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.691"
+    },
+    {
+        "tag":"F",
+        "row":692,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.692"
+    },
+    {
+        "tag":"F",
+        "row":693,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.693"
+    },
+    {
+        "tag":"F",
+        "row":694,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.694"
+    },
+    {
+        "tag":"T",
+        "row":695,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.695"
+    },
+    {
+        "tag":"T",
+        "row":696,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.696"
+    },
+    {
+        "tag":"T",
+        "row":697,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.697"
+    },
+    {
+        "tag":"T",
+        "row":698,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.698"
+    },
+    {
+        "tag":"T",
+        "row":699,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.699"
+    },
+    {
+        "tag":"T",
+        "row":700,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.700"
+    },
+    {
+        "tag":"T",
+        "row":701,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.701"
+    },
+    {
+        "tag":"T",
+        "row":702,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.702"
+    },
+    {
+        "tag":"T",
+        "row":703,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.703"
+    },
+    {
+        "tag":"F",
+        "row":704,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.704"
+    },
+    {
+        "tag":"F",
+        "row":705,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_english.705"
+    },
+    {
+        "tag":"T",
+        "row":706,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.706"
+    },
+    {
+        "tag":"F",
+        "row":707,
+        "score":"[2, 3, 2]",
+        "id":"dev.comedi_english.707"
+    },
+    {
+        "tag":"T",
+        "row":708,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.708"
+    },
+    {
+        "tag":"F",
+        "row":709,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.709"
+    },
+    {
+        "tag":"T",
+        "row":710,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.710"
+    },
+    {
+        "tag":"T",
+        "row":711,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.711"
+    },
+    {
+        "tag":"T",
+        "row":712,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.712"
+    },
+    {
+        "tag":"T",
+        "row":713,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.713"
+    },
+    {
+        "tag":"T",
+        "row":714,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_english.714"
+    },
+    {
+        "tag":"F",
+        "row":715,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.715"
+    },
+    {
+        "tag":"T",
+        "row":716,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.716"
+    },
+    {
+        "tag":"F",
+        "row":717,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.717"
+    },
+    {
+        "tag":"T",
+        "row":718,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.718"
+    },
+    {
+        "tag":"T",
+        "row":719,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.719"
+    },
+    {
+        "tag":"T",
+        "row":720,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.720"
+    },
+    {
+        "tag":"T",
+        "row":721,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.721"
+    },
+    {
+        "tag":"T",
+        "row":722,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.722"
+    },
+    {
+        "tag":"T",
+        "row":723,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.723"
+    },
+    {
+        "tag":"T",
+        "row":724,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.724"
+    },
+    {
+        "tag":"T",
+        "row":725,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.725"
+    },
+    {
+        "tag":"T",
+        "row":726,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.726"
+    },
+    {
+        "tag":"T",
+        "row":727,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.727"
+    },
+    {
+        "tag":"F",
+        "row":728,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.728"
+    },
+    {
+        "tag":"F",
+        "row":729,
+        "score":"[2, 2, 2, 1]",
+        "id":"dev.comedi_english.729"
+    },
+    {
+        "tag":"T",
+        "row":730,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.730"
+    },
+    {
+        "tag":"T",
+        "row":731,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.731"
+    },
+    {
+        "tag":"T",
+        "row":732,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_english.732"
+    },
+    {
+        "tag":"F",
+        "row":733,
+        "score":"[2, 2, 2]",
+        "id":"dev.comedi_english.733"
+    },
+    {
+        "tag":"F",
+        "row":734,
+        "score":"[2, 2, 3]",
+        "id":"dev.comedi_english.734"
+    },
+    {
+        "tag":"F",
+        "row":735,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.735"
+    },
+    {
+        "tag":"T",
+        "row":736,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.736"
+    },
+    {
+        "tag":"F",
+        "row":737,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.737"
+    },
+    {
+        "tag":"F",
+        "row":738,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.738"
+    },
+    {
+        "tag":"T",
+        "row":739,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.739"
+    },
+    {
+        "tag":"F",
+        "row":740,
+        "score":"[2, 2, 3]",
+        "id":"dev.comedi_english.740"
+    },
+    {
+        "tag":"T",
+        "row":741,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.741"
+    },
+    {
+        "tag":"T",
+        "row":742,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.742"
+    },
+    {
+        "tag":"F",
+        "row":743,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.743"
+    },
+    {
+        "tag":"T",
+        "row":744,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.744"
+    },
+    {
+        "tag":"T",
+        "row":745,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.745"
+    },
+    {
+        "tag":"T",
+        "row":746,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.746"
+    },
+    {
+        "tag":"T",
+        "row":747,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.747"
+    },
+    {
+        "tag":"T",
+        "row":748,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.748"
+    },
+    {
+        "tag":"T",
+        "row":749,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.749"
+    },
+    {
+        "tag":"F",
+        "row":750,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.750"
+    },
+    {
+        "tag":"F",
+        "row":751,
+        "score":"[1, 1]",
+        "id":"dev.comedi_english.751"
+    },
+    {
+        "tag":"T",
+        "row":752,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.752"
+    },
+    {
+        "tag":"T",
+        "row":753,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.753"
+    },
+    {
+        "tag":"T",
+        "row":754,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.754"
+    },
+    {
+        "tag":"T",
+        "row":755,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.755"
+    },
+    {
+        "tag":"T",
+        "row":756,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.756"
+    },
+    {
+        "tag":"T",
+        "row":757,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.757"
+    },
+    {
+        "tag":"T",
+        "row":758,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.758"
+    },
+    {
+        "tag":"T",
+        "row":759,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_english.759"
+    },
+    {
+        "tag":"T",
+        "row":760,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.760"
+    },
+    {
+        "tag":"T",
+        "row":761,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_english.761"
+    },
+    {
+        "tag":"T",
+        "row":762,
+        "score":"[4, 3, 4, 4]",
+        "id":"dev.comedi_english.762"
+    },
+    {
+        "tag":"F",
+        "row":763,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_english.763"
+    },
+    {
+        "tag":"F",
+        "row":764,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.764"
+    },
+    {
+        "tag":"T",
+        "row":765,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.765"
+    },
+    {
+        "tag":"T",
+        "row":766,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.766"
+    },
+    {
+        "tag":"T",
+        "row":767,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_english.767"
+    },
+    {
+        "tag":"T",
+        "row":768,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_english.768"
+    },
+    {
+        "tag":"T",
+        "row":769,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.769"
+    },
+    {
+        "tag":"T",
+        "row":770,
+        "score":"[4, 3, 4, 4]",
+        "id":"dev.comedi_english.770"
+    },
+    {
+        "tag":"T",
+        "row":771,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.771"
+    },
+    {
+        "tag":"T",
+        "row":772,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.772"
+    },
+    {
+        "tag":"T",
+        "row":773,
+        "score":"[2, 3, 3, 3]",
+        "id":"dev.comedi_english.773"
+    },
+    {
+        "tag":"T",
+        "row":774,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.774"
+    },
+    {
+        "tag":"T",
+        "row":775,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.775"
+    },
+    {
+        "tag":"T",
+        "row":776,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.776"
+    },
+    {
+        "tag":"T",
+        "row":777,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.777"
+    },
+    {
+        "tag":"T",
+        "row":778,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.778"
+    },
+    {
+        "tag":"T",
+        "row":779,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.779"
+    },
+    {
+        "tag":"T",
+        "row":780,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.780"
+    },
+    {
+        "tag":"T",
+        "row":781,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.781"
+    },
+    {
+        "tag":"T",
+        "row":782,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.782"
+    },
+    {
+        "tag":"T",
+        "row":783,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_english.783"
+    },
+    {
+        "tag":"T",
+        "row":784,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.784"
+    },
+    {
+        "tag":"T",
+        "row":785,
+        "score":"[3, 3, 3, 2]",
+        "id":"dev.comedi_english.785"
+    },
+    {
+        "tag":"T",
+        "row":786,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.786"
+    },
+    {
+        "tag":"T",
+        "row":787,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.787"
+    },
+    {
+        "tag":"T",
+        "row":788,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.788"
+    },
+    {
+        "tag":"T",
+        "row":789,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.789"
+    },
+    {
+        "tag":"T",
+        "row":790,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.790"
+    },
+    {
+        "tag":"T",
+        "row":791,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.791"
+    },
+    {
+        "tag":"T",
+        "row":792,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.792"
+    },
+    {
+        "tag":"T",
+        "row":793,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.793"
+    },
+    {
+        "tag":"T",
+        "row":794,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.794"
+    },
+    {
+        "tag":"T",
+        "row":795,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_english.795"
+    },
+    {
+        "tag":"T",
+        "row":796,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.796"
+    },
+    {
+        "tag":"F",
+        "row":797,
+        "score":"[2, 2]",
+        "id":"dev.comedi_english.797"
+    },
+    {
+        "tag":"T",
+        "row":798,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.798"
+    },
+    {
+        "tag":"T",
+        "row":799,
+        "score":"[4, 3, 4, 4]",
+        "id":"dev.comedi_english.799"
+    },
+    {
+        "tag":"T",
+        "row":800,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.800"
+    },
+    {
+        "tag":"T",
+        "row":801,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.801"
+    },
+    {
+        "tag":"T",
+        "row":802,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.802"
+    },
+    {
+        "tag":"T",
+        "row":803,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.803"
+    },
+    {
+        "tag":"T",
+        "row":804,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.804"
+    },
+    {
+        "tag":"T",
+        "row":805,
+        "score":"[3, 3, 2]",
+        "id":"dev.comedi_english.805"
+    },
+    {
+        "tag":"T",
+        "row":806,
+        "score":"[3, 3, 3]",
+        "id":"dev.comedi_english.806"
+    },
+    {
+        "tag":"T",
+        "row":807,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_english.807"
+    },
+    {
+        "tag":"F",
+        "row":808,
+        "score":"[2, 3, 2]",
+        "id":"dev.comedi_english.808"
+    },
+    {
+        "tag":"T",
+        "row":809,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.809"
+    },
+    {
+        "tag":"T",
+        "row":810,
+        "score":"[3, 3, 2]",
+        "id":"dev.comedi_english.810"
+    },
+    {
+        "tag":"T",
+        "row":811,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.811"
+    },
+    {
+        "tag":"T",
+        "row":812,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.812"
+    },
+    {
+        "tag":"T",
+        "row":813,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.813"
+    },
+    {
+        "tag":"T",
+        "row":814,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.814"
+    },
+    {
+        "tag":"T",
+        "row":815,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.815"
+    },
+    {
+        "tag":"T",
+        "row":816,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.816"
+    },
+    {
+        "tag":"T",
+        "row":817,
+        "score":"[3, 3, 3]",
+        "id":"dev.comedi_english.817"
+    },
+    {
+        "tag":"T",
+        "row":818,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.818"
+    },
+    {
+        "tag":"T",
+        "row":819,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.819"
+    },
+    {
+        "tag":"T",
+        "row":820,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.820"
+    },
+    {
+        "tag":"T",
+        "row":821,
+        "score":"[3, 3, 2]",
+        "id":"dev.comedi_english.821"
+    },
+    {
+        "tag":"T",
+        "row":822,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.822"
+    },
+    {
+        "tag":"T",
+        "row":823,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.823"
+    },
+    {
+        "tag":"T",
+        "row":824,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.824"
+    },
+    {
+        "tag":"T",
+        "row":825,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_english.825"
+    },
+    {
+        "tag":"T",
+        "row":826,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.826"
+    },
+    {
+        "tag":"T",
+        "row":827,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.827"
+    },
+    {
+        "tag":"T",
+        "row":828,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_english.828"
+    },
+    {
+        "tag":"T",
+        "row":829,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.829"
+    },
+    {
+        "tag":"T",
+        "row":830,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.830"
+    },
+    {
+        "tag":"T",
+        "row":831,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.831"
+    },
+    {
+        "tag":"T",
+        "row":832,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.832"
+    },
+    {
+        "tag":"T",
+        "row":833,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.833"
+    },
+    {
+        "tag":"T",
+        "row":834,
+        "score":"[4, 4, 4, 4]",
+        "id":"dev.comedi_english.834"
+    },
+    {
+        "tag":"T",
+        "row":835,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.835"
+    },
+    {
+        "tag":"T",
+        "row":836,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.836"
+    },
+    {
+        "tag":"T",
+        "row":837,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.837"
+    },
+    {
+        "tag":"T",
+        "row":838,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.838"
+    },
+    {
+        "tag":"T",
+        "row":839,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.839"
+    },
+    {
+        "tag":"T",
+        "row":840,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.840"
+    },
+    {
+        "tag":"T",
+        "row":841,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.841"
+    },
+    {
+        "tag":"T",
+        "row":842,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.842"
+    },
+    {
+        "tag":"T",
+        "row":843,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.843"
+    },
+    {
+        "tag":"T",
+        "row":844,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.844"
+    },
+    {
+        "tag":"T",
+        "row":845,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.845"
+    },
+    {
+        "tag":"T",
+        "row":846,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.846"
+    },
+    {
+        "tag":"T",
+        "row":847,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.847"
+    },
+    {
+        "tag":"T",
+        "row":848,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.848"
+    },
+    {
+        "tag":"T",
+        "row":849,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.849"
+    },
+    {
+        "tag":"T",
+        "row":850,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.850"
+    },
+    {
+        "tag":"T",
+        "row":851,
+        "score":"[3, 3, 3]",
+        "id":"dev.comedi_english.851"
+    },
+    {
+        "tag":"T",
+        "row":852,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.852"
+    },
+    {
+        "tag":"T",
+        "row":853,
+        "score":"[3, 4, 4, 4]",
+        "id":"dev.comedi_english.853"
+    },
+    {
+        "tag":"T",
+        "row":854,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.854"
+    },
+    {
+        "tag":"T",
+        "row":855,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.855"
+    },
+    {
+        "tag":"T",
+        "row":856,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_english.856"
+    },
+    {
+        "tag":"T",
+        "row":857,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.857"
+    },
+    {
+        "tag":"T",
+        "row":858,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.858"
+    },
+    {
+        "tag":"T",
+        "row":859,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.859"
+    },
+    {
+        "tag":"T",
+        "row":860,
+        "score":"[3, 3]",
+        "id":"dev.comedi_english.860"
+    },
+    {
+        "tag":"T",
+        "row":861,
+        "score":"[4, 4, 4, 4]",
+        "id":"dev.comedi_english.861"
+    },
+    {
+        "tag":"T",
+        "row":862,
+        "score":"[4, 4]",
+        "id":"dev.comedi_english.862"
+    }
+]

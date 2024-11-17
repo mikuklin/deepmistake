@@ -2,13 +2,14 @@ from transformers import RobertaModel, XLMRobertaConfig
 from transformers import BertPreTrainedModel
 from transformers import XLMRobertaTokenizer
 from torch import nn
-from torch.nn import CrossEntropyLoss, BCEWithLogitsLoss, MSELoss, CosineEmbeddingLoss
+from torch.nn import CrossEntropyLoss, BCEWithLogitsLoss, MSELoss, CosineEmbeddingLoss, KLDivLoss
 import torch
 from collections import defaultdict
 from torch import Tensor
 import torch.nn.functional as F
 import re
 from math import ceil 
+from scipy.special import softmax
 
 XLM_ROBERTA_PRETRAINED_MODEL_ARCHIVE_MAP = {
     "xlm-roberta-base": "https://s3.amazonaws.com/models.huggingface.co/bert/xlm-roberta-base-pytorch_model.bin",
@@ -139,6 +140,8 @@ class XLMRModel(BertPreTrainedModel):
             self.syn_clf = RobertaClassificationCosineHead(config, 2, input_size, local_config)
         elif self.local_config['loss'] == 'crossentropy_loss_4':
             self.syn_clf = RobertaClassificationHead(config, 4, input_size, self.local_config)
+        elif self.local_config['loss'] == 'kl_divergence_loss':
+            self.syn_clf = RobertaClassificationHead(config, 4, input_size, self.local_config)
         self.data_processor = data_processor
         self.init_weights()
 
@@ -186,6 +189,11 @@ class XLMRModel(BertPreTrainedModel):
             elif self.local_config['loss'] == 'crossentropy_loss_4':
                 ls = float(self.local_config.get('label_smoothing',0.0))
                 loss['total'] = CrossEntropyLoss(label_smoothing=ls)(syn_logits, syn_labels.type(torch.int64))
+            elif self.local_config['loss'] == 'kl_divergence_loss':
+#                print("KL_input: ", syn_logits, syn_labels)
+#                import pdb; pdb.set_trace()
+                loss['total'] = KLDivLoss()(F.log_softmax(syn_logits, dim=-1), syn_labels / syn_labels.sum(dim=-1, keepdim=True))
+#                print(loss['total'])
             else:
                 loss['total'] = CosineEmbeddingLoss()(syn_logits[0], syn_logits[1], syn_labels * 2 - 1)
 
@@ -408,6 +416,20 @@ class XLMRModel(BertPreTrainedModel):
                             input_mask=input_mask,
                             token_type_ids=token_type_ids,
                             syn_label=ex.score - 1 if ex.score != -1 else syn_label_to_id[label],
+                            positions=positions,
+                            example=ex
+                            )
+                        )
+                elif self.local_config['loss'] == 'kl_divergence_loss':
+                    cnt = [0] * 4
+                    for v in eval(ex.score):
+                        cnt[v - 1] += 1
+                    features.append(
+                        WiCFeature2(
+                            input_ids=input_ids,
+                            input_mask=input_mask,
+                            token_type_ids=token_type_ids,
+                            syn_label=cnt,
                             positions=positions,
                             example=ex
                             )

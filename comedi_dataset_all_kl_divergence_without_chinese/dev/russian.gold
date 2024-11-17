@@ -1,0 +1,6758 @@
+[
+    {
+        "tag":"T",
+        "row":0,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.0"
+    },
+    {
+        "tag":"T",
+        "row":1,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1"
+    },
+    {
+        "tag":"T",
+        "row":2,
+        "score":"[4, 4, 3, 4, 3]",
+        "id":"dev.comedi_russian.2"
+    },
+    {
+        "tag":"T",
+        "row":3,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.3"
+    },
+    {
+        "tag":"T",
+        "row":4,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.4"
+    },
+    {
+        "tag":"T",
+        "row":5,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.5"
+    },
+    {
+        "tag":"T",
+        "row":6,
+        "score":"[4, 3, 4, 3, 4]",
+        "id":"dev.comedi_russian.6"
+    },
+    {
+        "tag":"T",
+        "row":7,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.7"
+    },
+    {
+        "tag":"T",
+        "row":8,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.8"
+    },
+    {
+        "tag":"T",
+        "row":9,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.9"
+    },
+    {
+        "tag":"T",
+        "row":10,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.10"
+    },
+    {
+        "tag":"T",
+        "row":11,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.11"
+    },
+    {
+        "tag":"T",
+        "row":12,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.12"
+    },
+    {
+        "tag":"T",
+        "row":13,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.13"
+    },
+    {
+        "tag":"T",
+        "row":14,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.14"
+    },
+    {
+        "tag":"T",
+        "row":15,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.15"
+    },
+    {
+        "tag":"T",
+        "row":16,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.16"
+    },
+    {
+        "tag":"T",
+        "row":17,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.17"
+    },
+    {
+        "tag":"T",
+        "row":18,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.18"
+    },
+    {
+        "tag":"T",
+        "row":19,
+        "score":"[3, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.19"
+    },
+    {
+        "tag":"T",
+        "row":20,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.20"
+    },
+    {
+        "tag":"T",
+        "row":21,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.21"
+    },
+    {
+        "tag":"T",
+        "row":22,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.22"
+    },
+    {
+        "tag":"T",
+        "row":23,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.23"
+    },
+    {
+        "tag":"T",
+        "row":24,
+        "score":"[4, 4, 3, 3, 4]",
+        "id":"dev.comedi_russian.24"
+    },
+    {
+        "tag":"T",
+        "row":25,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.25"
+    },
+    {
+        "tag":"T",
+        "row":26,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.26"
+    },
+    {
+        "tag":"T",
+        "row":27,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.27"
+    },
+    {
+        "tag":"T",
+        "row":28,
+        "score":"[4, 3, 3, 4, 4]",
+        "id":"dev.comedi_russian.28"
+    },
+    {
+        "tag":"T",
+        "row":29,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.29"
+    },
+    {
+        "tag":"T",
+        "row":30,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.30"
+    },
+    {
+        "tag":"T",
+        "row":31,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.31"
+    },
+    {
+        "tag":"T",
+        "row":32,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.32"
+    },
+    {
+        "tag":"T",
+        "row":33,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.33"
+    },
+    {
+        "tag":"T",
+        "row":34,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.34"
+    },
+    {
+        "tag":"T",
+        "row":35,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.35"
+    },
+    {
+        "tag":"T",
+        "row":36,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.36"
+    },
+    {
+        "tag":"T",
+        "row":37,
+        "score":"[3, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.37"
+    },
+    {
+        "tag":"T",
+        "row":38,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.38"
+    },
+    {
+        "tag":"T",
+        "row":39,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.39"
+    },
+    {
+        "tag":"T",
+        "row":40,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.40"
+    },
+    {
+        "tag":"T",
+        "row":41,
+        "score":"[4, 3, 3, 4, 4]",
+        "id":"dev.comedi_russian.41"
+    },
+    {
+        "tag":"T",
+        "row":42,
+        "score":"[3, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.42"
+    },
+    {
+        "tag":"T",
+        "row":43,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.43"
+    },
+    {
+        "tag":"T",
+        "row":44,
+        "score":"[3, 4, 3, 4, 3]",
+        "id":"dev.comedi_russian.44"
+    },
+    {
+        "tag":"T",
+        "row":45,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.45"
+    },
+    {
+        "tag":"T",
+        "row":46,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.46"
+    },
+    {
+        "tag":"T",
+        "row":47,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.47"
+    },
+    {
+        "tag":"T",
+        "row":48,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.48"
+    },
+    {
+        "tag":"T",
+        "row":49,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.49"
+    },
+    {
+        "tag":"T",
+        "row":50,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.50"
+    },
+    {
+        "tag":"T",
+        "row":51,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.51"
+    },
+    {
+        "tag":"T",
+        "row":52,
+        "score":"[3, 4, 3, 4, 3]",
+        "id":"dev.comedi_russian.52"
+    },
+    {
+        "tag":"T",
+        "row":53,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.53"
+    },
+    {
+        "tag":"T",
+        "row":54,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.54"
+    },
+    {
+        "tag":"F",
+        "row":55,
+        "score":"[2, 2, 2, 1, 2]",
+        "id":"dev.comedi_russian.55"
+    },
+    {
+        "tag":"T",
+        "row":56,
+        "score":"[4, 3, 3, 3, 4]",
+        "id":"dev.comedi_russian.56"
+    },
+    {
+        "tag":"T",
+        "row":57,
+        "score":"[3, 4, 4, 3, 3]",
+        "id":"dev.comedi_russian.57"
+    },
+    {
+        "tag":"T",
+        "row":58,
+        "score":"[3, 3, 3, 4, 4]",
+        "id":"dev.comedi_russian.58"
+    },
+    {
+        "tag":"T",
+        "row":59,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.59"
+    },
+    {
+        "tag":"T",
+        "row":60,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.60"
+    },
+    {
+        "tag":"F",
+        "row":61,
+        "score":"[2, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.61"
+    },
+    {
+        "tag":"F",
+        "row":62,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.62"
+    },
+    {
+        "tag":"F",
+        "row":63,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.63"
+    },
+    {
+        "tag":"T",
+        "row":64,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.64"
+    },
+    {
+        "tag":"T",
+        "row":65,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.65"
+    },
+    {
+        "tag":"T",
+        "row":66,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.66"
+    },
+    {
+        "tag":"T",
+        "row":67,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.67"
+    },
+    {
+        "tag":"T",
+        "row":68,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.68"
+    },
+    {
+        "tag":"T",
+        "row":69,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.69"
+    },
+    {
+        "tag":"F",
+        "row":70,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.70"
+    },
+    {
+        "tag":"F",
+        "row":71,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.71"
+    },
+    {
+        "tag":"T",
+        "row":72,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.72"
+    },
+    {
+        "tag":"F",
+        "row":73,
+        "score":"[2, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.73"
+    },
+    {
+        "tag":"F",
+        "row":74,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.74"
+    },
+    {
+        "tag":"T",
+        "row":75,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.75"
+    },
+    {
+        "tag":"F",
+        "row":76,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.76"
+    },
+    {
+        "tag":"T",
+        "row":77,
+        "score":"[3, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.77"
+    },
+    {
+        "tag":"F",
+        "row":78,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.78"
+    },
+    {
+        "tag":"F",
+        "row":79,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.79"
+    },
+    {
+        "tag":"T",
+        "row":80,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.80"
+    },
+    {
+        "tag":"T",
+        "row":81,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.81"
+    },
+    {
+        "tag":"T",
+        "row":82,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.82"
+    },
+    {
+        "tag":"F",
+        "row":83,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.83"
+    },
+    {
+        "tag":"T",
+        "row":84,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.84"
+    },
+    {
+        "tag":"T",
+        "row":85,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.85"
+    },
+    {
+        "tag":"T",
+        "row":86,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.86"
+    },
+    {
+        "tag":"F",
+        "row":87,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.87"
+    },
+    {
+        "tag":"F",
+        "row":88,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.88"
+    },
+    {
+        "tag":"F",
+        "row":89,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.89"
+    },
+    {
+        "tag":"T",
+        "row":90,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.90"
+    },
+    {
+        "tag":"T",
+        "row":91,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.91"
+    },
+    {
+        "tag":"T",
+        "row":92,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.92"
+    },
+    {
+        "tag":"F",
+        "row":93,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.93"
+    },
+    {
+        "tag":"T",
+        "row":94,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.94"
+    },
+    {
+        "tag":"T",
+        "row":95,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.95"
+    },
+    {
+        "tag":"F",
+        "row":96,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.96"
+    },
+    {
+        "tag":"F",
+        "row":97,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.97"
+    },
+    {
+        "tag":"T",
+        "row":98,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.98"
+    },
+    {
+        "tag":"T",
+        "row":99,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.99"
+    },
+    {
+        "tag":"T",
+        "row":100,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.100"
+    },
+    {
+        "tag":"T",
+        "row":101,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.101"
+    },
+    {
+        "tag":"F",
+        "row":102,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.102"
+    },
+    {
+        "tag":"T",
+        "row":103,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.103"
+    },
+    {
+        "tag":"T",
+        "row":104,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.104"
+    },
+    {
+        "tag":"F",
+        "row":105,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.105"
+    },
+    {
+        "tag":"T",
+        "row":106,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.106"
+    },
+    {
+        "tag":"T",
+        "row":107,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.107"
+    },
+    {
+        "tag":"T",
+        "row":108,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.108"
+    },
+    {
+        "tag":"T",
+        "row":109,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.109"
+    },
+    {
+        "tag":"T",
+        "row":110,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.110"
+    },
+    {
+        "tag":"T",
+        "row":111,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.111"
+    },
+    {
+        "tag":"F",
+        "row":112,
+        "score":"[2, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.112"
+    },
+    {
+        "tag":"T",
+        "row":113,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.113"
+    },
+    {
+        "tag":"T",
+        "row":114,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.114"
+    },
+    {
+        "tag":"F",
+        "row":115,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.115"
+    },
+    {
+        "tag":"T",
+        "row":116,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.116"
+    },
+    {
+        "tag":"T",
+        "row":117,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.117"
+    },
+    {
+        "tag":"F",
+        "row":118,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.118"
+    },
+    {
+        "tag":"F",
+        "row":119,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.119"
+    },
+    {
+        "tag":"F",
+        "row":120,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.120"
+    },
+    {
+        "tag":"T",
+        "row":121,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.121"
+    },
+    {
+        "tag":"F",
+        "row":122,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.122"
+    },
+    {
+        "tag":"T",
+        "row":123,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.123"
+    },
+    {
+        "tag":"T",
+        "row":124,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.124"
+    },
+    {
+        "tag":"F",
+        "row":125,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.125"
+    },
+    {
+        "tag":"T",
+        "row":126,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.126"
+    },
+    {
+        "tag":"T",
+        "row":127,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.127"
+    },
+    {
+        "tag":"T",
+        "row":128,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.128"
+    },
+    {
+        "tag":"F",
+        "row":129,
+        "score":"[2, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.129"
+    },
+    {
+        "tag":"F",
+        "row":130,
+        "score":"[1, 2, 1, 1, 2]",
+        "id":"dev.comedi_russian.130"
+    },
+    {
+        "tag":"T",
+        "row":131,
+        "score":"[4, 3, 3, 4, 4]",
+        "id":"dev.comedi_russian.131"
+    },
+    {
+        "tag":"T",
+        "row":132,
+        "score":"[4, 4, 3, 3, 4]",
+        "id":"dev.comedi_russian.132"
+    },
+    {
+        "tag":"T",
+        "row":133,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.133"
+    },
+    {
+        "tag":"T",
+        "row":134,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.134"
+    },
+    {
+        "tag":"T",
+        "row":135,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.135"
+    },
+    {
+        "tag":"T",
+        "row":136,
+        "score":"[3, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.136"
+    },
+    {
+        "tag":"T",
+        "row":137,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.137"
+    },
+    {
+        "tag":"T",
+        "row":138,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.138"
+    },
+    {
+        "tag":"T",
+        "row":139,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.139"
+    },
+    {
+        "tag":"T",
+        "row":140,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.140"
+    },
+    {
+        "tag":"T",
+        "row":141,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.141"
+    },
+    {
+        "tag":"T",
+        "row":142,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.142"
+    },
+    {
+        "tag":"T",
+        "row":143,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.143"
+    },
+    {
+        "tag":"T",
+        "row":144,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.144"
+    },
+    {
+        "tag":"T",
+        "row":145,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.145"
+    },
+    {
+        "tag":"T",
+        "row":146,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.146"
+    },
+    {
+        "tag":"T",
+        "row":147,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.147"
+    },
+    {
+        "tag":"T",
+        "row":148,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.148"
+    },
+    {
+        "tag":"T",
+        "row":149,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.149"
+    },
+    {
+        "tag":"T",
+        "row":150,
+        "score":"[4, 3, 3, 4, 4]",
+        "id":"dev.comedi_russian.150"
+    },
+    {
+        "tag":"T",
+        "row":151,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.151"
+    },
+    {
+        "tag":"T",
+        "row":152,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.152"
+    },
+    {
+        "tag":"T",
+        "row":153,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.153"
+    },
+    {
+        "tag":"T",
+        "row":154,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.154"
+    },
+    {
+        "tag":"T",
+        "row":155,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.155"
+    },
+    {
+        "tag":"T",
+        "row":156,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.156"
+    },
+    {
+        "tag":"T",
+        "row":157,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.157"
+    },
+    {
+        "tag":"T",
+        "row":158,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.158"
+    },
+    {
+        "tag":"T",
+        "row":159,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.159"
+    },
+    {
+        "tag":"T",
+        "row":160,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.160"
+    },
+    {
+        "tag":"T",
+        "row":161,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.161"
+    },
+    {
+        "tag":"T",
+        "row":162,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.162"
+    },
+    {
+        "tag":"T",
+        "row":163,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.163"
+    },
+    {
+        "tag":"T",
+        "row":164,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.164"
+    },
+    {
+        "tag":"T",
+        "row":165,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.165"
+    },
+    {
+        "tag":"T",
+        "row":166,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.166"
+    },
+    {
+        "tag":"T",
+        "row":167,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.167"
+    },
+    {
+        "tag":"T",
+        "row":168,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.168"
+    },
+    {
+        "tag":"T",
+        "row":169,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.169"
+    },
+    {
+        "tag":"T",
+        "row":170,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.170"
+    },
+    {
+        "tag":"T",
+        "row":171,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.171"
+    },
+    {
+        "tag":"T",
+        "row":172,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.172"
+    },
+    {
+        "tag":"T",
+        "row":173,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.173"
+    },
+    {
+        "tag":"T",
+        "row":174,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.174"
+    },
+    {
+        "tag":"T",
+        "row":175,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.175"
+    },
+    {
+        "tag":"T",
+        "row":176,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.176"
+    },
+    {
+        "tag":"T",
+        "row":177,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.177"
+    },
+    {
+        "tag":"T",
+        "row":178,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.178"
+    },
+    {
+        "tag":"T",
+        "row":179,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.179"
+    },
+    {
+        "tag":"T",
+        "row":180,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.180"
+    },
+    {
+        "tag":"T",
+        "row":181,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.181"
+    },
+    {
+        "tag":"T",
+        "row":182,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.182"
+    },
+    {
+        "tag":"T",
+        "row":183,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.183"
+    },
+    {
+        "tag":"T",
+        "row":184,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.184"
+    },
+    {
+        "tag":"T",
+        "row":185,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.185"
+    },
+    {
+        "tag":"T",
+        "row":186,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.186"
+    },
+    {
+        "tag":"T",
+        "row":187,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.187"
+    },
+    {
+        "tag":"T",
+        "row":188,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.188"
+    },
+    {
+        "tag":"T",
+        "row":189,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.189"
+    },
+    {
+        "tag":"T",
+        "row":190,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.190"
+    },
+    {
+        "tag":"T",
+        "row":191,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.191"
+    },
+    {
+        "tag":"T",
+        "row":192,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.192"
+    },
+    {
+        "tag":"T",
+        "row":193,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.193"
+    },
+    {
+        "tag":"T",
+        "row":194,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.194"
+    },
+    {
+        "tag":"T",
+        "row":195,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.195"
+    },
+    {
+        "tag":"T",
+        "row":196,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.196"
+    },
+    {
+        "tag":"T",
+        "row":197,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.197"
+    },
+    {
+        "tag":"T",
+        "row":198,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.198"
+    },
+    {
+        "tag":"T",
+        "row":199,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.199"
+    },
+    {
+        "tag":"T",
+        "row":200,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.200"
+    },
+    {
+        "tag":"T",
+        "row":201,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.201"
+    },
+    {
+        "tag":"T",
+        "row":202,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.202"
+    },
+    {
+        "tag":"T",
+        "row":203,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.203"
+    },
+    {
+        "tag":"T",
+        "row":204,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.204"
+    },
+    {
+        "tag":"T",
+        "row":205,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.205"
+    },
+    {
+        "tag":"T",
+        "row":206,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.206"
+    },
+    {
+        "tag":"T",
+        "row":207,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.207"
+    },
+    {
+        "tag":"T",
+        "row":208,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.208"
+    },
+    {
+        "tag":"T",
+        "row":209,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.209"
+    },
+    {
+        "tag":"T",
+        "row":210,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.210"
+    },
+    {
+        "tag":"T",
+        "row":211,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.211"
+    },
+    {
+        "tag":"T",
+        "row":212,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.212"
+    },
+    {
+        "tag":"T",
+        "row":213,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.213"
+    },
+    {
+        "tag":"T",
+        "row":214,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.214"
+    },
+    {
+        "tag":"T",
+        "row":215,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.215"
+    },
+    {
+        "tag":"T",
+        "row":216,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.216"
+    },
+    {
+        "tag":"T",
+        "row":217,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.217"
+    },
+    {
+        "tag":"T",
+        "row":218,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.218"
+    },
+    {
+        "tag":"F",
+        "row":219,
+        "score":"[2, 2]",
+        "id":"dev.comedi_russian.219"
+    },
+    {
+        "tag":"T",
+        "row":220,
+        "score":"[3, 2, 3]",
+        "id":"dev.comedi_russian.220"
+    },
+    {
+        "tag":"F",
+        "row":221,
+        "score":"[2, 2]",
+        "id":"dev.comedi_russian.221"
+    },
+    {
+        "tag":"T",
+        "row":222,
+        "score":"[3, 3]",
+        "id":"dev.comedi_russian.222"
+    },
+    {
+        "tag":"T",
+        "row":223,
+        "score":"[3, 3]",
+        "id":"dev.comedi_russian.223"
+    },
+    {
+        "tag":"T",
+        "row":224,
+        "score":"[3, 3]",
+        "id":"dev.comedi_russian.224"
+    },
+    {
+        "tag":"T",
+        "row":225,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_russian.225"
+    },
+    {
+        "tag":"T",
+        "row":226,
+        "score":"[3, 3]",
+        "id":"dev.comedi_russian.226"
+    },
+    {
+        "tag":"T",
+        "row":227,
+        "score":"[3, 3]",
+        "id":"dev.comedi_russian.227"
+    },
+    {
+        "tag":"T",
+        "row":228,
+        "score":"[3, 3]",
+        "id":"dev.comedi_russian.228"
+    },
+    {
+        "tag":"F",
+        "row":229,
+        "score":"[2, 2]",
+        "id":"dev.comedi_russian.229"
+    },
+    {
+        "tag":"T",
+        "row":230,
+        "score":"[3, 3]",
+        "id":"dev.comedi_russian.230"
+    },
+    {
+        "tag":"F",
+        "row":231,
+        "score":"[2, 2]",
+        "id":"dev.comedi_russian.231"
+    },
+    {
+        "tag":"T",
+        "row":232,
+        "score":"[3, 3]",
+        "id":"dev.comedi_russian.232"
+    },
+    {
+        "tag":"T",
+        "row":233,
+        "score":"[3, 3]",
+        "id":"dev.comedi_russian.233"
+    },
+    {
+        "tag":"F",
+        "row":234,
+        "score":"[2, 2]",
+        "id":"dev.comedi_russian.234"
+    },
+    {
+        "tag":"T",
+        "row":235,
+        "score":"[3, 2, 3]",
+        "id":"dev.comedi_russian.235"
+    },
+    {
+        "tag":"F",
+        "row":236,
+        "score":"[2, 2]",
+        "id":"dev.comedi_russian.236"
+    },
+    {
+        "tag":"F",
+        "row":237,
+        "score":"[2, 1, 2]",
+        "id":"dev.comedi_russian.237"
+    },
+    {
+        "tag":"T",
+        "row":238,
+        "score":"[3, 3]",
+        "id":"dev.comedi_russian.238"
+    },
+    {
+        "tag":"T",
+        "row":239,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.239"
+    },
+    {
+        "tag":"T",
+        "row":240,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.240"
+    },
+    {
+        "tag":"T",
+        "row":241,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.241"
+    },
+    {
+        "tag":"T",
+        "row":242,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.242"
+    },
+    {
+        "tag":"T",
+        "row":243,
+        "score":"[3, 2, 3, 3, 3]",
+        "id":"dev.comedi_russian.243"
+    },
+    {
+        "tag":"T",
+        "row":244,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.244"
+    },
+    {
+        "tag":"T",
+        "row":245,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.245"
+    },
+    {
+        "tag":"T",
+        "row":246,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.246"
+    },
+    {
+        "tag":"T",
+        "row":247,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.247"
+    },
+    {
+        "tag":"T",
+        "row":248,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.248"
+    },
+    {
+        "tag":"T",
+        "row":249,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.249"
+    },
+    {
+        "tag":"T",
+        "row":250,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.250"
+    },
+    {
+        "tag":"T",
+        "row":251,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.251"
+    },
+    {
+        "tag":"T",
+        "row":252,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.252"
+    },
+    {
+        "tag":"T",
+        "row":253,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.253"
+    },
+    {
+        "tag":"T",
+        "row":254,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.254"
+    },
+    {
+        "tag":"T",
+        "row":255,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.255"
+    },
+    {
+        "tag":"T",
+        "row":256,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.256"
+    },
+    {
+        "tag":"T",
+        "row":257,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.257"
+    },
+    {
+        "tag":"T",
+        "row":258,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.258"
+    },
+    {
+        "tag":"T",
+        "row":259,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.259"
+    },
+    {
+        "tag":"T",
+        "row":260,
+        "score":"[3, 3, 4, 4, 3]",
+        "id":"dev.comedi_russian.260"
+    },
+    {
+        "tag":"T",
+        "row":261,
+        "score":"[3, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.261"
+    },
+    {
+        "tag":"T",
+        "row":262,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.262"
+    },
+    {
+        "tag":"T",
+        "row":263,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.263"
+    },
+    {
+        "tag":"T",
+        "row":264,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.264"
+    },
+    {
+        "tag":"T",
+        "row":265,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.265"
+    },
+    {
+        "tag":"T",
+        "row":266,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.266"
+    },
+    {
+        "tag":"T",
+        "row":267,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.267"
+    },
+    {
+        "tag":"T",
+        "row":268,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.268"
+    },
+    {
+        "tag":"T",
+        "row":269,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.269"
+    },
+    {
+        "tag":"T",
+        "row":270,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.270"
+    },
+    {
+        "tag":"T",
+        "row":271,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.271"
+    },
+    {
+        "tag":"T",
+        "row":272,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.272"
+    },
+    {
+        "tag":"T",
+        "row":273,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.273"
+    },
+    {
+        "tag":"T",
+        "row":274,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.274"
+    },
+    {
+        "tag":"T",
+        "row":275,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.275"
+    },
+    {
+        "tag":"T",
+        "row":276,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.276"
+    },
+    {
+        "tag":"T",
+        "row":277,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.277"
+    },
+    {
+        "tag":"T",
+        "row":278,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.278"
+    },
+    {
+        "tag":"T",
+        "row":279,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.279"
+    },
+    {
+        "tag":"F",
+        "row":280,
+        "score":"[2, 2, 1, 1, 1]",
+        "id":"dev.comedi_russian.280"
+    },
+    {
+        "tag":"T",
+        "row":281,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.281"
+    },
+    {
+        "tag":"T",
+        "row":282,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.282"
+    },
+    {
+        "tag":"T",
+        "row":283,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.283"
+    },
+    {
+        "tag":"T",
+        "row":284,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.284"
+    },
+    {
+        "tag":"T",
+        "row":285,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.285"
+    },
+    {
+        "tag":"F",
+        "row":286,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.286"
+    },
+    {
+        "tag":"T",
+        "row":287,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.287"
+    },
+    {
+        "tag":"F",
+        "row":288,
+        "score":"[2, 2, 2, 2, 2]",
+        "id":"dev.comedi_russian.288"
+    },
+    {
+        "tag":"T",
+        "row":289,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.289"
+    },
+    {
+        "tag":"T",
+        "row":290,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.290"
+    },
+    {
+        "tag":"T",
+        "row":291,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.291"
+    },
+    {
+        "tag":"T",
+        "row":292,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.292"
+    },
+    {
+        "tag":"T",
+        "row":293,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.293"
+    },
+    {
+        "tag":"F",
+        "row":294,
+        "score":"[2, 1, 1, 2, 2]",
+        "id":"dev.comedi_russian.294"
+    },
+    {
+        "tag":"T",
+        "row":295,
+        "score":"[4, 4, 3, 3, 4]",
+        "id":"dev.comedi_russian.295"
+    },
+    {
+        "tag":"T",
+        "row":296,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.296"
+    },
+    {
+        "tag":"T",
+        "row":297,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.297"
+    },
+    {
+        "tag":"T",
+        "row":298,
+        "score":"[4, 4, 4, 3, 3]",
+        "id":"dev.comedi_russian.298"
+    },
+    {
+        "tag":"F",
+        "row":299,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.299"
+    },
+    {
+        "tag":"T",
+        "row":300,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.300"
+    },
+    {
+        "tag":"T",
+        "row":301,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.301"
+    },
+    {
+        "tag":"F",
+        "row":302,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.302"
+    },
+    {
+        "tag":"T",
+        "row":303,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.303"
+    },
+    {
+        "tag":"F",
+        "row":304,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.304"
+    },
+    {
+        "tag":"F",
+        "row":305,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.305"
+    },
+    {
+        "tag":"F",
+        "row":306,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.306"
+    },
+    {
+        "tag":"F",
+        "row":307,
+        "score":"[3, 2, 2]",
+        "id":"dev.comedi_russian.307"
+    },
+    {
+        "tag":"F",
+        "row":308,
+        "score":"[2, 2, 2]",
+        "id":"dev.comedi_russian.308"
+    },
+    {
+        "tag":"T",
+        "row":309,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.309"
+    },
+    {
+        "tag":"F",
+        "row":310,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.310"
+    },
+    {
+        "tag":"F",
+        "row":311,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.311"
+    },
+    {
+        "tag":"F",
+        "row":312,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.312"
+    },
+    {
+        "tag":"F",
+        "row":313,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.313"
+    },
+    {
+        "tag":"F",
+        "row":314,
+        "score":"[2, 2, 3]",
+        "id":"dev.comedi_russian.314"
+    },
+    {
+        "tag":"F",
+        "row":315,
+        "score":"[3, 2, 2]",
+        "id":"dev.comedi_russian.315"
+    },
+    {
+        "tag":"T",
+        "row":316,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.316"
+    },
+    {
+        "tag":"F",
+        "row":317,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.317"
+    },
+    {
+        "tag":"T",
+        "row":318,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.318"
+    },
+    {
+        "tag":"F",
+        "row":319,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.319"
+    },
+    {
+        "tag":"F",
+        "row":320,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.320"
+    },
+    {
+        "tag":"F",
+        "row":321,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.321"
+    },
+    {
+        "tag":"F",
+        "row":322,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.322"
+    },
+    {
+        "tag":"F",
+        "row":323,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.323"
+    },
+    {
+        "tag":"F",
+        "row":324,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.324"
+    },
+    {
+        "tag":"F",
+        "row":325,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.325"
+    },
+    {
+        "tag":"F",
+        "row":326,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.326"
+    },
+    {
+        "tag":"T",
+        "row":327,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.327"
+    },
+    {
+        "tag":"F",
+        "row":328,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.328"
+    },
+    {
+        "tag":"F",
+        "row":329,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.329"
+    },
+    {
+        "tag":"F",
+        "row":330,
+        "score":"[2, 1, 1]",
+        "id":"dev.comedi_russian.330"
+    },
+    {
+        "tag":"F",
+        "row":331,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_russian.331"
+    },
+    {
+        "tag":"T",
+        "row":332,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.332"
+    },
+    {
+        "tag":"F",
+        "row":333,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.333"
+    },
+    {
+        "tag":"F",
+        "row":334,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.334"
+    },
+    {
+        "tag":"T",
+        "row":335,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.335"
+    },
+    {
+        "tag":"F",
+        "row":336,
+        "score":"[2, 1, 1]",
+        "id":"dev.comedi_russian.336"
+    },
+    {
+        "tag":"T",
+        "row":337,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.337"
+    },
+    {
+        "tag":"F",
+        "row":338,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.338"
+    },
+    {
+        "tag":"F",
+        "row":339,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.339"
+    },
+    {
+        "tag":"F",
+        "row":340,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.340"
+    },
+    {
+        "tag":"F",
+        "row":341,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.341"
+    },
+    {
+        "tag":"F",
+        "row":342,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.342"
+    },
+    {
+        "tag":"F",
+        "row":343,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.343"
+    },
+    {
+        "tag":"F",
+        "row":344,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.344"
+    },
+    {
+        "tag":"F",
+        "row":345,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.345"
+    },
+    {
+        "tag":"T",
+        "row":346,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.346"
+    },
+    {
+        "tag":"F",
+        "row":347,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.347"
+    },
+    {
+        "tag":"F",
+        "row":348,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.348"
+    },
+    {
+        "tag":"F",
+        "row":349,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_russian.349"
+    },
+    {
+        "tag":"T",
+        "row":350,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.350"
+    },
+    {
+        "tag":"F",
+        "row":351,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.351"
+    },
+    {
+        "tag":"F",
+        "row":352,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.352"
+    },
+    {
+        "tag":"F",
+        "row":353,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.353"
+    },
+    {
+        "tag":"F",
+        "row":354,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.354"
+    },
+    {
+        "tag":"T",
+        "row":355,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.355"
+    },
+    {
+        "tag":"T",
+        "row":356,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.356"
+    },
+    {
+        "tag":"F",
+        "row":357,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_russian.357"
+    },
+    {
+        "tag":"F",
+        "row":358,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.358"
+    },
+    {
+        "tag":"F",
+        "row":359,
+        "score":"[2, 2, 1]",
+        "id":"dev.comedi_russian.359"
+    },
+    {
+        "tag":"F",
+        "row":360,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.360"
+    },
+    {
+        "tag":"F",
+        "row":361,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.361"
+    },
+    {
+        "tag":"T",
+        "row":362,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.362"
+    },
+    {
+        "tag":"T",
+        "row":363,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.363"
+    },
+    {
+        "tag":"T",
+        "row":364,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.364"
+    },
+    {
+        "tag":"T",
+        "row":365,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.365"
+    },
+    {
+        "tag":"T",
+        "row":366,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.366"
+    },
+    {
+        "tag":"T",
+        "row":367,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.367"
+    },
+    {
+        "tag":"T",
+        "row":368,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.368"
+    },
+    {
+        "tag":"T",
+        "row":369,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.369"
+    },
+    {
+        "tag":"T",
+        "row":370,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.370"
+    },
+    {
+        "tag":"T",
+        "row":371,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.371"
+    },
+    {
+        "tag":"T",
+        "row":372,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.372"
+    },
+    {
+        "tag":"T",
+        "row":373,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.373"
+    },
+    {
+        "tag":"T",
+        "row":374,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.374"
+    },
+    {
+        "tag":"F",
+        "row":375,
+        "score":"[3, 2, 2]",
+        "id":"dev.comedi_russian.375"
+    },
+    {
+        "tag":"T",
+        "row":376,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.376"
+    },
+    {
+        "tag":"T",
+        "row":377,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.377"
+    },
+    {
+        "tag":"T",
+        "row":378,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.378"
+    },
+    {
+        "tag":"T",
+        "row":379,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.379"
+    },
+    {
+        "tag":"T",
+        "row":380,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.380"
+    },
+    {
+        "tag":"T",
+        "row":381,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.381"
+    },
+    {
+        "tag":"T",
+        "row":382,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.382"
+    },
+    {
+        "tag":"T",
+        "row":383,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.383"
+    },
+    {
+        "tag":"T",
+        "row":384,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.384"
+    },
+    {
+        "tag":"T",
+        "row":385,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.385"
+    },
+    {
+        "tag":"T",
+        "row":386,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.386"
+    },
+    {
+        "tag":"T",
+        "row":387,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_russian.387"
+    },
+    {
+        "tag":"T",
+        "row":388,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.388"
+    },
+    {
+        "tag":"T",
+        "row":389,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.389"
+    },
+    {
+        "tag":"T",
+        "row":390,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.390"
+    },
+    {
+        "tag":"T",
+        "row":391,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.391"
+    },
+    {
+        "tag":"T",
+        "row":392,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.392"
+    },
+    {
+        "tag":"T",
+        "row":393,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.393"
+    },
+    {
+        "tag":"T",
+        "row":394,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.394"
+    },
+    {
+        "tag":"T",
+        "row":395,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.395"
+    },
+    {
+        "tag":"T",
+        "row":396,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.396"
+    },
+    {
+        "tag":"T",
+        "row":397,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.397"
+    },
+    {
+        "tag":"T",
+        "row":398,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.398"
+    },
+    {
+        "tag":"T",
+        "row":399,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.399"
+    },
+    {
+        "tag":"T",
+        "row":400,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.400"
+    },
+    {
+        "tag":"T",
+        "row":401,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.401"
+    },
+    {
+        "tag":"T",
+        "row":402,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_russian.402"
+    },
+    {
+        "tag":"T",
+        "row":403,
+        "score":"[3, 3, 3]",
+        "id":"dev.comedi_russian.403"
+    },
+    {
+        "tag":"T",
+        "row":404,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.404"
+    },
+    {
+        "tag":"T",
+        "row":405,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.405"
+    },
+    {
+        "tag":"T",
+        "row":406,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.406"
+    },
+    {
+        "tag":"T",
+        "row":407,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.407"
+    },
+    {
+        "tag":"T",
+        "row":408,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.408"
+    },
+    {
+        "tag":"T",
+        "row":409,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.409"
+    },
+    {
+        "tag":"T",
+        "row":410,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.410"
+    },
+    {
+        "tag":"T",
+        "row":411,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.411"
+    },
+    {
+        "tag":"T",
+        "row":412,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.412"
+    },
+    {
+        "tag":"T",
+        "row":413,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.413"
+    },
+    {
+        "tag":"T",
+        "row":414,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.414"
+    },
+    {
+        "tag":"T",
+        "row":415,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.415"
+    },
+    {
+        "tag":"T",
+        "row":416,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.416"
+    },
+    {
+        "tag":"T",
+        "row":417,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.417"
+    },
+    {
+        "tag":"T",
+        "row":418,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.418"
+    },
+    {
+        "tag":"T",
+        "row":419,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_russian.419"
+    },
+    {
+        "tag":"T",
+        "row":420,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.420"
+    },
+    {
+        "tag":"T",
+        "row":421,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.421"
+    },
+    {
+        "tag":"T",
+        "row":422,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.422"
+    },
+    {
+        "tag":"T",
+        "row":423,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_russian.423"
+    },
+    {
+        "tag":"T",
+        "row":424,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.424"
+    },
+    {
+        "tag":"T",
+        "row":425,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.425"
+    },
+    {
+        "tag":"T",
+        "row":426,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.426"
+    },
+    {
+        "tag":"T",
+        "row":427,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.427"
+    },
+    {
+        "tag":"T",
+        "row":428,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.428"
+    },
+    {
+        "tag":"T",
+        "row":429,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.429"
+    },
+    {
+        "tag":"T",
+        "row":430,
+        "score":"[4, 3, 3, 4, 4]",
+        "id":"dev.comedi_russian.430"
+    },
+    {
+        "tag":"T",
+        "row":431,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.431"
+    },
+    {
+        "tag":"T",
+        "row":432,
+        "score":"[4, 3, 3, 4, 3]",
+        "id":"dev.comedi_russian.432"
+    },
+    {
+        "tag":"T",
+        "row":433,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.433"
+    },
+    {
+        "tag":"T",
+        "row":434,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.434"
+    },
+    {
+        "tag":"T",
+        "row":435,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.435"
+    },
+    {
+        "tag":"T",
+        "row":436,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.436"
+    },
+    {
+        "tag":"T",
+        "row":437,
+        "score":"[4, 3, 4, 3, 3]",
+        "id":"dev.comedi_russian.437"
+    },
+    {
+        "tag":"T",
+        "row":438,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.438"
+    },
+    {
+        "tag":"T",
+        "row":439,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.439"
+    },
+    {
+        "tag":"T",
+        "row":440,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.440"
+    },
+    {
+        "tag":"T",
+        "row":441,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.441"
+    },
+    {
+        "tag":"T",
+        "row":442,
+        "score":"[3, 4, 4, 3, 3]",
+        "id":"dev.comedi_russian.442"
+    },
+    {
+        "tag":"T",
+        "row":443,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.443"
+    },
+    {
+        "tag":"T",
+        "row":444,
+        "score":"[3, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.444"
+    },
+    {
+        "tag":"T",
+        "row":445,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.445"
+    },
+    {
+        "tag":"T",
+        "row":446,
+        "score":"[3, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.446"
+    },
+    {
+        "tag":"T",
+        "row":447,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.447"
+    },
+    {
+        "tag":"T",
+        "row":448,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.448"
+    },
+    {
+        "tag":"T",
+        "row":449,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.449"
+    },
+    {
+        "tag":"T",
+        "row":450,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.450"
+    },
+    {
+        "tag":"T",
+        "row":451,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.451"
+    },
+    {
+        "tag":"T",
+        "row":452,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.452"
+    },
+    {
+        "tag":"T",
+        "row":453,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.453"
+    },
+    {
+        "tag":"T",
+        "row":454,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.454"
+    },
+    {
+        "tag":"T",
+        "row":455,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.455"
+    },
+    {
+        "tag":"T",
+        "row":456,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.456"
+    },
+    {
+        "tag":"T",
+        "row":457,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.457"
+    },
+    {
+        "tag":"T",
+        "row":458,
+        "score":"[4, 4, 4, 3, 3]",
+        "id":"dev.comedi_russian.458"
+    },
+    {
+        "tag":"T",
+        "row":459,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.459"
+    },
+    {
+        "tag":"T",
+        "row":460,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.460"
+    },
+    {
+        "tag":"T",
+        "row":461,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.461"
+    },
+    {
+        "tag":"T",
+        "row":462,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.462"
+    },
+    {
+        "tag":"T",
+        "row":463,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.463"
+    },
+    {
+        "tag":"T",
+        "row":464,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.464"
+    },
+    {
+        "tag":"T",
+        "row":465,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.465"
+    },
+    {
+        "tag":"T",
+        "row":466,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.466"
+    },
+    {
+        "tag":"T",
+        "row":467,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.467"
+    },
+    {
+        "tag":"T",
+        "row":468,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.468"
+    },
+    {
+        "tag":"T",
+        "row":469,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.469"
+    },
+    {
+        "tag":"T",
+        "row":470,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.470"
+    },
+    {
+        "tag":"F",
+        "row":471,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.471"
+    },
+    {
+        "tag":"F",
+        "row":472,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.472"
+    },
+    {
+        "tag":"F",
+        "row":473,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.473"
+    },
+    {
+        "tag":"F",
+        "row":474,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.474"
+    },
+    {
+        "tag":"F",
+        "row":475,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_russian.475"
+    },
+    {
+        "tag":"T",
+        "row":476,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_russian.476"
+    },
+    {
+        "tag":"F",
+        "row":477,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.477"
+    },
+    {
+        "tag":"T",
+        "row":478,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.478"
+    },
+    {
+        "tag":"T",
+        "row":479,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.479"
+    },
+    {
+        "tag":"F",
+        "row":480,
+        "score":"[2, 2, 1]",
+        "id":"dev.comedi_russian.480"
+    },
+    {
+        "tag":"F",
+        "row":481,
+        "score":"[1, 2, 2]",
+        "id":"dev.comedi_russian.481"
+    },
+    {
+        "tag":"F",
+        "row":482,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.482"
+    },
+    {
+        "tag":"T",
+        "row":483,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.483"
+    },
+    {
+        "tag":"F",
+        "row":484,
+        "score":"[1, 1]",
+        "id":"dev.comedi_russian.484"
+    },
+    {
+        "tag":"F",
+        "row":485,
+        "score":"[2, 1, 1]",
+        "id":"dev.comedi_russian.485"
+    },
+    {
+        "tag":"F",
+        "row":486,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.486"
+    },
+    {
+        "tag":"T",
+        "row":487,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.487"
+    },
+    {
+        "tag":"F",
+        "row":488,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.488"
+    },
+    {
+        "tag":"T",
+        "row":489,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.489"
+    },
+    {
+        "tag":"F",
+        "row":490,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_russian.490"
+    },
+    {
+        "tag":"T",
+        "row":491,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.491"
+    },
+    {
+        "tag":"F",
+        "row":492,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_russian.492"
+    },
+    {
+        "tag":"F",
+        "row":493,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.493"
+    },
+    {
+        "tag":"T",
+        "row":494,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_russian.494"
+    },
+    {
+        "tag":"F",
+        "row":495,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.495"
+    },
+    {
+        "tag":"T",
+        "row":496,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.496"
+    },
+    {
+        "tag":"F",
+        "row":497,
+        "score":"[2, 1, 1]",
+        "id":"dev.comedi_russian.497"
+    },
+    {
+        "tag":"T",
+        "row":498,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.498"
+    },
+    {
+        "tag":"F",
+        "row":499,
+        "score":"[2, 3, 2]",
+        "id":"dev.comedi_russian.499"
+    },
+    {
+        "tag":"T",
+        "row":500,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.500"
+    },
+    {
+        "tag":"F",
+        "row":501,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.501"
+    },
+    {
+        "tag":"F",
+        "row":502,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.502"
+    },
+    {
+        "tag":"F",
+        "row":503,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.503"
+    },
+    {
+        "tag":"F",
+        "row":504,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.504"
+    },
+    {
+        "tag":"T",
+        "row":505,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.505"
+    },
+    {
+        "tag":"T",
+        "row":506,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.506"
+    },
+    {
+        "tag":"T",
+        "row":507,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.507"
+    },
+    {
+        "tag":"F",
+        "row":508,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.508"
+    },
+    {
+        "tag":"T",
+        "row":509,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.509"
+    },
+    {
+        "tag":"F",
+        "row":510,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.510"
+    },
+    {
+        "tag":"F",
+        "row":511,
+        "score":"[1, 2, 2]",
+        "id":"dev.comedi_russian.511"
+    },
+    {
+        "tag":"F",
+        "row":512,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.512"
+    },
+    {
+        "tag":"F",
+        "row":513,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.513"
+    },
+    {
+        "tag":"F",
+        "row":514,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.514"
+    },
+    {
+        "tag":"T",
+        "row":515,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.515"
+    },
+    {
+        "tag":"T",
+        "row":516,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.516"
+    },
+    {
+        "tag":"F",
+        "row":517,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.517"
+    },
+    {
+        "tag":"F",
+        "row":518,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_russian.518"
+    },
+    {
+        "tag":"F",
+        "row":519,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.519"
+    },
+    {
+        "tag":"F",
+        "row":520,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.520"
+    },
+    {
+        "tag":"F",
+        "row":521,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.521"
+    },
+    {
+        "tag":"T",
+        "row":522,
+        "score":"[4, 3, 3, 4, 4]",
+        "id":"dev.comedi_russian.522"
+    },
+    {
+        "tag":"T",
+        "row":523,
+        "score":"[4, 4, 4, 3, 3]",
+        "id":"dev.comedi_russian.523"
+    },
+    {
+        "tag":"F",
+        "row":524,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.524"
+    },
+    {
+        "tag":"T",
+        "row":525,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.525"
+    },
+    {
+        "tag":"T",
+        "row":526,
+        "score":"[3, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.526"
+    },
+    {
+        "tag":"T",
+        "row":527,
+        "score":"[4, 3, 3, 4, 4]",
+        "id":"dev.comedi_russian.527"
+    },
+    {
+        "tag":"T",
+        "row":528,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.528"
+    },
+    {
+        "tag":"T",
+        "row":529,
+        "score":"[4, 4, 3, 3, 4]",
+        "id":"dev.comedi_russian.529"
+    },
+    {
+        "tag":"T",
+        "row":530,
+        "score":"[3, 2, 3, 3, 2]",
+        "id":"dev.comedi_russian.530"
+    },
+    {
+        "tag":"F",
+        "row":531,
+        "score":"[2, 2, 2, 1, 1]",
+        "id":"dev.comedi_russian.531"
+    },
+    {
+        "tag":"F",
+        "row":532,
+        "score":"[1, 1, 2, 2, 1]",
+        "id":"dev.comedi_russian.532"
+    },
+    {
+        "tag":"F",
+        "row":533,
+        "score":"[1, 1, 2, 1, 1]",
+        "id":"dev.comedi_russian.533"
+    },
+    {
+        "tag":"F",
+        "row":534,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.534"
+    },
+    {
+        "tag":"T",
+        "row":535,
+        "score":"[3, 3, 3, 4, 3]",
+        "id":"dev.comedi_russian.535"
+    },
+    {
+        "tag":"T",
+        "row":536,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.536"
+    },
+    {
+        "tag":"T",
+        "row":537,
+        "score":"[4, 4, 3, 4, 3]",
+        "id":"dev.comedi_russian.537"
+    },
+    {
+        "tag":"F",
+        "row":538,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.538"
+    },
+    {
+        "tag":"F",
+        "row":539,
+        "score":"[2, 1, 1, 2, 1]",
+        "id":"dev.comedi_russian.539"
+    },
+    {
+        "tag":"F",
+        "row":540,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.540"
+    },
+    {
+        "tag":"T",
+        "row":541,
+        "score":"[3, 3, 3, 4, 4]",
+        "id":"dev.comedi_russian.541"
+    },
+    {
+        "tag":"F",
+        "row":542,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.542"
+    },
+    {
+        "tag":"T",
+        "row":543,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.543"
+    },
+    {
+        "tag":"F",
+        "row":544,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.544"
+    },
+    {
+        "tag":"F",
+        "row":545,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.545"
+    },
+    {
+        "tag":"F",
+        "row":546,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.546"
+    },
+    {
+        "tag":"F",
+        "row":547,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.547"
+    },
+    {
+        "tag":"T",
+        "row":548,
+        "score":"[4, 4, 4, 3, 3]",
+        "id":"dev.comedi_russian.548"
+    },
+    {
+        "tag":"F",
+        "row":549,
+        "score":"[1, 1, 2, 1, 1]",
+        "id":"dev.comedi_russian.549"
+    },
+    {
+        "tag":"F",
+        "row":550,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.550"
+    },
+    {
+        "tag":"F",
+        "row":551,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.551"
+    },
+    {
+        "tag":"F",
+        "row":552,
+        "score":"[1, 1, 1, 2, 1]",
+        "id":"dev.comedi_russian.552"
+    },
+    {
+        "tag":"F",
+        "row":553,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.553"
+    },
+    {
+        "tag":"T",
+        "row":554,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.554"
+    },
+    {
+        "tag":"F",
+        "row":555,
+        "score":"[1, 2, 2, 1, 1]",
+        "id":"dev.comedi_russian.555"
+    },
+    {
+        "tag":"F",
+        "row":556,
+        "score":"[2, 1, 2, 1, 1]",
+        "id":"dev.comedi_russian.556"
+    },
+    {
+        "tag":"F",
+        "row":557,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.557"
+    },
+    {
+        "tag":"T",
+        "row":558,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.558"
+    },
+    {
+        "tag":"F",
+        "row":559,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.559"
+    },
+    {
+        "tag":"F",
+        "row":560,
+        "score":"[1, 1, 2, 1, 1]",
+        "id":"dev.comedi_russian.560"
+    },
+    {
+        "tag":"F",
+        "row":561,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.561"
+    },
+    {
+        "tag":"F",
+        "row":562,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.562"
+    },
+    {
+        "tag":"F",
+        "row":563,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.563"
+    },
+    {
+        "tag":"F",
+        "row":564,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.564"
+    },
+    {
+        "tag":"F",
+        "row":565,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.565"
+    },
+    {
+        "tag":"F",
+        "row":566,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.566"
+    },
+    {
+        "tag":"F",
+        "row":567,
+        "score":"[1, 2, 1, 1, 1]",
+        "id":"dev.comedi_russian.567"
+    },
+    {
+        "tag":"F",
+        "row":568,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.568"
+    },
+    {
+        "tag":"F",
+        "row":569,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.569"
+    },
+    {
+        "tag":"F",
+        "row":570,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.570"
+    },
+    {
+        "tag":"T",
+        "row":571,
+        "score":"[4, 4, 4, 3, 3]",
+        "id":"dev.comedi_russian.571"
+    },
+    {
+        "tag":"F",
+        "row":572,
+        "score":"[2, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.572"
+    },
+    {
+        "tag":"F",
+        "row":573,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.573"
+    },
+    {
+        "tag":"F",
+        "row":574,
+        "score":"[1, 1, 2, 1, 2]",
+        "id":"dev.comedi_russian.574"
+    },
+    {
+        "tag":"F",
+        "row":575,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.575"
+    },
+    {
+        "tag":"F",
+        "row":576,
+        "score":"[1, 1, 1, 2, 1]",
+        "id":"dev.comedi_russian.576"
+    },
+    {
+        "tag":"F",
+        "row":577,
+        "score":"[2, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.577"
+    },
+    {
+        "tag":"F",
+        "row":578,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.578"
+    },
+    {
+        "tag":"F",
+        "row":579,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.579"
+    },
+    {
+        "tag":"F",
+        "row":580,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.580"
+    },
+    {
+        "tag":"F",
+        "row":581,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.581"
+    },
+    {
+        "tag":"F",
+        "row":582,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.582"
+    },
+    {
+        "tag":"F",
+        "row":583,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.583"
+    },
+    {
+        "tag":"F",
+        "row":584,
+        "score":"[1, 1, 1, 1, 2]",
+        "id":"dev.comedi_russian.584"
+    },
+    {
+        "tag":"F",
+        "row":585,
+        "score":"[2, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.585"
+    },
+    {
+        "tag":"F",
+        "row":586,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.586"
+    },
+    {
+        "tag":"F",
+        "row":587,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.587"
+    },
+    {
+        "tag":"T",
+        "row":588,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.588"
+    },
+    {
+        "tag":"T",
+        "row":589,
+        "score":"[2, 2, 3, 3, 3]",
+        "id":"dev.comedi_russian.589"
+    },
+    {
+        "tag":"F",
+        "row":590,
+        "score":"[2, 2, 2, 3, 3]",
+        "id":"dev.comedi_russian.590"
+    },
+    {
+        "tag":"F",
+        "row":591,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.591"
+    },
+    {
+        "tag":"T",
+        "row":592,
+        "score":"[4, 4, 3, 4, 3]",
+        "id":"dev.comedi_russian.592"
+    },
+    {
+        "tag":"T",
+        "row":593,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.593"
+    },
+    {
+        "tag":"F",
+        "row":594,
+        "score":"[1, 2, 1, 2, 1]",
+        "id":"dev.comedi_russian.594"
+    },
+    {
+        "tag":"F",
+        "row":595,
+        "score":"[2, 2, 2, 3, 3]",
+        "id":"dev.comedi_russian.595"
+    },
+    {
+        "tag":"T",
+        "row":596,
+        "score":"[3, 3, 4, 3, 4]",
+        "id":"dev.comedi_russian.596"
+    },
+    {
+        "tag":"F",
+        "row":597,
+        "score":"[1, 2, 1, 2, 2]",
+        "id":"dev.comedi_russian.597"
+    },
+    {
+        "tag":"T",
+        "row":598,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.598"
+    },
+    {
+        "tag":"T",
+        "row":599,
+        "score":"[4, 4, 3, 4, 3]",
+        "id":"dev.comedi_russian.599"
+    },
+    {
+        "tag":"T",
+        "row":600,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.600"
+    },
+    {
+        "tag":"T",
+        "row":601,
+        "score":"[3, 3, 3, 3, 2]",
+        "id":"dev.comedi_russian.601"
+    },
+    {
+        "tag":"F",
+        "row":602,
+        "score":"[2, 1, 2, 2, 1]",
+        "id":"dev.comedi_russian.602"
+    },
+    {
+        "tag":"T",
+        "row":603,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.603"
+    },
+    {
+        "tag":"T",
+        "row":604,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.604"
+    },
+    {
+        "tag":"T",
+        "row":605,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.605"
+    },
+    {
+        "tag":"T",
+        "row":606,
+        "score":"[2, 3, 3, 3, 2]",
+        "id":"dev.comedi_russian.606"
+    },
+    {
+        "tag":"T",
+        "row":607,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.607"
+    },
+    {
+        "tag":"F",
+        "row":608,
+        "score":"[1, 1, 1, 2, 1]",
+        "id":"dev.comedi_russian.608"
+    },
+    {
+        "tag":"F",
+        "row":609,
+        "score":"[2, 1, 1, 2, 1]",
+        "id":"dev.comedi_russian.609"
+    },
+    {
+        "tag":"F",
+        "row":610,
+        "score":"[3, 2, 3, 2, 2]",
+        "id":"dev.comedi_russian.610"
+    },
+    {
+        "tag":"F",
+        "row":611,
+        "score":"[2, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.611"
+    },
+    {
+        "tag":"T",
+        "row":612,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.612"
+    },
+    {
+        "tag":"F",
+        "row":613,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.613"
+    },
+    {
+        "tag":"F",
+        "row":614,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.614"
+    },
+    {
+        "tag":"T",
+        "row":615,
+        "score":"[3, 2, 3, 3, 2]",
+        "id":"dev.comedi_russian.615"
+    },
+    {
+        "tag":"F",
+        "row":616,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.616"
+    },
+    {
+        "tag":"T",
+        "row":617,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.617"
+    },
+    {
+        "tag":"T",
+        "row":618,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.618"
+    },
+    {
+        "tag":"T",
+        "row":619,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.619"
+    },
+    {
+        "tag":"T",
+        "row":620,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.620"
+    },
+    {
+        "tag":"T",
+        "row":621,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.621"
+    },
+    {
+        "tag":"T",
+        "row":622,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.622"
+    },
+    {
+        "tag":"T",
+        "row":623,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.623"
+    },
+    {
+        "tag":"T",
+        "row":624,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.624"
+    },
+    {
+        "tag":"F",
+        "row":625,
+        "score":"[2, 2, 2]",
+        "id":"dev.comedi_russian.625"
+    },
+    {
+        "tag":"T",
+        "row":626,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.626"
+    },
+    {
+        "tag":"T",
+        "row":627,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.627"
+    },
+    {
+        "tag":"T",
+        "row":628,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.628"
+    },
+    {
+        "tag":"T",
+        "row":629,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.629"
+    },
+    {
+        "tag":"T",
+        "row":630,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.630"
+    },
+    {
+        "tag":"T",
+        "row":631,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.631"
+    },
+    {
+        "tag":"T",
+        "row":632,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.632"
+    },
+    {
+        "tag":"T",
+        "row":633,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.633"
+    },
+    {
+        "tag":"T",
+        "row":634,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.634"
+    },
+    {
+        "tag":"T",
+        "row":635,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.635"
+    },
+    {
+        "tag":"T",
+        "row":636,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.636"
+    },
+    {
+        "tag":"T",
+        "row":637,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.637"
+    },
+    {
+        "tag":"T",
+        "row":638,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_russian.638"
+    },
+    {
+        "tag":"T",
+        "row":639,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.639"
+    },
+    {
+        "tag":"T",
+        "row":640,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.640"
+    },
+    {
+        "tag":"F",
+        "row":641,
+        "score":"[2, 2, 2]",
+        "id":"dev.comedi_russian.641"
+    },
+    {
+        "tag":"T",
+        "row":642,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.642"
+    },
+    {
+        "tag":"T",
+        "row":643,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.643"
+    },
+    {
+        "tag":"T",
+        "row":644,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.644"
+    },
+    {
+        "tag":"T",
+        "row":645,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_russian.645"
+    },
+    {
+        "tag":"T",
+        "row":646,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.646"
+    },
+    {
+        "tag":"T",
+        "row":647,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.647"
+    },
+    {
+        "tag":"T",
+        "row":648,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.648"
+    },
+    {
+        "tag":"T",
+        "row":649,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.649"
+    },
+    {
+        "tag":"T",
+        "row":650,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.650"
+    },
+    {
+        "tag":"T",
+        "row":651,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.651"
+    },
+    {
+        "tag":"T",
+        "row":652,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_russian.652"
+    },
+    {
+        "tag":"T",
+        "row":653,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.653"
+    },
+    {
+        "tag":"T",
+        "row":654,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.654"
+    },
+    {
+        "tag":"T",
+        "row":655,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.655"
+    },
+    {
+        "tag":"T",
+        "row":656,
+        "score":"[3, 3, 3]",
+        "id":"dev.comedi_russian.656"
+    },
+    {
+        "tag":"T",
+        "row":657,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.657"
+    },
+    {
+        "tag":"T",
+        "row":658,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.658"
+    },
+    {
+        "tag":"T",
+        "row":659,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.659"
+    },
+    {
+        "tag":"T",
+        "row":660,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_russian.660"
+    },
+    {
+        "tag":"T",
+        "row":661,
+        "score":"[3, 3, 3]",
+        "id":"dev.comedi_russian.661"
+    },
+    {
+        "tag":"T",
+        "row":662,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.662"
+    },
+    {
+        "tag":"T",
+        "row":663,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.663"
+    },
+    {
+        "tag":"T",
+        "row":664,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.664"
+    },
+    {
+        "tag":"T",
+        "row":665,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.665"
+    },
+    {
+        "tag":"T",
+        "row":666,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.666"
+    },
+    {
+        "tag":"T",
+        "row":667,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.667"
+    },
+    {
+        "tag":"T",
+        "row":668,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_russian.668"
+    },
+    {
+        "tag":"T",
+        "row":669,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.669"
+    },
+    {
+        "tag":"T",
+        "row":670,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.670"
+    },
+    {
+        "tag":"T",
+        "row":671,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.671"
+    },
+    {
+        "tag":"T",
+        "row":672,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.672"
+    },
+    {
+        "tag":"T",
+        "row":673,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_russian.673"
+    },
+    {
+        "tag":"T",
+        "row":674,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.674"
+    },
+    {
+        "tag":"F",
+        "row":675,
+        "score":"[2, 1, 2]",
+        "id":"dev.comedi_russian.675"
+    },
+    {
+        "tag":"T",
+        "row":676,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.676"
+    },
+    {
+        "tag":"T",
+        "row":677,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.677"
+    },
+    {
+        "tag":"T",
+        "row":678,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.678"
+    },
+    {
+        "tag":"T",
+        "row":679,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.679"
+    },
+    {
+        "tag":"T",
+        "row":680,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.680"
+    },
+    {
+        "tag":"T",
+        "row":681,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.681"
+    },
+    {
+        "tag":"T",
+        "row":682,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.682"
+    },
+    {
+        "tag":"T",
+        "row":683,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.683"
+    },
+    {
+        "tag":"T",
+        "row":684,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.684"
+    },
+    {
+        "tag":"T",
+        "row":685,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.685"
+    },
+    {
+        "tag":"T",
+        "row":686,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.686"
+    },
+    {
+        "tag":"T",
+        "row":687,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.687"
+    },
+    {
+        "tag":"T",
+        "row":688,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.688"
+    },
+    {
+        "tag":"T",
+        "row":689,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.689"
+    },
+    {
+        "tag":"T",
+        "row":690,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.690"
+    },
+    {
+        "tag":"T",
+        "row":691,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.691"
+    },
+    {
+        "tag":"T",
+        "row":692,
+        "score":"[3, 3, 2]",
+        "id":"dev.comedi_russian.692"
+    },
+    {
+        "tag":"T",
+        "row":693,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_russian.693"
+    },
+    {
+        "tag":"T",
+        "row":694,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.694"
+    },
+    {
+        "tag":"T",
+        "row":695,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.695"
+    },
+    {
+        "tag":"T",
+        "row":696,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.696"
+    },
+    {
+        "tag":"T",
+        "row":697,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.697"
+    },
+    {
+        "tag":"T",
+        "row":698,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.698"
+    },
+    {
+        "tag":"T",
+        "row":699,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.699"
+    },
+    {
+        "tag":"T",
+        "row":700,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.700"
+    },
+    {
+        "tag":"T",
+        "row":701,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.701"
+    },
+    {
+        "tag":"T",
+        "row":702,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.702"
+    },
+    {
+        "tag":"T",
+        "row":703,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.703"
+    },
+    {
+        "tag":"T",
+        "row":704,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.704"
+    },
+    {
+        "tag":"T",
+        "row":705,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.705"
+    },
+    {
+        "tag":"T",
+        "row":706,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.706"
+    },
+    {
+        "tag":"T",
+        "row":707,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.707"
+    },
+    {
+        "tag":"T",
+        "row":708,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.708"
+    },
+    {
+        "tag":"T",
+        "row":709,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.709"
+    },
+    {
+        "tag":"T",
+        "row":710,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.710"
+    },
+    {
+        "tag":"T",
+        "row":711,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.711"
+    },
+    {
+        "tag":"T",
+        "row":712,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.712"
+    },
+    {
+        "tag":"T",
+        "row":713,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.713"
+    },
+    {
+        "tag":"T",
+        "row":714,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.714"
+    },
+    {
+        "tag":"T",
+        "row":715,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.715"
+    },
+    {
+        "tag":"T",
+        "row":716,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.716"
+    },
+    {
+        "tag":"T",
+        "row":717,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.717"
+    },
+    {
+        "tag":"T",
+        "row":718,
+        "score":"[4, 4]",
+        "id":"dev.comedi_russian.718"
+    },
+    {
+        "tag":"T",
+        "row":719,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.719"
+    },
+    {
+        "tag":"T",
+        "row":720,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.720"
+    },
+    {
+        "tag":"T",
+        "row":721,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.721"
+    },
+    {
+        "tag":"T",
+        "row":722,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.722"
+    },
+    {
+        "tag":"T",
+        "row":723,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_russian.723"
+    },
+    {
+        "tag":"T",
+        "row":724,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.724"
+    },
+    {
+        "tag":"T",
+        "row":725,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.725"
+    },
+    {
+        "tag":"T",
+        "row":726,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.726"
+    },
+    {
+        "tag":"T",
+        "row":727,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.727"
+    },
+    {
+        "tag":"T",
+        "row":728,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.728"
+    },
+    {
+        "tag":"T",
+        "row":729,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.729"
+    },
+    {
+        "tag":"T",
+        "row":730,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.730"
+    },
+    {
+        "tag":"T",
+        "row":731,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.731"
+    },
+    {
+        "tag":"T",
+        "row":732,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.732"
+    },
+    {
+        "tag":"T",
+        "row":733,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.733"
+    },
+    {
+        "tag":"T",
+        "row":734,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.734"
+    },
+    {
+        "tag":"T",
+        "row":735,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.735"
+    },
+    {
+        "tag":"T",
+        "row":736,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.736"
+    },
+    {
+        "tag":"T",
+        "row":737,
+        "score":"[2, 3, 3]",
+        "id":"dev.comedi_russian.737"
+    },
+    {
+        "tag":"T",
+        "row":738,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.738"
+    },
+    {
+        "tag":"T",
+        "row":739,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.739"
+    },
+    {
+        "tag":"T",
+        "row":740,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.740"
+    },
+    {
+        "tag":"T",
+        "row":741,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.741"
+    },
+    {
+        "tag":"T",
+        "row":742,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.742"
+    },
+    {
+        "tag":"T",
+        "row":743,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.743"
+    },
+    {
+        "tag":"T",
+        "row":744,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.744"
+    },
+    {
+        "tag":"T",
+        "row":745,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.745"
+    },
+    {
+        "tag":"T",
+        "row":746,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.746"
+    },
+    {
+        "tag":"T",
+        "row":747,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.747"
+    },
+    {
+        "tag":"T",
+        "row":748,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.748"
+    },
+    {
+        "tag":"T",
+        "row":749,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.749"
+    },
+    {
+        "tag":"T",
+        "row":750,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.750"
+    },
+    {
+        "tag":"T",
+        "row":751,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.751"
+    },
+    {
+        "tag":"T",
+        "row":752,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.752"
+    },
+    {
+        "tag":"T",
+        "row":753,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.753"
+    },
+    {
+        "tag":"F",
+        "row":754,
+        "score":"[3, 2, 2]",
+        "id":"dev.comedi_russian.754"
+    },
+    {
+        "tag":"T",
+        "row":755,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.755"
+    },
+    {
+        "tag":"T",
+        "row":756,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.756"
+    },
+    {
+        "tag":"T",
+        "row":757,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.757"
+    },
+    {
+        "tag":"T",
+        "row":758,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.758"
+    },
+    {
+        "tag":"T",
+        "row":759,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.759"
+    },
+    {
+        "tag":"T",
+        "row":760,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.760"
+    },
+    {
+        "tag":"T",
+        "row":761,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.761"
+    },
+    {
+        "tag":"T",
+        "row":762,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.762"
+    },
+    {
+        "tag":"T",
+        "row":763,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_russian.763"
+    },
+    {
+        "tag":"F",
+        "row":764,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.764"
+    },
+    {
+        "tag":"T",
+        "row":765,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.765"
+    },
+    {
+        "tag":"F",
+        "row":766,
+        "score":"[2, 1, 1]",
+        "id":"dev.comedi_russian.766"
+    },
+    {
+        "tag":"F",
+        "row":767,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.767"
+    },
+    {
+        "tag":"F",
+        "row":768,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.768"
+    },
+    {
+        "tag":"F",
+        "row":769,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.769"
+    },
+    {
+        "tag":"F",
+        "row":770,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.770"
+    },
+    {
+        "tag":"F",
+        "row":771,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.771"
+    },
+    {
+        "tag":"F",
+        "row":772,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.772"
+    },
+    {
+        "tag":"F",
+        "row":773,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.773"
+    },
+    {
+        "tag":"F",
+        "row":774,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.774"
+    },
+    {
+        "tag":"F",
+        "row":775,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.775"
+    },
+    {
+        "tag":"F",
+        "row":776,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.776"
+    },
+    {
+        "tag":"F",
+        "row":777,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_russian.777"
+    },
+    {
+        "tag":"F",
+        "row":778,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.778"
+    },
+    {
+        "tag":"F",
+        "row":779,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.779"
+    },
+    {
+        "tag":"F",
+        "row":780,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.780"
+    },
+    {
+        "tag":"F",
+        "row":781,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.781"
+    },
+    {
+        "tag":"F",
+        "row":782,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.782"
+    },
+    {
+        "tag":"F",
+        "row":783,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.783"
+    },
+    {
+        "tag":"T",
+        "row":784,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_russian.784"
+    },
+    {
+        "tag":"T",
+        "row":785,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.785"
+    },
+    {
+        "tag":"F",
+        "row":786,
+        "score":"[2, 2, 1]",
+        "id":"dev.comedi_russian.786"
+    },
+    {
+        "tag":"F",
+        "row":787,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.787"
+    },
+    {
+        "tag":"F",
+        "row":788,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.788"
+    },
+    {
+        "tag":"F",
+        "row":789,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.789"
+    },
+    {
+        "tag":"F",
+        "row":790,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.790"
+    },
+    {
+        "tag":"F",
+        "row":791,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.791"
+    },
+    {
+        "tag":"F",
+        "row":792,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.792"
+    },
+    {
+        "tag":"F",
+        "row":793,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.793"
+    },
+    {
+        "tag":"F",
+        "row":794,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.794"
+    },
+    {
+        "tag":"F",
+        "row":795,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.795"
+    },
+    {
+        "tag":"F",
+        "row":796,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.796"
+    },
+    {
+        "tag":"F",
+        "row":797,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.797"
+    },
+    {
+        "tag":"T",
+        "row":798,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.798"
+    },
+    {
+        "tag":"F",
+        "row":799,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.799"
+    },
+    {
+        "tag":"T",
+        "row":800,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.800"
+    },
+    {
+        "tag":"T",
+        "row":801,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.801"
+    },
+    {
+        "tag":"T",
+        "row":802,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.802"
+    },
+    {
+        "tag":"F",
+        "row":803,
+        "score":"[3, 2, 2]",
+        "id":"dev.comedi_russian.803"
+    },
+    {
+        "tag":"F",
+        "row":804,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.804"
+    },
+    {
+        "tag":"T",
+        "row":805,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.805"
+    },
+    {
+        "tag":"T",
+        "row":806,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.806"
+    },
+    {
+        "tag":"F",
+        "row":807,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.807"
+    },
+    {
+        "tag":"F",
+        "row":808,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.808"
+    },
+    {
+        "tag":"T",
+        "row":809,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.809"
+    },
+    {
+        "tag":"T",
+        "row":810,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_russian.810"
+    },
+    {
+        "tag":"F",
+        "row":811,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.811"
+    },
+    {
+        "tag":"T",
+        "row":812,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.812"
+    },
+    {
+        "tag":"F",
+        "row":813,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.813"
+    },
+    {
+        "tag":"T",
+        "row":814,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.814"
+    },
+    {
+        "tag":"F",
+        "row":815,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.815"
+    },
+    {
+        "tag":"F",
+        "row":816,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.816"
+    },
+    {
+        "tag":"F",
+        "row":817,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.817"
+    },
+    {
+        "tag":"F",
+        "row":818,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.818"
+    },
+    {
+        "tag":"F",
+        "row":819,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.819"
+    },
+    {
+        "tag":"F",
+        "row":820,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.820"
+    },
+    {
+        "tag":"F",
+        "row":821,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.821"
+    },
+    {
+        "tag":"F",
+        "row":822,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.822"
+    },
+    {
+        "tag":"F",
+        "row":823,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.823"
+    },
+    {
+        "tag":"F",
+        "row":824,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.824"
+    },
+    {
+        "tag":"F",
+        "row":825,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.825"
+    },
+    {
+        "tag":"F",
+        "row":826,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.826"
+    },
+    {
+        "tag":"T",
+        "row":827,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.827"
+    },
+    {
+        "tag":"T",
+        "row":828,
+        "score":"[3, 2, 3]",
+        "id":"dev.comedi_russian.828"
+    },
+    {
+        "tag":"T",
+        "row":829,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.829"
+    },
+    {
+        "tag":"T",
+        "row":830,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.830"
+    },
+    {
+        "tag":"T",
+        "row":831,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.831"
+    },
+    {
+        "tag":"F",
+        "row":832,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.832"
+    },
+    {
+        "tag":"T",
+        "row":833,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.833"
+    },
+    {
+        "tag":"F",
+        "row":834,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.834"
+    },
+    {
+        "tag":"T",
+        "row":835,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.835"
+    },
+    {
+        "tag":"T",
+        "row":836,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.836"
+    },
+    {
+        "tag":"T",
+        "row":837,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.837"
+    },
+    {
+        "tag":"F",
+        "row":838,
+        "score":"[2, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.838"
+    },
+    {
+        "tag":"F",
+        "row":839,
+        "score":"[1, 2, 1, 1, 1]",
+        "id":"dev.comedi_russian.839"
+    },
+    {
+        "tag":"F",
+        "row":840,
+        "score":"[2, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.840"
+    },
+    {
+        "tag":"F",
+        "row":841,
+        "score":"[1, 1, 2, 1, 1]",
+        "id":"dev.comedi_russian.841"
+    },
+    {
+        "tag":"T",
+        "row":842,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.842"
+    },
+    {
+        "tag":"F",
+        "row":843,
+        "score":"[2, 2, 1, 1, 1]",
+        "id":"dev.comedi_russian.843"
+    },
+    {
+        "tag":"T",
+        "row":844,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.844"
+    },
+    {
+        "tag":"T",
+        "row":845,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.845"
+    },
+    {
+        "tag":"T",
+        "row":846,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.846"
+    },
+    {
+        "tag":"T",
+        "row":847,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.847"
+    },
+    {
+        "tag":"T",
+        "row":848,
+        "score":"[3, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.848"
+    },
+    {
+        "tag":"F",
+        "row":849,
+        "score":"[1, 2, 1, 1, 2]",
+        "id":"dev.comedi_russian.849"
+    },
+    {
+        "tag":"F",
+        "row":850,
+        "score":"[1, 1, 1, 1, 2]",
+        "id":"dev.comedi_russian.850"
+    },
+    {
+        "tag":"F",
+        "row":851,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.851"
+    },
+    {
+        "tag":"T",
+        "row":852,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.852"
+    },
+    {
+        "tag":"F",
+        "row":853,
+        "score":"[1, 1, 2, 2, 1]",
+        "id":"dev.comedi_russian.853"
+    },
+    {
+        "tag":"F",
+        "row":854,
+        "score":"[1, 1, 1, 2, 1]",
+        "id":"dev.comedi_russian.854"
+    },
+    {
+        "tag":"F",
+        "row":855,
+        "score":"[1, 2, 1, 1, 2]",
+        "id":"dev.comedi_russian.855"
+    },
+    {
+        "tag":"T",
+        "row":856,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.856"
+    },
+    {
+        "tag":"F",
+        "row":857,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.857"
+    },
+    {
+        "tag":"T",
+        "row":858,
+        "score":"[4, 3, 3, 4, 4]",
+        "id":"dev.comedi_russian.858"
+    },
+    {
+        "tag":"T",
+        "row":859,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.859"
+    },
+    {
+        "tag":"F",
+        "row":860,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.860"
+    },
+    {
+        "tag":"F",
+        "row":861,
+        "score":"[2, 2, 3, 2, 3]",
+        "id":"dev.comedi_russian.861"
+    },
+    {
+        "tag":"F",
+        "row":862,
+        "score":"[1, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.862"
+    },
+    {
+        "tag":"T",
+        "row":863,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.863"
+    },
+    {
+        "tag":"T",
+        "row":864,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.864"
+    },
+    {
+        "tag":"T",
+        "row":865,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.865"
+    },
+    {
+        "tag":"T",
+        "row":866,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.866"
+    },
+    {
+        "tag":"T",
+        "row":867,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.867"
+    },
+    {
+        "tag":"T",
+        "row":868,
+        "score":"[3, 3, 3, 4, 4]",
+        "id":"dev.comedi_russian.868"
+    },
+    {
+        "tag":"T",
+        "row":869,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.869"
+    },
+    {
+        "tag":"T",
+        "row":870,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.870"
+    },
+    {
+        "tag":"T",
+        "row":871,
+        "score":"[4, 3, 3, 3, 4]",
+        "id":"dev.comedi_russian.871"
+    },
+    {
+        "tag":"T",
+        "row":872,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.872"
+    },
+    {
+        "tag":"T",
+        "row":873,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.873"
+    },
+    {
+        "tag":"T",
+        "row":874,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.874"
+    },
+    {
+        "tag":"T",
+        "row":875,
+        "score":"[4, 3, 4, 3, 4]",
+        "id":"dev.comedi_russian.875"
+    },
+    {
+        "tag":"T",
+        "row":876,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.876"
+    },
+    {
+        "tag":"T",
+        "row":877,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.877"
+    },
+    {
+        "tag":"T",
+        "row":878,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.878"
+    },
+    {
+        "tag":"T",
+        "row":879,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.879"
+    },
+    {
+        "tag":"T",
+        "row":880,
+        "score":"[4, 3, 4, 3, 4]",
+        "id":"dev.comedi_russian.880"
+    },
+    {
+        "tag":"T",
+        "row":881,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.881"
+    },
+    {
+        "tag":"T",
+        "row":882,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.882"
+    },
+    {
+        "tag":"T",
+        "row":883,
+        "score":"[3, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.883"
+    },
+    {
+        "tag":"T",
+        "row":884,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.884"
+    },
+    {
+        "tag":"T",
+        "row":885,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.885"
+    },
+    {
+        "tag":"T",
+        "row":886,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.886"
+    },
+    {
+        "tag":"T",
+        "row":887,
+        "score":"[4, 3, 3, 4, 4]",
+        "id":"dev.comedi_russian.887"
+    },
+    {
+        "tag":"T",
+        "row":888,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.888"
+    },
+    {
+        "tag":"T",
+        "row":889,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.889"
+    },
+    {
+        "tag":"T",
+        "row":890,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.890"
+    },
+    {
+        "tag":"T",
+        "row":891,
+        "score":"[3, 3, 3, 3, 3]",
+        "id":"dev.comedi_russian.891"
+    },
+    {
+        "tag":"T",
+        "row":892,
+        "score":"[4, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.892"
+    },
+    {
+        "tag":"T",
+        "row":893,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.893"
+    },
+    {
+        "tag":"T",
+        "row":894,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.894"
+    },
+    {
+        "tag":"T",
+        "row":895,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.895"
+    },
+    {
+        "tag":"T",
+        "row":896,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.896"
+    },
+    {
+        "tag":"F",
+        "row":897,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.897"
+    },
+    {
+        "tag":"T",
+        "row":898,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.898"
+    },
+    {
+        "tag":"T",
+        "row":899,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.899"
+    },
+    {
+        "tag":"T",
+        "row":900,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.900"
+    },
+    {
+        "tag":"T",
+        "row":901,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.901"
+    },
+    {
+        "tag":"F",
+        "row":902,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.902"
+    },
+    {
+        "tag":"T",
+        "row":903,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.903"
+    },
+    {
+        "tag":"T",
+        "row":904,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.904"
+    },
+    {
+        "tag":"T",
+        "row":905,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.905"
+    },
+    {
+        "tag":"F",
+        "row":906,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.906"
+    },
+    {
+        "tag":"T",
+        "row":907,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.907"
+    },
+    {
+        "tag":"T",
+        "row":908,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.908"
+    },
+    {
+        "tag":"T",
+        "row":909,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.909"
+    },
+    {
+        "tag":"T",
+        "row":910,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.910"
+    },
+    {
+        "tag":"T",
+        "row":911,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.911"
+    },
+    {
+        "tag":"T",
+        "row":912,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_russian.912"
+    },
+    {
+        "tag":"T",
+        "row":913,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.913"
+    },
+    {
+        "tag":"T",
+        "row":914,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.914"
+    },
+    {
+        "tag":"T",
+        "row":915,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.915"
+    },
+    {
+        "tag":"T",
+        "row":916,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.916"
+    },
+    {
+        "tag":"F",
+        "row":917,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.917"
+    },
+    {
+        "tag":"T",
+        "row":918,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.918"
+    },
+    {
+        "tag":"T",
+        "row":919,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.919"
+    },
+    {
+        "tag":"T",
+        "row":920,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.920"
+    },
+    {
+        "tag":"T",
+        "row":921,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.921"
+    },
+    {
+        "tag":"T",
+        "row":922,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.922"
+    },
+    {
+        "tag":"T",
+        "row":923,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.923"
+    },
+    {
+        "tag":"T",
+        "row":924,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.924"
+    },
+    {
+        "tag":"T",
+        "row":925,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.925"
+    },
+    {
+        "tag":"T",
+        "row":926,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.926"
+    },
+    {
+        "tag":"T",
+        "row":927,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.927"
+    },
+    {
+        "tag":"T",
+        "row":928,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.928"
+    },
+    {
+        "tag":"T",
+        "row":929,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.929"
+    },
+    {
+        "tag":"T",
+        "row":930,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.930"
+    },
+    {
+        "tag":"T",
+        "row":931,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.931"
+    },
+    {
+        "tag":"T",
+        "row":932,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.932"
+    },
+    {
+        "tag":"T",
+        "row":933,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.933"
+    },
+    {
+        "tag":"F",
+        "row":934,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.934"
+    },
+    {
+        "tag":"T",
+        "row":935,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.935"
+    },
+    {
+        "tag":"F",
+        "row":936,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.936"
+    },
+    {
+        "tag":"T",
+        "row":937,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_russian.937"
+    },
+    {
+        "tag":"T",
+        "row":938,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.938"
+    },
+    {
+        "tag":"T",
+        "row":939,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.939"
+    },
+    {
+        "tag":"T",
+        "row":940,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.940"
+    },
+    {
+        "tag":"T",
+        "row":941,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.941"
+    },
+    {
+        "tag":"T",
+        "row":942,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.942"
+    },
+    {
+        "tag":"T",
+        "row":943,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.943"
+    },
+    {
+        "tag":"T",
+        "row":944,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.944"
+    },
+    {
+        "tag":"T",
+        "row":945,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.945"
+    },
+    {
+        "tag":"T",
+        "row":946,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.946"
+    },
+    {
+        "tag":"F",
+        "row":947,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.947"
+    },
+    {
+        "tag":"T",
+        "row":948,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.948"
+    },
+    {
+        "tag":"T",
+        "row":949,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.949"
+    },
+    {
+        "tag":"T",
+        "row":950,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.950"
+    },
+    {
+        "tag":"T",
+        "row":951,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.951"
+    },
+    {
+        "tag":"T",
+        "row":952,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.952"
+    },
+    {
+        "tag":"T",
+        "row":953,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.953"
+    },
+    {
+        "tag":"T",
+        "row":954,
+        "score":"[4, 4]",
+        "id":"dev.comedi_russian.954"
+    },
+    {
+        "tag":"T",
+        "row":955,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.955"
+    },
+    {
+        "tag":"T",
+        "row":956,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.956"
+    },
+    {
+        "tag":"T",
+        "row":957,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.957"
+    },
+    {
+        "tag":"T",
+        "row":958,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.958"
+    },
+    {
+        "tag":"F",
+        "row":959,
+        "score":"[2, 1, 1]",
+        "id":"dev.comedi_russian.959"
+    },
+    {
+        "tag":"T",
+        "row":960,
+        "score":"[4, 3, 3, 3, 4]",
+        "id":"dev.comedi_russian.960"
+    },
+    {
+        "tag":"T",
+        "row":961,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.961"
+    },
+    {
+        "tag":"T",
+        "row":962,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.962"
+    },
+    {
+        "tag":"T",
+        "row":963,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.963"
+    },
+    {
+        "tag":"T",
+        "row":964,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.964"
+    },
+    {
+        "tag":"T",
+        "row":965,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.965"
+    },
+    {
+        "tag":"T",
+        "row":966,
+        "score":"[4, 3, 4, 3, 3]",
+        "id":"dev.comedi_russian.966"
+    },
+    {
+        "tag":"T",
+        "row":967,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.967"
+    },
+    {
+        "tag":"T",
+        "row":968,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.968"
+    },
+    {
+        "tag":"T",
+        "row":969,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.969"
+    },
+    {
+        "tag":"T",
+        "row":970,
+        "score":"[4, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.970"
+    },
+    {
+        "tag":"T",
+        "row":971,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.971"
+    },
+    {
+        "tag":"T",
+        "row":972,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.972"
+    },
+    {
+        "tag":"T",
+        "row":973,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.973"
+    },
+    {
+        "tag":"T",
+        "row":974,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.974"
+    },
+    {
+        "tag":"T",
+        "row":975,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.975"
+    },
+    {
+        "tag":"T",
+        "row":976,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.976"
+    },
+    {
+        "tag":"F",
+        "row":977,
+        "score":"[2, 1, 1, 1, 1]",
+        "id":"dev.comedi_russian.977"
+    },
+    {
+        "tag":"T",
+        "row":978,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.978"
+    },
+    {
+        "tag":"T",
+        "row":979,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.979"
+    },
+    {
+        "tag":"T",
+        "row":980,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.980"
+    },
+    {
+        "tag":"T",
+        "row":981,
+        "score":"[4, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.981"
+    },
+    {
+        "tag":"T",
+        "row":982,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.982"
+    },
+    {
+        "tag":"T",
+        "row":983,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.983"
+    },
+    {
+        "tag":"T",
+        "row":984,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.984"
+    },
+    {
+        "tag":"T",
+        "row":985,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.985"
+    },
+    {
+        "tag":"T",
+        "row":986,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.986"
+    },
+    {
+        "tag":"T",
+        "row":987,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.987"
+    },
+    {
+        "tag":"T",
+        "row":988,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_russian.988"
+    },
+    {
+        "tag":"T",
+        "row":989,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.989"
+    },
+    {
+        "tag":"T",
+        "row":990,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.990"
+    },
+    {
+        "tag":"T",
+        "row":991,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.991"
+    },
+    {
+        "tag":"T",
+        "row":992,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.992"
+    },
+    {
+        "tag":"F",
+        "row":993,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.993"
+    },
+    {
+        "tag":"T",
+        "row":994,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.994"
+    },
+    {
+        "tag":"T",
+        "row":995,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.995"
+    },
+    {
+        "tag":"T",
+        "row":996,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_russian.996"
+    },
+    {
+        "tag":"T",
+        "row":997,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.997"
+    },
+    {
+        "tag":"T",
+        "row":998,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.998"
+    },
+    {
+        "tag":"T",
+        "row":999,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.999"
+    },
+    {
+        "tag":"T",
+        "row":1000,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.1000"
+    },
+    {
+        "tag":"T",
+        "row":1001,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.1001"
+    },
+    {
+        "tag":"T",
+        "row":1002,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1002"
+    },
+    {
+        "tag":"T",
+        "row":1003,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.1003"
+    },
+    {
+        "tag":"T",
+        "row":1004,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1004"
+    },
+    {
+        "tag":"T",
+        "row":1005,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1005"
+    },
+    {
+        "tag":"T",
+        "row":1006,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1006"
+    },
+    {
+        "tag":"T",
+        "row":1007,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1007"
+    },
+    {
+        "tag":"T",
+        "row":1008,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1008"
+    },
+    {
+        "tag":"T",
+        "row":1009,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.1009"
+    },
+    {
+        "tag":"T",
+        "row":1010,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.1010"
+    },
+    {
+        "tag":"T",
+        "row":1011,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1011"
+    },
+    {
+        "tag":"T",
+        "row":1012,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1012"
+    },
+    {
+        "tag":"T",
+        "row":1013,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1013"
+    },
+    {
+        "tag":"T",
+        "row":1014,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1014"
+    },
+    {
+        "tag":"F",
+        "row":1015,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.1015"
+    },
+    {
+        "tag":"T",
+        "row":1016,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1016"
+    },
+    {
+        "tag":"T",
+        "row":1017,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1017"
+    },
+    {
+        "tag":"T",
+        "row":1018,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.1018"
+    },
+    {
+        "tag":"T",
+        "row":1019,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1019"
+    },
+    {
+        "tag":"T",
+        "row":1020,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1020"
+    },
+    {
+        "tag":"F",
+        "row":1021,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.1021"
+    },
+    {
+        "tag":"T",
+        "row":1022,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.1022"
+    },
+    {
+        "tag":"F",
+        "row":1023,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.1023"
+    },
+    {
+        "tag":"T",
+        "row":1024,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1024"
+    },
+    {
+        "tag":"T",
+        "row":1025,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1025"
+    },
+    {
+        "tag":"T",
+        "row":1026,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1026"
+    },
+    {
+        "tag":"T",
+        "row":1027,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.1027"
+    },
+    {
+        "tag":"T",
+        "row":1028,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1028"
+    },
+    {
+        "tag":"T",
+        "row":1029,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1029"
+    },
+    {
+        "tag":"T",
+        "row":1030,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1030"
+    },
+    {
+        "tag":"T",
+        "row":1031,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1031"
+    },
+    {
+        "tag":"T",
+        "row":1032,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1032"
+    },
+    {
+        "tag":"F",
+        "row":1033,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.1033"
+    },
+    {
+        "tag":"F",
+        "row":1034,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.1034"
+    },
+    {
+        "tag":"T",
+        "row":1035,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.1035"
+    },
+    {
+        "tag":"T",
+        "row":1036,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1036"
+    },
+    {
+        "tag":"F",
+        "row":1037,
+        "score":"[2, 2, 2]",
+        "id":"dev.comedi_russian.1037"
+    },
+    {
+        "tag":"T",
+        "row":1038,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1038"
+    },
+    {
+        "tag":"T",
+        "row":1039,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.1039"
+    },
+    {
+        "tag":"T",
+        "row":1040,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1040"
+    },
+    {
+        "tag":"T",
+        "row":1041,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1041"
+    },
+    {
+        "tag":"T",
+        "row":1042,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.1042"
+    },
+    {
+        "tag":"T",
+        "row":1043,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1043"
+    },
+    {
+        "tag":"T",
+        "row":1044,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1044"
+    },
+    {
+        "tag":"T",
+        "row":1045,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.1045"
+    },
+    {
+        "tag":"T",
+        "row":1046,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1046"
+    },
+    {
+        "tag":"T",
+        "row":1047,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1047"
+    },
+    {
+        "tag":"T",
+        "row":1048,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.1048"
+    },
+    {
+        "tag":"T",
+        "row":1049,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1049"
+    },
+    {
+        "tag":"T",
+        "row":1050,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1050"
+    },
+    {
+        "tag":"T",
+        "row":1051,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1051"
+    },
+    {
+        "tag":"T",
+        "row":1052,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1052"
+    },
+    {
+        "tag":"T",
+        "row":1053,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.1053"
+    },
+    {
+        "tag":"T",
+        "row":1054,
+        "score":"[3, 4, 4, 4, 3]",
+        "id":"dev.comedi_russian.1054"
+    },
+    {
+        "tag":"T",
+        "row":1055,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1055"
+    },
+    {
+        "tag":"T",
+        "row":1056,
+        "score":"[3, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1056"
+    },
+    {
+        "tag":"T",
+        "row":1057,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1057"
+    },
+    {
+        "tag":"F",
+        "row":1058,
+        "score":"[1, 2, 1, 1, 1]",
+        "id":"dev.comedi_russian.1058"
+    },
+    {
+        "tag":"T",
+        "row":1059,
+        "score":"[4, 4, 3, 3, 4]",
+        "id":"dev.comedi_russian.1059"
+    },
+    {
+        "tag":"T",
+        "row":1060,
+        "score":"[3, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.1060"
+    },
+    {
+        "tag":"T",
+        "row":1061,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1061"
+    },
+    {
+        "tag":"T",
+        "row":1062,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1062"
+    },
+    {
+        "tag":"T",
+        "row":1063,
+        "score":"[4, 3, 4, 3, 4]",
+        "id":"dev.comedi_russian.1063"
+    },
+    {
+        "tag":"T",
+        "row":1064,
+        "score":"[3, 4, 4, 3, 4]",
+        "id":"dev.comedi_russian.1064"
+    },
+    {
+        "tag":"T",
+        "row":1065,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1065"
+    },
+    {
+        "tag":"T",
+        "row":1066,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1066"
+    },
+    {
+        "tag":"T",
+        "row":1067,
+        "score":"[4, 3, 3, 3, 3]",
+        "id":"dev.comedi_russian.1067"
+    },
+    {
+        "tag":"T",
+        "row":1068,
+        "score":"[3, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.1068"
+    },
+    {
+        "tag":"T",
+        "row":1069,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1069"
+    },
+    {
+        "tag":"T",
+        "row":1070,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1070"
+    },
+    {
+        "tag":"T",
+        "row":1071,
+        "score":"[3, 4, 3, 4, 4]",
+        "id":"dev.comedi_russian.1071"
+    },
+    {
+        "tag":"T",
+        "row":1072,
+        "score":"[4, 3, 4, 4, 4]",
+        "id":"dev.comedi_russian.1072"
+    },
+    {
+        "tag":"T",
+        "row":1073,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1073"
+    },
+    {
+        "tag":"T",
+        "row":1074,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1074"
+    },
+    {
+        "tag":"T",
+        "row":1075,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1075"
+    },
+    {
+        "tag":"T",
+        "row":1076,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1076"
+    },
+    {
+        "tag":"T",
+        "row":1077,
+        "score":"[4, 4, 4, 4, 4]",
+        "id":"dev.comedi_russian.1077"
+    },
+    {
+        "tag":"F",
+        "row":1078,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.1078"
+    },
+    {
+        "tag":"T",
+        "row":1079,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1079"
+    },
+    {
+        "tag":"T",
+        "row":1080,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.1080"
+    },
+    {
+        "tag":"T",
+        "row":1081,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1081"
+    },
+    {
+        "tag":"T",
+        "row":1082,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1082"
+    },
+    {
+        "tag":"F",
+        "row":1083,
+        "score":"[2, 2, 1]",
+        "id":"dev.comedi_russian.1083"
+    },
+    {
+        "tag":"T",
+        "row":1084,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.1084"
+    },
+    {
+        "tag":"T",
+        "row":1085,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1085"
+    },
+    {
+        "tag":"T",
+        "row":1086,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1086"
+    },
+    {
+        "tag":"F",
+        "row":1087,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.1087"
+    },
+    {
+        "tag":"T",
+        "row":1088,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1088"
+    },
+    {
+        "tag":"F",
+        "row":1089,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.1089"
+    },
+    {
+        "tag":"T",
+        "row":1090,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1090"
+    },
+    {
+        "tag":"T",
+        "row":1091,
+        "score":"[4, 3, 3]",
+        "id":"dev.comedi_russian.1091"
+    },
+    {
+        "tag":"T",
+        "row":1092,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.1092"
+    },
+    {
+        "tag":"T",
+        "row":1093,
+        "score":"[4, 4, 3]",
+        "id":"dev.comedi_russian.1093"
+    },
+    {
+        "tag":"T",
+        "row":1094,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.1094"
+    },
+    {
+        "tag":"F",
+        "row":1095,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_russian.1095"
+    },
+    {
+        "tag":"T",
+        "row":1096,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.1096"
+    },
+    {
+        "tag":"T",
+        "row":1097,
+        "score":"[3, 3, 3]",
+        "id":"dev.comedi_russian.1097"
+    },
+    {
+        "tag":"F",
+        "row":1098,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.1098"
+    },
+    {
+        "tag":"T",
+        "row":1099,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1099"
+    },
+    {
+        "tag":"T",
+        "row":1100,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_russian.1100"
+    },
+    {
+        "tag":"F",
+        "row":1101,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.1101"
+    },
+    {
+        "tag":"T",
+        "row":1102,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.1102"
+    },
+    {
+        "tag":"F",
+        "row":1103,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.1103"
+    },
+    {
+        "tag":"T",
+        "row":1104,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1104"
+    },
+    {
+        "tag":"T",
+        "row":1105,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1105"
+    },
+    {
+        "tag":"T",
+        "row":1106,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1106"
+    },
+    {
+        "tag":"T",
+        "row":1107,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1107"
+    },
+    {
+        "tag":"T",
+        "row":1108,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1108"
+    },
+    {
+        "tag":"T",
+        "row":1109,
+        "score":"[3, 2, 3]",
+        "id":"dev.comedi_russian.1109"
+    },
+    {
+        "tag":"F",
+        "row":1110,
+        "score":"[1, 2, 1]",
+        "id":"dev.comedi_russian.1110"
+    },
+    {
+        "tag":"F",
+        "row":1111,
+        "score":"[1, 1, 2]",
+        "id":"dev.comedi_russian.1111"
+    },
+    {
+        "tag":"T",
+        "row":1112,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1112"
+    },
+    {
+        "tag":"T",
+        "row":1113,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1113"
+    },
+    {
+        "tag":"T",
+        "row":1114,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1114"
+    },
+    {
+        "tag":"T",
+        "row":1115,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1115"
+    },
+    {
+        "tag":"T",
+        "row":1116,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.1116"
+    },
+    {
+        "tag":"F",
+        "row":1117,
+        "score":"[1, 1, 1]",
+        "id":"dev.comedi_russian.1117"
+    },
+    {
+        "tag":"T",
+        "row":1118,
+        "score":"[3, 3, 3]",
+        "id":"dev.comedi_russian.1118"
+    },
+    {
+        "tag":"T",
+        "row":1119,
+        "score":"[4, 4, 4]",
+        "id":"dev.comedi_russian.1119"
+    },
+    {
+        "tag":"T",
+        "row":1120,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.1120"
+    },
+    {
+        "tag":"T",
+        "row":1121,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.1121"
+    },
+    {
+        "tag":"T",
+        "row":1122,
+        "score":"[4, 3, 4]",
+        "id":"dev.comedi_russian.1122"
+    },
+    {
+        "tag":"T",
+        "row":1123,
+        "score":"[3, 4, 3]",
+        "id":"dev.comedi_russian.1123"
+    },
+    {
+        "tag":"T",
+        "row":1124,
+        "score":"[3, 3, 4]",
+        "id":"dev.comedi_russian.1124"
+    },
+    {
+        "tag":"T",
+        "row":1125,
+        "score":"[3, 4, 4]",
+        "id":"dev.comedi_russian.1125"
+    }
+]
